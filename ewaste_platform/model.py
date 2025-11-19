@@ -2,6 +2,8 @@ import pandas as pd
 import numpy as np
 import os
 import joblib
+import matplotlib.pyplot as plt
+import seaborn as sns
 from sklearn.discriminant_analysis import StandardScaler
 from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestRegressor
@@ -75,6 +77,31 @@ print(f"Model Performance on Test Set:")
 print(f"RMSE: {rmse:.2f}")
 print(f"R-squared: {r2:.2f}")
 
-# Save the trained model
+
+# Chart 1: Actual vs. Predicted Scatter Plot (Visualizes R-squared)
+plt.figure(figsize=(10, 6))
+sns.scatterplot(x=y_test, y=y_pred, alpha=0.6)
+# Draw a red diagonal line representing perfect predictions
+plt.plot([y_test.min(), y_test.max()], [y_test.min(), y_test.max()], 'r--', lw=2)
+plt.xlabel('Actual E-Waste (kg)')
+plt.ylabel('Predicted E-Waste (kg)')
+plt.title(f'Actual vs Predicted E-Waste\nR-squared: {r2:.2f}')
+plt.tight_layout()
+plt.show()  # This will pop up the window with the graph
+
+# Chart 2: Residuals Distribution (Visualizes RMSE/Error)
+residuals = y_test - y_pred
+plt.figure(figsize=(10, 6))
+sns.histplot(residuals, kde=True)
+plt.xlabel('Prediction Error (kg)')
+plt.ylabel('Frequency')
+plt.title(f'Distribution of Residuals (RMSE: {rmse:.2f})')
+plt.axvline(x=0, color='r', linestyle='--') # Line at 0 error
+plt.tight_layout()
+plt.show()
+
+# ------------------------------------
+
+# Save the trained model (Existing code)
 joblib.dump(model_pipeline, 'models/ewaste_predictor.joblib')
 print("Model saved to models/ewaste_predictor.joblib")
