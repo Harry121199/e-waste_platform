@@ -1,0 +1,63 @@
+{% extends "layout.html" %}
+{% block content %}
+    <h2>Recycling Traceability</h2>
+    <p>Upload an image of your e-waste to identify it and start the recycling journey. Our AI model, based on research into e-waste classification, will identify the item and provide a tracking ID.</p>
+    
+    <form onsubmit="return trackDevice(event)">
+        <label for="e-waste-image">Upload Image:</label>
+        <input type="file" id="e-waste-image" name="e-waste-image" accept="image/*" class="form-control mb-3">
+        <button type="submit" class="btn btn-primary">Identify & Track</button>
+    </form>
+
+    <div id="tracking-status" class="result" style="display:none; margin-top: 20px; padding: 15px; border: 1px solid #ddd; border-radius: 5px;">
+        <h3 id="item-name"></h3>
+        <p id="status-text"></p>
+        <p id="hazard-info" style="font-style: italic; color: #555;"></p>
+    </div>
+
+    <script>
+        function trackDevice(event) {
+            event.preventDefault();
+            const fileInput = document.getElementById('e-waste-image');
+            if (fileInput.files.length === 0) {
+                alert("Please upload an image first.");
+                return false;
+            }
+
+            const statusDiv = document.getElementById('tracking-status');
+            const itemName = document.getElementById('item-name');
+            const statusText = document.getElementById('status-text');
+            const hazardInfo = document.getElementById('hazard-info');
+            
+            // Mock AI identification and tracking for demonstration
+            const items = [
+                { name: 'Smartphone', hazard: 'Contains lithium-ion batteries (fire risk), lead, and mercury.' },
+                { name: 'Laptop', hazard: 'Contains batteries, lead, cadmium, and brominated flame retardants.' },
+                { name: 'CRT Monitor', hazard: 'High concentration of lead in the glass, plus cadmium.' },
+                { name: 'Printer', hazard: 'Toner dust can be a respiratory irritant; contains various plastics and metals.' },
+                { name: 'Keyboard', hazard: 'Contains brominated flame retardants in the plastic casing.' },
+                { name: 'Refrigerator', hazard: 'Contains hazardous coolants (CFCs/HFCs) and insulating foam.' }
+            ];
+            
+            const statuses = [
+                'Awaiting pickup from collection point.',
+                'In transit to sorting facility.',
+                'Received at sorting facility. Awaiting dismantling.',
+                'Dismantled. Precious metals recovery in progress.',
+                'Hazardous materials safely removed and neutralized.',
+                'Recycling complete. Materials sent for reuse in manufacturing.'
+            ];
+            
+            const randomItem = items[Math.floor(Math.random() * items.length)];
+            const randomStatus = statuses[Math.floor(Math.random() * statuses.length)];
+            const trackingId = "EW-" + Math.random().toString(36).substr(2, 9).toUpperCase();
+
+            itemName.textContent = `Item Identified: ${randomItem.name}`;
+            hazardInfo.innerHTML = `<strong>Hazard Info:</strong> ${randomItem.hazard}`;
+            statusText.innerHTML = `<strong>Tracking ID ${trackingId}:</strong> ${randomStatus}`;
+            statusDiv.style.display = 'block';
+            
+            return false;
+        }
+    </script>
+{% endblock %}

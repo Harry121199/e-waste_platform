@@ -1,0 +1,44 @@
+{% extends "layout.html" %}
+{% block content %}
+    <h2>E-Waste Awareness Hub</h2>
+    <p>Electronic waste is one of the world's fastest-growing waste streams. In India, over 70-80% is handled by the informal sector, releasing toxic chemicals into our environment. This platform is designed to help understand and combat this challenge.</p>
+    
+    <div class="chart-container">
+        <div id="chart1" class="chart"></div>
+        <div id="chart2" class="chart"></div>
+    </div>
+
+    <h3>Why is E-Waste Hazardous?</h3>
+    <p>E-waste contains toxic substances like lead, mercury, and cadmium. When disposed of improperly, these toxins can leach into soil and groundwater, posing severe risks to human health and the environment.</p>
+
+    <h3>Test Your Awareness!</h3>
+    <form id="quiz-form">
+        <p><b>Question:</b> Which of the following is the best way to dispose of an old mobile phone?</p>
+        <input type="radio" name="q1" value="a"> Throw it in the regular trash<br>
+        <input type="radio" name="q1" value="b"> Give it to a formal, certified recycler<br>
+        <input type="radio" name="q1" value="c"> Store it indefinitely in a drawer<br>
+        <button type="button" onclick="checkAnswer()">Submit Answer</button>
+    </form>
+    <p id="quiz-result"></p>
+
+    <script>
+        const chart1Data = JSON.parse('{{ chart1_json | safe }}');
+        const chart2Data = JSON.parse('{{ chart2_json | safe }}');
+
+        // Render charts
+        Plotly.newPlot('chart1', chart1Data.data, chart1Data.layout);
+        Plotly.newPlot('chart2', chart2Data.data, chart2Data.layout);
+
+        function checkAnswer() {
+            var result = document.getElementById('quiz-result');
+            var selected = document.querySelector('input[name="q1"]:checked');
+            if (selected && selected.value === 'b') {
+                result.innerHTML = "Correct! Formal recyclers ensure that hazardous materials are handled safely.";
+                result.style.color = 'green';
+            } else {
+                result.innerHTML = "Not quite. The best option is a formal recycler to prevent environmental harm.";
+                result.style.color = 'red';
+            }
+        }
+    </script>
+{% endblock %}

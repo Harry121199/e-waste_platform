@@ -1,0 +1,2001 @@
+state,locality_type,household_size,income_bracket,e-literacy_level,total_devices_owned,avg_device_age_years,broken_devices_stored,upgrade_tendency,disposal_method,recycling_awareness,ewaste_kg_per_year
+Punjab,Urban,5,Low,Basic,11,5.3,0,Low,Formal E-Waste Collection,Low,1.25
+Delhi,Urban,4,Middle,Basic,11,5.1,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,1.87
+Gujarat,Rural,6,Low,Basic,6,6.8,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.54
+Rajasthan,Urban,5,Low,Basic,7,7.0,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.65
+Odisha,Rural,5,Upper-Middle,Basic,9,5.3,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.31
+Tamil Nadu,Urban,6,Middle,Basic,11,5.0,1,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,1.68
+Kerala,Urban,8,Low,Basic,11,5.2,2,Low,Stored Indefinitely,Low,0.0
+Delhi,Rural,8,Low,Basic,4,7.2,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Delhi,Rural,5,Middle,Basic,5,5.2,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.56
+Madhya Pradesh,Urban,6,Middle,Intermediate,14,4.9,1,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,2.66
+Punjab,Urban,4,High,Advanced,31,2.8,1,High,Gave away for reuse,High,18.2
+Andhra Pradesh,Rural,4,High,Basic,27,4.2,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,6.71
+Gujarat,Urban,4,High,Advanced,19,1.9,0,High,Formal E-Waste Collection,High,17.53
+Odisha,Urban,4,Upper-Middle,Intermediate,17,3.1,0,Medium,Formal E-Waste Collection,Medium,5.57
+Rajasthan,Urban,7,Low,Basic,11,5.8,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Delhi,Urban,5,Middle,Intermediate,15,3.6,0,Medium,Sold to Kabadiwala/Scrap Dealer,High,4.12
+Haryana,Urban,8,Low,Basic,8,6.0,3,Low,Thrown in General Trash,Low,0.0
+Jharkhand,Urban,8,Low,Basic,9,7.1,3,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Andhra Pradesh,Rural,3,Upper-Middle,Basic,15,4.8,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,3.4
+Odisha,Rural,3,Upper-Middle,Basic,9,4.5,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,1.36
+Haryana,Rural,5,Low,Basic,4,6.8,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.45
+Karnataka,Rural,5,Upper-Middle,Basic,12,4.1,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,3.4
+Andhra Pradesh,Urban,4,Middle,Advanced,10,4.8,0,Medium,Formal E-Waste Collection,Medium,2.06
+Telangana,Rural,6,Low,Basic,4,9.5,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Telangana,Rural,6,Low,Basic,4,6.8,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.34
+Andhra Pradesh,Urban,4,Upper-Middle,Advanced,18,3.0,1,Medium,Formal E-Waste Collection,Medium,4.74
+Telangana,Rural,6,Low,Basic,4,8.5,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.26
+Delhi,Urban,4,Upper-Middle,Intermediate,13,3.1,0,High,Sold to Kabadiwala/Scrap Dealer,Medium,7.57
+Telangana,Urban,6,Middle,Basic,14,4.1,2,Medium,Thrown in General Trash,Low,1.91
+Rajasthan,Urban,4,Middle,Basic,15,5.3,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,3.8
+Maharashtra,Rural,4,Upper-Middle,Basic,10,5.0,0,Low,Thrown in General Trash,Low,1.29
+Maharashtra,Urban,6,Low,Basic,6,6.2,0,Low,Gave away for reuse,Low,0.77
+Maharashtra,Urban,5,Low,Basic,5,7.2,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.4
+Gujarat,Urban,4,Middle,Basic,13,4.1,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,3.28
+Karnataka,Urban,8,Low,Basic,9,7.6,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Gujarat,Rural,4,Middle,Basic,5,6.3,1,Low,Gave away for reuse,Low,0.0
+Rajasthan,Urban,4,Upper-Middle,Intermediate,14,2.9,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,6.61
+Uttar Pradesh,Rural,5,Low,Basic,8,9.4,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.63
+Tamil Nadu,Urban,5,Middle,Basic,15,4.3,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,3.28
+Jharkhand,Urban,7,Low,Basic,5,5.0,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.65
+Gujarat,Urban,5,Middle,Intermediate,15,4.8,0,Medium,Stored Indefinitely,Low,0.0
+Rajasthan,Urban,5,Upper-Middle,Intermediate,19,3.4,0,Medium,Sold to Kabadiwala/Scrap Dealer,High,6.85
+Madhya Pradesh,Rural,4,Middle,Basic,12,5.8,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.62
+Jharkhand,Rural,8,Low,Basic,4,7.2,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Jharkhand,Urban,7,Low,Basic,5,5.8,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.44
+Andhra Pradesh,Rural,4,Middle,Basic,8,6.4,1,Low,Gave away for reuse,Low,0.03
+Tamil Nadu,Urban,4,Middle,Basic,10,3.8,1,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,1.98
+Karnataka,Urban,7,Low,Basic,7,6.4,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Tamil Nadu,Urban,5,Middle,Intermediate,10,5.4,1,Medium,Thrown in General Trash,Low,0.79
+Karnataka,Urban,8,Low,Basic,10,7.9,0,Low,Thrown in General Trash,Low,0.92
+Tamil Nadu,Rural,6,Middle,Basic,8,5.8,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.1
+Delhi,Urban,5,Middle,Advanced,9,4.7,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,1.78
+Uttar Pradesh,Rural,6,Low,Basic,4,6.6,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Tamil Nadu,Rural,5,Middle,Basic,4,7.0,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.41
+Haryana,Urban,6,Middle,Basic,8,3.6,1,Medium,Stored Indefinitely,Low,0.0
+Jharkhand,Rural,8,Low,Basic,5,8.5,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.35
+Madhya Pradesh,Rural,6,Low,Basic,5,6.7,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Kerala,Urban,6,Middle,Basic,15,5.1,0,Medium,Sold to Kabadiwala/Scrap Dealer,High,3.64
+Andhra Pradesh,Rural,6,Low,Basic,4,8.6,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Odisha,Rural,6,Middle,Basic,9,6.5,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.08
+Punjab,Urban,7,Low,Basic,6,7.0,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Delhi,Urban,5,Low,Basic,8,7.1,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Madhya Pradesh,Rural,8,Low,Basic,5,8.0,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.47
+Jharkhand,Urban,4,Middle,Intermediate,12,4.4,1,Medium,Formal E-Waste Collection,Medium,2.06
+Uttar Pradesh,Rural,7,Low,Basic,5,8.8,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Karnataka,Urban,6,Middle,Intermediate,12,5.3,0,Medium,Thrown in General Trash,Medium,2.64
+Kerala,Urban,6,Middle,Advanced,11,3.9,2,Medium,Sold to Kabadiwala/Scrap Dealer,Low,1.75
+Telangana,Rural,3,Upper-Middle,Basic,16,4.5,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,3.25
+Telangana,Rural,6,Middle,Basic,7,6.7,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Delhi,Urban,7,Low,Basic,6,5.7,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Gujarat,Urban,3,Upper-Middle,Basic,15,2.6,0,High,Sold to Kabadiwala/Scrap Dealer,High,11.8
+Tamil Nadu,Rural,3,Upper-Middle,Basic,10,4.2,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,1.52
+Telangana,Urban,6,Low,Basic,6,6.8,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Jharkhand,Rural,6,Low,Basic,5,7.7,1,Low,Stored Indefinitely,Low,0.0
+Uttar Pradesh,Urban,6,Low,Basic,11,5.3,2,Low,Thrown in General Trash,Low,0.0
+Bihar,Urban,7,Low,Basic,8,7.6,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.8
+Bihar,Urban,6,Low,Basic,8,5.9,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.09
+Andhra Pradesh,Rural,4,Middle,Basic,9,5.1,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.39
+Rajasthan,Urban,6,Middle,Intermediate,14,4.9,1,Medium,Gave away for reuse,Medium,2.13
+Tamil Nadu,Urban,5,Middle,Advanced,15,4.9,1,Medium,Gave away for reuse,High,2.0
+Punjab,Rural,5,Low,Basic,4,7.7,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Gujarat,Urban,6,Low,Basic,5,7.7,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Haryana,Rural,4,Middle,Basic,6,6.9,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Jharkhand,Rural,8,Low,Basic,6,9.4,0,Low,Thrown in General Trash,Low,0.48
+Tamil Nadu,Rural,4,High,Basic,19,3.6,1,Medium,Thrown in General Trash,Low,4.65
+West Bengal,Rural,5,Low,Basic,5,8.4,1,Low,Formal E-Waste Collection,Low,0.0
+Rajasthan,Urban,4,Middle,Intermediate,10,5.1,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,1.43
+Odisha,Urban,7,Low,Basic,5,6.5,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.47
+Gujarat,Urban,4,Middle,Intermediate,14,4.7,0,Medium,Gave away for reuse,Low,3.41
+Delhi,Urban,5,Low,Basic,7,7.6,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.76
+Gujarat,Urban,4,Middle,Advanced,11,3.9,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,2.64
+Rajasthan,Urban,4,Middle,Advanced,9,4.8,0,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,2.51
+Gujarat,Rural,6,Low,Basic,5,8.7,2,Low,Formal E-Waste Collection,Low,0.0
+Maharashtra,Urban,6,Low,Basic,10,6.6,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Jharkhand,Urban,6,Middle,Basic,13,4.3,2,Medium,Sold to Kabadiwala/Scrap Dealer,Low,2.09
+Uttar Pradesh,Urban,8,Low,Basic,7,6.5,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Karnataka,Urban,8,Low,Basic,8,7.8,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.71
+Gujarat,Urban,7,Low,Basic,5,7.1,1,Low,Stored Indefinitely,Low,0.0
+Bihar,Rural,5,Low,Basic,5,7.9,0,Low,Thrown in General Trash,Low,0.4
+Haryana,Urban,5,Low,Basic,8,6.6,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.01
+Delhi,Rural,5,Middle,Basic,4,6.1,0,Low,Formal E-Waste Collection,Low,0.45
+Bihar,Urban,6,Middle,Basic,10,4.4,2,Medium,Sold to Kabadiwala/Scrap Dealer,Low,0.7
+Telangana,Urban,8,Low,Basic,9,6.2,3,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Karnataka,Rural,4,Upper-Middle,Basic,11,5.5,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,1.29
+Gujarat,Rural,6,Middle,Basic,4,6.6,0,Low,Thrown in General Trash,Low,0.35
+West Bengal,Rural,6,Low,Basic,4,6.8,1,Low,Formal E-Waste Collection,Low,0.0
+Maharashtra,Urban,8,Low,Basic,8,7.9,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.74
+Tamil Nadu,Urban,6,Middle,Intermediate,15,3.6,1,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,4.2
+Tamil Nadu,Rural,5,Upper-Middle,Basic,16,4.6,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,2.59
+Madhya Pradesh,Urban,6,Middle,Basic,9,3.6,1,Medium,Sold to Kabadiwala/Scrap Dealer,High,2.03
+Jharkhand,Urban,7,Low,Basic,9,6.4,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.92
+Kerala,Urban,8,Low,Basic,7,7.0,3,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Kerala,Urban,8,Low,Basic,5,5.6,0,Low,Thrown in General Trash,Low,0.66
+Punjab,Urban,4,Middle,Intermediate,10,4.9,0,Medium,Formal E-Waste Collection,Medium,1.74
+Odisha,Urban,4,Middle,Basic,13,5.4,0,Medium,Thrown in General Trash,Medium,2.32
+Punjab,Urban,5,Upper-Middle,Advanced,17,2.7,0,High,Formal E-Waste Collection,High,11.24
+Karnataka,Urban,7,Low,Basic,8,7.2,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.62
+Kerala,Rural,6,Low,Basic,6,7.3,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.5
+Punjab,Urban,6,Low,Basic,6,6.8,0,Low,Stored Indefinitely,Low,0.0
+Jharkhand,Rural,6,Middle,Basic,8,5.2,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,1.0
+Haryana,Rural,5,Low,Basic,4,8.3,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Uttar Pradesh,Urban,6,Middle,Basic,8,3.8,1,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,1.37
+Andhra Pradesh,Urban,4,Middle,Advanced,9,3.9,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,1.7
+Bihar,Rural,7,Low,Basic,4,7.3,2,Low,Formal E-Waste Collection,Low,0.0
+Tamil Nadu,Urban,5,Low,Basic,11,6.1,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,1.3
+Maharashtra,Urban,6,Low,Basic,10,7.2,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.87
+Haryana,Rural,6,Low,Basic,4,8.3,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.26
+Rajasthan,Urban,7,Low,Basic,6,7.5,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.57
+Odisha,Rural,8,Low,Basic,5,7.3,3,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Madhya Pradesh,Urban,6,Middle,Basic,11,4.7,0,Medium,Gave away for reuse,Low,1.66
+Madhya Pradesh,Urban,2,High,Advanced,26,3.0,0,High,Formal E-Waste Collection,Medium,16.87
+West Bengal,Urban,5,Middle,Basic,14,5.5,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,1.98
+Andhra Pradesh,Urban,4,Upper-Middle,Intermediate,12,3.0,1,Medium,Sold to Kabadiwala/Scrap Dealer,High,3.13
+Jharkhand,Urban,4,Middle,Intermediate,11,4.1,1,Medium,Thrown in General Trash,Low,1.94
+Madhya Pradesh,Urban,3,High,Advanced,23,2.3,0,High,Sold to Kabadiwala/Scrap Dealer,High,14.94
+Kerala,Urban,6,Low,Basic,7,6.6,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.66
+Haryana,Urban,3,Upper-Middle,Intermediate,19,3.6,0,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,6.09
+Haryana,Rural,4,Middle,Basic,4,6.0,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.4
+Karnataka,Rural,6,Low,Basic,4,6.8,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Delhi,Rural,4,Middle,Basic,6,5.1,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.81
+Punjab,Urban,2,High,Advanced,25,2.2,0,High,Sold to Kabadiwala/Scrap Dealer,Medium,20.4
+Madhya Pradesh,Rural,2,High,Basic,24,3.8,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,7.38
+Rajasthan,Rural,3,Upper-Middle,Basic,9,4.8,0,Low,Formal E-Waste Collection,Low,1.18
+Delhi,Urban,8,Low,Basic,6,5.6,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Maharashtra,Rural,6,Middle,Basic,4,6.8,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Delhi,Urban,6,Low,Basic,5,7.8,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Tamil Nadu,Rural,8,Low,Basic,4,9.4,3,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Gujarat,Urban,7,Low,Basic,11,5.2,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,1.06
+Uttar Pradesh,Urban,4,Middle,Advanced,10,5.4,0,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,1.93
+Gujarat,Rural,8,Low,Basic,4,9.2,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Maharashtra,Rural,6,Middle,Basic,10,5.1,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,1.07
+Kerala,Urban,5,Low,Basic,5,5.2,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.44
+Punjab,Urban,5,Low,Basic,6,7.9,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Haryana,Urban,5,Upper-Middle,Intermediate,17,4.0,1,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,3.72
+West Bengal,Rural,4,Middle,Basic,12,5.0,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,1.69
+Haryana,Rural,5,Middle,Basic,7,6.0,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.89
+Andhra Pradesh,Urban,8,Low,Basic,11,7.4,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Karnataka,Urban,5,Low,Basic,8,6.9,1,Low,Thrown in General Trash,Low,0.0
+Karnataka,Urban,5,Middle,Intermediate,15,4.7,0,Medium,Sold to Kabadiwala/Scrap Dealer,High,3.15
+Kerala,Urban,8,Low,Basic,9,7.4,3,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Karnataka,Urban,7,Low,Basic,6,6.0,0,Low,Formal E-Waste Collection,Low,0.69
+Madhya Pradesh,Rural,6,Middle,Basic,4,6.4,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Tamil Nadu,Rural,6,Middle,Basic,7,5.4,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.06
+West Bengal,Urban,5,Middle,Intermediate,10,5.3,0,Medium,Formal E-Waste Collection,Medium,2.24
+Delhi,Rural,6,Middle,Basic,11,6.0,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Telangana,Urban,4,Middle,Intermediate,13,4.1,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,3.14
+Tamil Nadu,Rural,3,Upper-Middle,Basic,8,5.1,0,Low,Gave away for reuse,Low,0.89
+Karnataka,Urban,6,Middle,Intermediate,14,3.6,1,Medium,Gave away for reuse,Low,4.28
+Odisha,Rural,5,Upper-Middle,Basic,10,4.4,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.61
+Rajasthan,Urban,4,Middle,Basic,15,3.9,1,Medium,Gave away for reuse,Medium,3.42
+Punjab,Urban,5,Low,Basic,11,6.9,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.91
+Andhra Pradesh,Rural,7,Low,Basic,4,8.7,1,Low,Stored Indefinitely,Low,0.0
+Bihar,Rural,3,Upper-Middle,Basic,12,4.6,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,1.24
+Bihar,Urban,5,Upper-Middle,Intermediate,18,3.8,0,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,4.7
+Delhi,Urban,4,Middle,Advanced,8,4.7,1,Medium,Thrown in General Trash,Medium,1.3
+Andhra Pradesh,Urban,8,Low,Basic,7,5.6,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.82
+Maharashtra,Urban,4,High,Advanced,31,2.4,1,High,Formal E-Waste Collection,High,24.62
+Haryana,Urban,8,Low,Basic,10,5.5,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.43
+Odisha,Urban,5,Middle,Intermediate,10,5.4,0,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,2.08
+Uttar Pradesh,Urban,5,Middle,Basic,15,5.4,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,3.24
+West Bengal,Urban,6,Middle,Intermediate,14,3.9,1,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,3.23
+Madhya Pradesh,Urban,7,Low,Basic,8,5.1,2,Low,Thrown in General Trash,Low,0.0
+Odisha,Urban,6,Low,Basic,10,6.8,0,Low,Stored Indefinitely,Low,0.0
+Odisha,Urban,3,Upper-Middle,Intermediate,14,3.6,0,Medium,Sold to Kabadiwala/Scrap Dealer,High,4.15
+Punjab,Urban,5,Upper-Middle,Intermediate,15,3.4,1,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,4.68
+Jharkhand,Urban,3,Upper-Middle,Intermediate,19,3.3,0,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,5.74
+Punjab,Rural,7,Low,Basic,4,8.1,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.29
+Rajasthan,Urban,7,Low,Basic,8,6.5,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.02
+Uttar Pradesh,Urban,3,Upper-Middle,Intermediate,15,2.7,0,High,Sold to Kabadiwala/Scrap Dealer,Medium,10.68
+Bihar,Urban,4,Upper-Middle,Intermediate,19,4.0,1,Medium,Thrown in General Trash,Low,4.8
+Karnataka,Urban,7,Low,Basic,8,5.8,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Haryana,Urban,6,Low,Basic,11,7.1,2,Low,Thrown in General Trash,Low,0.0
+Telangana,Urban,5,Middle,Intermediate,9,5.2,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,1.95
+Jharkhand,Urban,5,Upper-Middle,Advanced,21,3.4,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,5.77
+Karnataka,Rural,6,Low,Basic,4,6.5,1,Low,Thrown in General Trash,Low,0.0
+Bihar,Rural,3,Upper-Middle,Basic,11,4.1,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,3.22
+Madhya Pradesh,Rural,6,Low,Basic,6,9.1,1,Low,Stored Indefinitely,Low,0.0
+West Bengal,Urban,3,Upper-Middle,Intermediate,13,3.4,0,Medium,Thrown in General Trash,Low,3.85
+Karnataka,Urban,5,Low,Basic,10,7.5,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.79
+Andhra Pradesh,Urban,6,Middle,Intermediate,14,3.5,2,Medium,Sold to Kabadiwala/Scrap Dealer,High,2.49
+Kerala,Urban,8,Low,Basic,11,7.8,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.95
+Haryana,Urban,6,Middle,Intermediate,8,4.3,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,2.58
+West Bengal,Rural,5,Middle,Basic,9,6.7,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.08
+Delhi,Urban,6,Low,Basic,9,7.5,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Punjab,Rural,4,High,Basic,23,3.1,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,7.23
+Odisha,Rural,5,Middle,Basic,10,5.6,1,Low,Formal E-Waste Collection,Low,0.4
+Delhi,Urban,2,High,Advanced,29,1.7,0,High,Sold to Kabadiwala/Scrap Dealer,High,26.84
+Andhra Pradesh,Rural,4,Middle,Basic,9,5.0,1,Low,Formal E-Waste Collection,Low,0.29
+Uttar Pradesh,Rural,4,Upper-Middle,Basic,8,5.2,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,1.7
+Karnataka,Rural,4,High,Basic,29,4.2,1,Medium,Formal E-Waste Collection,Low,6.22
+Telangana,Urban,7,Low,Basic,7,7.6,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.62
+Gujarat,Rural,8,Low,Basic,4,9.3,3,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Maharashtra,Urban,5,Upper-Middle,Intermediate,17,3.0,0,High,Formal E-Waste Collection,Medium,8.59
+Rajasthan,Urban,8,Low,Basic,6,6.8,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.52
+Haryana,Urban,6,Low,Basic,9,7.5,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.98
+Rajasthan,Rural,5,Middle,Basic,10,5.1,0,Low,Gave away for reuse,Low,1.29
+Karnataka,Rural,4,Middle,Basic,4,5.7,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Uttar Pradesh,Rural,5,Low,Basic,4,9.4,0,Low,Gave away for reuse,Low,0.25
+Uttar Pradesh,Urban,3,High,Advanced,34,2.2,0,High,Sold to Kabadiwala/Scrap Dealer,High,27.82
+Tamil Nadu,Urban,3,Upper-Middle,Intermediate,18,2.7,0,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,6.19
+Kerala,Rural,4,Middle,Basic,4,5.4,0,Low,Thrown in General Trash,Low,0.36
+Karnataka,Urban,6,Middle,Intermediate,12,3.6,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,2.45
+Maharashtra,Urban,5,Middle,Advanced,8,5.2,1,Medium,Formal E-Waste Collection,Medium,0.97
+Telangana,Urban,6,Middle,Intermediate,9,4.3,0,Medium,Formal E-Waste Collection,Medium,1.74
+Bihar,Urban,6,Middle,Intermediate,12,3.6,2,Medium,Sold to Kabadiwala/Scrap Dealer,Low,2.21
+Andhra Pradesh,Rural,5,Middle,Basic,8,6.8,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Punjab,Urban,8,Low,Basic,9,6.2,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.78
+Karnataka,Urban,2,High,Advanced,20,2.1,0,High,Formal E-Waste Collection,High,14.86
+Jharkhand,Urban,6,Middle,Basic,10,4.8,2,Medium,Sold to Kabadiwala/Scrap Dealer,Low,0.86
+Madhya Pradesh,Urban,4,Middle,Intermediate,9,4.3,0,Medium,Sold to Kabadiwala/Scrap Dealer,High,2.13
+Tamil Nadu,Urban,6,Low,Basic,6,6.6,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Maharashtra,Urban,6,Middle,Basic,12,4.7,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,2.02
+Telangana,Urban,5,Low,Basic,6,6.0,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.62
+Delhi,Urban,6,Low,Basic,6,7.1,1,Low,Thrown in General Trash,Low,0.0
+Delhi,Urban,6,Low,Basic,7,8.0,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.48
+Odisha,Urban,5,Middle,Intermediate,10,4.2,0,Medium,Thrown in General Trash,High,2.91
+Punjab,Rural,4,Middle,Basic,12,6.8,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.97
+Uttar Pradesh,Urban,5,Middle,Intermediate,15,5.1,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,4.67
+Rajasthan,Urban,6,Middle,Intermediate,10,4.7,2,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,0.98
+Maharashtra,Rural,5,Low,Basic,4,8.8,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Telangana,Urban,5,Middle,Basic,14,3.6,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,4.62
+Telangana,Urban,6,Middle,Intermediate,8,4.0,2,Medium,Stored Indefinitely,Low,0.0
+Rajasthan,Urban,3,Upper-Middle,Advanced,16,3.4,0,Medium,Formal E-Waste Collection,Low,6.61
+Haryana,Rural,6,Middle,Basic,10,7.0,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,1.09
+Jharkhand,Urban,6,Middle,Advanced,13,3.9,2,Medium,Stored Indefinitely,Medium,0.0
+Telangana,Rural,5,Upper-Middle,Basic,18,4.8,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,3.13
+Delhi,Urban,3,Upper-Middle,Intermediate,21,2.6,0,High,Sold to Kabadiwala/Scrap Dealer,High,13.65
+Gujarat,Urban,6,Low,Basic,5,7.0,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Odisha,Urban,7,Low,Basic,10,7.5,2,Low,Thrown in General Trash,Low,0.0
+West Bengal,Rural,6,Low,Basic,6,9.3,2,Low,Gave away for reuse,Low,0.0
+Jharkhand,Urban,5,Low,Basic,9,7.7,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Bihar,Rural,4,Upper-Middle,Basic,15,4.4,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,1.51
+Andhra Pradesh,Rural,6,Low,Basic,6,8.4,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Madhya Pradesh,Rural,5,Middle,Basic,7,5.5,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.76
+Jharkhand,Rural,7,Low,Basic,8,6.6,2,Low,Stored Indefinitely,Low,0.0
+Karnataka,Urban,5,Low,Basic,8,6.6,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.82
+Madhya Pradesh,Urban,6,Low,Basic,7,6.2,0,Low,Stored Indefinitely,Low,0.0
+Jharkhand,Urban,7,Low,Basic,8,5.6,1,Low,Formal E-Waste Collection,Low,0.16
+Haryana,Rural,5,Low,Basic,5,7.3,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Gujarat,Urban,2,High,Advanced,19,2.9,0,High,Sold to Kabadiwala/Scrap Dealer,High,9.31
+Haryana,Rural,6,Middle,Basic,7,6.7,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Andhra Pradesh,Urban,4,Middle,Basic,8,4.2,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,0.73
+Delhi,Rural,3,Upper-Middle,Basic,17,4.8,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,2.56
+Uttar Pradesh,Urban,7,Low,Basic,9,6.8,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.74
+Punjab,Urban,7,Low,Basic,6,6.0,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.7
+Delhi,Urban,5,Middle,Intermediate,11,4.9,1,Medium,Sold to Kabadiwala/Scrap Dealer,High,1.72
+Punjab,Rural,8,Low,Basic,4,9.5,3,Low,Formal E-Waste Collection,Low,0.0
+Uttar Pradesh,Rural,6,Low,Basic,4,7.1,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.36
+Andhra Pradesh,Urban,2,High,Advanced,26,1.9,0,High,Sold to Kabadiwala/Scrap Dealer,Medium,20.97
+Rajasthan,Urban,7,Low,Basic,9,5.7,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,1.17
+Kerala,Rural,5,Low,Basic,4,6.9,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.32
+Odisha,Urban,6,Middle,Intermediate,14,4.4,1,Medium,Stored Indefinitely,Medium,0.0
+West Bengal,Urban,6,Low,Basic,8,5.9,0,Low,Stored Indefinitely,Low,0.0
+Maharashtra,Rural,7,Low,Basic,4,8.4,1,Low,Formal E-Waste Collection,Low,0.0
+Jharkhand,Rural,5,Upper-Middle,Basic,13,4.5,1,Medium,Thrown in General Trash,Low,2.96
+West Bengal,Urban,4,Middle,Intermediate,13,5.4,1,Medium,Stored Indefinitely,Low,0.0
+Odisha,Urban,5,Upper-Middle,Intermediate,16,3.2,0,Medium,Stored Indefinitely,High,0.0
+Odisha,Rural,7,Low,Basic,4,9.1,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Telangana,Rural,3,Upper-Middle,Basic,14,4.0,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,1.7
+Rajasthan,Rural,6,Middle,Basic,5,5.1,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Rajasthan,Rural,6,Low,Basic,5,7.7,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.47
+Kerala,Urban,5,Low,Basic,11,7.3,1,Low,Thrown in General Trash,Low,0.19
+Odisha,Urban,5,Low,Basic,11,7.5,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.99
+Rajasthan,Rural,4,Middle,Basic,7,6.9,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.67
+Telangana,Urban,4,Middle,Intermediate,11,4.0,1,Medium,Formal E-Waste Collection,Low,2.14
+Telangana,Urban,5,Low,Basic,5,6.5,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.48
+Delhi,Urban,6,Middle,Intermediate,9,4.5,2,Medium,Stored Indefinitely,High,0.0
+Madhya Pradesh,Urban,8,Low,Basic,5,7.4,3,Low,Stored Indefinitely,Low,0.0
+Kerala,Rural,4,Middle,Basic,4,5.4,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+West Bengal,Urban,7,Low,Basic,5,6.1,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Kerala,Urban,4,Upper-Middle,Advanced,15,3.6,1,High,Stored Indefinitely,Low,0.0
+Andhra Pradesh,Urban,6,Low,Basic,11,7.3,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.84
+Bihar,Urban,7,Low,Basic,9,7.2,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Uttar Pradesh,Rural,7,Low,Basic,7,8.3,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.45
+Rajasthan,Urban,7,Low,Basic,10,7.4,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.9
+Punjab,Rural,4,Upper-Middle,Basic,18,4.8,0,Low,Formal E-Waste Collection,Low,2.32
+Uttar Pradesh,Urban,6,Low,Basic,5,5.1,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.5
+Tamil Nadu,Rural,4,Middle,Basic,7,5.1,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.89
+Gujarat,Urban,4,Middle,Intermediate,14,5.2,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,2.58
+Odisha,Rural,6,Middle,Basic,9,6.0,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Madhya Pradesh,Rural,3,Upper-Middle,Basic,8,4.3,0,Low,Thrown in General Trash,Low,1.26
+Punjab,Rural,6,Low,Basic,4,7.7,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+West Bengal,Urban,8,Low,Basic,10,5.4,0,Low,Thrown in General Trash,Low,0.93
+West Bengal,Urban,6,Low,Basic,5,5.9,0,Low,Thrown in General Trash,Low,0.43
+Haryana,Urban,7,Low,Basic,11,5.1,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Telangana,Urban,5,Middle,Basic,8,4.1,0,Medium,Sold to Kabadiwala/Scrap Dealer,High,2.27
+Delhi,Urban,7,Low,Basic,9,6.3,1,Low,Stored Indefinitely,Low,0.0
+Maharashtra,Rural,8,Low,Basic,6,7.4,3,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Uttar Pradesh,Urban,4,Middle,Intermediate,8,5.2,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,1.74
+Kerala,Urban,6,Middle,Intermediate,9,4.6,2,Medium,Formal E-Waste Collection,Low,0.78
+Gujarat,Urban,5,Low,Basic,9,6.8,1,Low,Gave away for reuse,Low,0.08
+Karnataka,Urban,5,Middle,Intermediate,8,5.0,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,1.11
+Haryana,Urban,4,Middle,Intermediate,8,4.1,1,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,1.54
+Maharashtra,Urban,8,Low,Basic,11,6.2,3,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Delhi,Urban,6,Low,Basic,6,6.1,1,Low,Formal E-Waste Collection,Low,0.0
+Haryana,Rural,5,Low,Basic,5,9.1,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.44
+Tamil Nadu,Urban,5,Middle,Basic,10,4.8,0,Medium,Formal E-Waste Collection,Low,2.26
+Maharashtra,Urban,6,Middle,Intermediate,8,4.8,2,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,0.35
+Odisha,Rural,5,Middle,Basic,10,6.4,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,1.15
+Haryana,Urban,4,Middle,Basic,9,3.8,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,3.26
+Madhya Pradesh,Urban,4,Middle,Intermediate,11,5.3,1,Medium,Formal E-Waste Collection,Medium,1.69
+Tamil Nadu,Urban,5,Low,Basic,6,6.5,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.57
+Maharashtra,Urban,5,Upper-Middle,Advanced,21,3.0,1,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,8.43
+Punjab,Urban,7,Low,Basic,8,5.7,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Uttar Pradesh,Urban,2,High,Advanced,26,1.7,0,High,Sold to Kabadiwala/Scrap Dealer,Low,22.19
+Madhya Pradesh,Urban,4,Middle,Basic,12,3.6,0,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,4.2
+Tamil Nadu,Urban,6,Middle,Intermediate,8,3.7,2,Medium,Stored Indefinitely,Medium,0.0
+Madhya Pradesh,Urban,5,Low,Basic,6,6.9,0,Low,Thrown in General Trash,Low,0.59
+Delhi,Urban,6,Middle,Intermediate,12,4.1,2,Medium,Sold to Kabadiwala/Scrap Dealer,Low,1.77
+Bihar,Rural,5,Middle,Basic,5,6.3,0,Low,Thrown in General Trash,Low,0.57
+Rajasthan,Rural,4,Middle,Basic,10,6.5,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.79
+Tamil Nadu,Rural,4,Upper-Middle,Basic,15,4.5,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,1.89
+Rajasthan,Urban,7,Low,Basic,6,6.7,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Maharashtra,Urban,7,Low,Basic,7,7.0,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Jharkhand,Rural,7,Low,Basic,4,6.5,2,Low,Thrown in General Trash,Low,0.0
+Tamil Nadu,Rural,5,Middle,Basic,10,6.5,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.24
+Gujarat,Urban,7,Low,Basic,10,7.0,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Andhra Pradesh,Rural,5,Middle,Basic,8,5.6,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.15
+Bihar,Urban,6,Low,Basic,8,5.4,1,Low,Gave away for reuse,Low,0.13
+Haryana,Urban,7,Low,Basic,9,6.3,0,Low,Thrown in General Trash,Low,1.01
+Andhra Pradesh,Rural,4,Middle,Basic,4,5.6,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.48
+Gujarat,Rural,6,Middle,Basic,11,5.4,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Gujarat,Urban,5,Low,Basic,6,6.0,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.62
+Odisha,Urban,4,Middle,Basic,8,4.9,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,1.19
+Rajasthan,Rural,3,Upper-Middle,Basic,12,4.1,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,2.12
+Kerala,Urban,7,Low,Basic,9,6.0,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Uttar Pradesh,Urban,6,Low,Basic,6,6.6,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.57
+Telangana,Urban,3,Upper-Middle,Intermediate,19,3.1,0,High,Stored Indefinitely,High,0.0
+West Bengal,Rural,4,Middle,Basic,11,6.4,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.97
+Gujarat,Rural,8,Low,Basic,5,9.0,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Uttar Pradesh,Urban,6,Middle,Intermediate,12,5.0,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,2.2
+Gujarat,Urban,8,Low,Basic,5,7.1,3,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Karnataka,Rural,8,Low,Basic,4,9.3,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.23
+Telangana,Urban,6,Middle,Intermediate,11,5.2,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,1.33
+Uttar Pradesh,Urban,3,Upper-Middle,Intermediate,16,3.1,0,High,Sold to Kabadiwala/Scrap Dealer,Medium,8.66
+Bihar,Urban,5,Middle,Intermediate,9,4.7,0,Medium,Formal E-Waste Collection,Low,2.45
+Tamil Nadu,Urban,4,Middle,Basic,11,4.3,0,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,2.88
+Madhya Pradesh,Rural,6,Low,Basic,4,8.6,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Maharashtra,Urban,6,Middle,Intermediate,14,5.0,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,2.77
+Madhya Pradesh,Rural,8,Low,Basic,4,9.4,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Punjab,Urban,6,Low,Basic,6,5.2,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Rajasthan,Urban,4,Middle,Intermediate,14,3.7,0,Medium,Thrown in General Trash,Low,4.51
+Punjab,Urban,5,Low,Basic,10,7.6,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.91
+Andhra Pradesh,Urban,8,Low,Basic,8,5.9,1,Low,Stored Indefinitely,Low,0.0
+Andhra Pradesh,Urban,5,Middle,Basic,8,4.1,0,Medium,Stored Indefinitely,Medium,0.0
+Maharashtra,Rural,5,Middle,Basic,4,6.8,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.44
+Andhra Pradesh,Rural,4,Middle,Basic,10,5.4,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,1.39
+Punjab,Urban,6,Middle,Intermediate,9,3.7,1,Medium,Stored Indefinitely,Low,0.0
+Karnataka,Rural,4,Upper-Middle,Basic,8,4.3,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.41
+Maharashtra,Urban,8,Low,Basic,5,7.3,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.44
+Telangana,Rural,7,Low,Basic,4,8.9,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Karnataka,Rural,4,High,Basic,14,3.5,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,5.15
+Telangana,Rural,4,Middle,Basic,7,6.2,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Karnataka,Urban,6,Low,Basic,6,6.4,1,Low,Thrown in General Trash,Low,0.0
+Karnataka,Urban,4,Middle,Basic,15,4.9,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,2.32
+Kerala,Urban,6,Middle,Intermediate,12,4.0,0,Medium,Gave away for reuse,Medium,2.82
+Delhi,Urban,5,Middle,Basic,14,5.2,0,Medium,Thrown in General Trash,Low,2.75
+Odisha,Rural,5,Middle,Basic,5,5.7,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.52
+Delhi,Urban,5,Upper-Middle,Intermediate,14,3.7,0,High,Sold to Kabadiwala/Scrap Dealer,High,5.27
+Uttar Pradesh,Rural,4,Middle,Basic,4,6.4,0,Low,Gave away for reuse,Low,0.34
+Punjab,Rural,4,Middle,Basic,9,6.8,1,Low,Stored Indefinitely,Low,0.0
+Rajasthan,Rural,4,Middle,Basic,7,5.2,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.7
+Uttar Pradesh,Urban,5,Low,Basic,10,6.4,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.85
+Tamil Nadu,Urban,4,Middle,Basic,8,4.5,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,1.94
+Karnataka,Rural,4,Middle,Basic,12,6.0,1,Low,Stored Indefinitely,Low,0.0
+Bihar,Rural,6,Low,Basic,5,8.6,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Tamil Nadu,Urban,6,Middle,Advanced,14,4.5,2,Medium,Sold to Kabadiwala/Scrap Dealer,Low,1.85
+Kerala,Urban,6,Low,Basic,9,7.8,1,Low,Gave away for reuse,Low,0.0
+Punjab,Urban,6,Middle,Basic,12,4.4,2,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,1.8
+Gujarat,Urban,5,Middle,Intermediate,14,5.5,1,Medium,Thrown in General Trash,Low,2.17
+Odisha,Urban,8,Low,Basic,9,5.7,2,Low,Stored Indefinitely,Low,0.0
+Delhi,Rural,8,Low,Basic,4,8.0,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Delhi,Urban,5,Upper-Middle,Intermediate,15,2.7,0,High,Sold to Kabadiwala/Scrap Dealer,Medium,10.81
+Telangana,Rural,4,Middle,Basic,9,5.4,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.76
+Andhra Pradesh,Urban,6,Middle,Intermediate,9,3.7,0,Medium,Formal E-Waste Collection,Medium,2.1
+West Bengal,Rural,6,Middle,Basic,7,6.7,2,Low,Formal E-Waste Collection,Low,0.0
+Rajasthan,Urban,4,Upper-Middle,Advanced,13,3.3,0,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,3.93
+Jharkhand,Rural,6,Middle,Basic,8,5.1,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.74
+West Bengal,Rural,6,Middle,Basic,10,6.5,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Delhi,Urban,5,Low,Basic,9,5.5,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,1.06
+Maharashtra,Rural,8,Low,Basic,4,6.9,3,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Madhya Pradesh,Rural,6,Low,Basic,5,7.9,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Punjab,Rural,2,High,Basic,19,4.2,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,6.67
+Jharkhand,Urban,7,Low,Basic,5,7.0,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.5
+Karnataka,Urban,3,Upper-Middle,Advanced,14,3.1,0,Medium,Gave away for reuse,High,6.35
+Tamil Nadu,Rural,6,Middle,Basic,7,5.7,1,Low,Gave away for reuse,Low,0.02
+Bihar,Urban,4,Middle,Intermediate,10,4.2,0,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,2.59
+Karnataka,Rural,6,Low,Basic,4,8.3,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Bihar,Rural,5,Low,Basic,4,8.6,1,Low,Thrown in General Trash,Low,0.0
+Haryana,Urban,8,Low,Basic,11,6.8,1,Low,Formal E-Waste Collection,Low,0.34
+Rajasthan,Rural,7,Low,Basic,5,9.4,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Rajasthan,Urban,5,Low,Basic,11,5.3,1,Low,Stored Indefinitely,Low,0.0
+Tamil Nadu,Rural,7,Low,Basic,4,7.3,0,Low,Thrown in General Trash,Low,0.29
+West Bengal,Urban,4,Upper-Middle,Intermediate,13,3.0,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,5.06
+Kerala,Rural,6,Middle,Basic,7,5.8,2,Low,Stored Indefinitely,Low,0.0
+Uttar Pradesh,Urban,6,Middle,Intermediate,14,3.7,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,4.56
+Punjab,Urban,7,Low,Basic,6,6.6,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Punjab,Urban,2,High,Advanced,21,2.7,0,High,Gave away for reuse,Low,12.35
+Madhya Pradesh,Urban,4,Upper-Middle,Advanced,16,3.2,1,High,Sold to Kabadiwala/Scrap Dealer,Medium,6.72
+Gujarat,Rural,8,Low,Basic,4,9.4,3,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Andhra Pradesh,Rural,5,Middle,Basic,8,6.8,0,Low,Thrown in General Trash,Low,0.8
+Maharashtra,Urban,3,Upper-Middle,Intermediate,12,3.2,0,High,Sold to Kabadiwala/Scrap Dealer,High,6.01
+Andhra Pradesh,Urban,7,Low,Basic,8,6.6,2,Low,Thrown in General Trash,Low,0.0
+Gujarat,Rural,6,Low,Basic,4,7.1,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.41
+West Bengal,Urban,6,Low,Basic,6,7.7,0,Low,Gave away for reuse,Low,0.43
+Karnataka,Rural,5,Middle,Basic,4,6.5,0,Low,Thrown in General Trash,Low,0.44
+West Bengal,Urban,4,Upper-Middle,Intermediate,17,4.0,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,4.28
+Jharkhand,Urban,8,Low,Basic,7,6.5,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.75
+Bihar,Rural,7,Low,Basic,4,7.5,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Rajasthan,Urban,3,Upper-Middle,Intermediate,13,3.3,0,High,Sold to Kabadiwala/Scrap Dealer,Medium,6.96
+Bihar,Urban,3,High,Advanced,30,2.3,0,High,Formal E-Waste Collection,High,19.71
+Jharkhand,Urban,3,Upper-Middle,Advanced,17,3.8,0,Medium,Formal E-Waste Collection,Medium,5.84
+Karnataka,Urban,2,High,Advanced,26,2.4,0,High,Formal E-Waste Collection,High,21.1
+Andhra Pradesh,Rural,4,Upper-Middle,Basic,10,5.3,0,Medium,Stored Indefinitely,Low,0.0
+Jharkhand,Rural,6,Low,Basic,4,6.9,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Odisha,Rural,7,Low,Basic,5,7.7,2,Low,Stored Indefinitely,Low,0.0
+Andhra Pradesh,Urban,6,Middle,Intermediate,10,3.9,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,2.3
+Bihar,Rural,8,Low,Basic,6,6.9,2,Low,Thrown in General Trash,Low,0.0
+Andhra Pradesh,Rural,3,Upper-Middle,Basic,8,5.0,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,1.09
+Punjab,Urban,6,Middle,Basic,13,4.3,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,3.16
+Andhra Pradesh,Urban,6,Low,Basic,9,7.8,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Tamil Nadu,Rural,5,Upper-Middle,Basic,17,4.0,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,1.81
+Telangana,Urban,4,Middle,Intermediate,14,5.0,0,Medium,Stored Indefinitely,Medium,0.0
+West Bengal,Urban,5,Upper-Middle,Basic,13,3.9,1,Medium,Sold to Kabadiwala/Scrap Dealer,High,3.53
+Punjab,Urban,7,Low,Basic,11,8.0,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.97
+Andhra Pradesh,Urban,5,Middle,Advanced,9,4.9,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,2.16
+Haryana,Rural,6,Middle,Basic,10,6.6,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.17
+Haryana,Urban,8,Low,Basic,6,7.9,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Punjab,Urban,4,Middle,Advanced,13,4.3,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,3.42
+Rajasthan,Rural,6,Middle,Basic,11,5.2,2,Low,Formal E-Waste Collection,Low,0.0
+Maharashtra,Urban,6,Middle,Intermediate,13,3.5,2,Medium,Sold to Kabadiwala/Scrap Dealer,Low,3.25
+Maharashtra,Rural,7,Low,Basic,4,8.5,2,Low,Thrown in General Trash,Low,0.0
+Tamil Nadu,Urban,4,Middle,Intermediate,14,4.9,0,Medium,Thrown in General Trash,High,3.55
+Telangana,Urban,4,Upper-Middle,Advanced,14,3.3,1,Medium,Sold to Kabadiwala/Scrap Dealer,High,4.11
+Jharkhand,Rural,8,Low,Basic,5,8.6,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Rajasthan,Rural,7,Low,Basic,4,7.3,1,Low,Thrown in General Trash,Low,0.0
+Kerala,Urban,4,Middle,Basic,13,5.3,1,Medium,Thrown in General Trash,Medium,1.95
+Bihar,Urban,4,Middle,Intermediate,10,4.7,1,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,1.38
+Telangana,Rural,7,Low,Basic,8,7.1,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Kerala,Urban,3,Upper-Middle,Intermediate,19,2.5,0,High,Sold to Kabadiwala/Scrap Dealer,Medium,11.88
+Karnataka,Rural,4,Middle,Basic,11,5.7,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,1.13
+Karnataka,Urban,3,Upper-Middle,Intermediate,14,3.3,0,Medium,Gave away for reuse,Medium,6.22
+Bihar,Urban,7,Low,Basic,7,6.3,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Rajasthan,Urban,8,Low,Basic,10,5.7,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.37
+Karnataka,Urban,4,Middle,Intermediate,9,4.9,0,Medium,Thrown in General Trash,High,2.39
+Maharashtra,Urban,4,Upper-Middle,Intermediate,19,4.0,0,Medium,Sold to Kabadiwala/Scrap Dealer,High,5.89
+Gujarat,Rural,8,Low,Basic,4,8.9,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.25
+Delhi,Urban,4,Middle,Intermediate,13,5.3,0,Medium,Gave away for reuse,Medium,3.45
+Bihar,Urban,7,Low,Basic,7,7.1,2,Low,Gave away for reuse,Low,0.0
+Gujarat,Urban,6,Middle,Intermediate,15,5.1,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,2.2
+Maharashtra,Urban,5,Middle,Basic,12,3.9,1,Medium,Formal E-Waste Collection,Medium,2.46
+Tamil Nadu,Urban,4,Upper-Middle,Advanced,17,4.0,0,High,Sold to Kabadiwala/Scrap Dealer,Low,7.88
+Madhya Pradesh,Urban,5,Middle,Intermediate,10,5.2,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,1.16
+Gujarat,Urban,6,Low,Basic,6,6.2,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Jharkhand,Rural,5,Low,Basic,5,6.9,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.47
+Tamil Nadu,Rural,6,Middle,Basic,8,6.8,0,Low,Gave away for reuse,Low,0.76
+Uttar Pradesh,Urban,3,Upper-Middle,Advanced,21,3.4,0,Medium,Stored Indefinitely,Low,0.0
+Odisha,Rural,8,Low,Basic,4,8.1,1,Low,Formal E-Waste Collection,Low,0.0
+Jharkhand,Rural,3,Upper-Middle,Basic,10,4.9,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,1.15
+Delhi,Urban,7,Low,Basic,7,6.2,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Andhra Pradesh,Urban,3,Upper-Middle,Advanced,14,4.0,0,High,Sold to Kabadiwala/Scrap Dealer,Medium,6.49
+Andhra Pradesh,Urban,4,Upper-Middle,Intermediate,18,3.5,0,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,3.91
+Kerala,Urban,6,Low,Basic,10,6.0,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.31
+Karnataka,Urban,5,Middle,Advanced,8,5.2,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,0.98
+Telangana,Urban,5,Middle,Intermediate,12,3.8,0,Medium,Thrown in General Trash,Low,3.82
+Karnataka,Urban,4,Upper-Middle,Intermediate,18,2.8,0,Medium,Gave away for reuse,Medium,7.43
+Punjab,Urban,7,Low,Basic,7,7.6,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Rajasthan,Urban,7,Low,Basic,9,5.8,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.83
+Delhi,Rural,6,Low,Basic,8,9.1,0,Low,Stored Indefinitely,Low,0.0
+Telangana,Rural,7,Low,Basic,4,7.6,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Haryana,Urban,7,Low,Basic,7,5.7,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Bihar,Urban,8,Low,Basic,11,7.7,1,Low,Thrown in General Trash,Low,0.14
+Rajasthan,Urban,8,Low,Basic,11,5.2,0,Low,Stored Indefinitely,Low,0.0
+Maharashtra,Urban,5,Upper-Middle,Advanced,14,2.7,1,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,3.9
+Punjab,Rural,5,Low,Basic,4,9.2,0,Low,Formal E-Waste Collection,Low,0.27
+West Bengal,Rural,6,Middle,Basic,4,5.2,0,Low,Thrown in General Trash,Low,0.36
+Kerala,Urban,6,Middle,Intermediate,15,3.7,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,5.25
+West Bengal,Rural,4,Middle,Basic,9,5.5,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.82
+Bihar,Urban,5,Low,Basic,7,6.0,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Kerala,Urban,7,Low,Basic,8,5.8,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Jharkhand,Urban,7,Low,Basic,7,5.5,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Madhya Pradesh,Urban,8,Low,Basic,9,5.6,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,1.16
+Kerala,Urban,4,Upper-Middle,Advanced,17,2.9,0,High,Sold to Kabadiwala/Scrap Dealer,Medium,11.9
+Rajasthan,Urban,6,Middle,Basic,14,4.2,2,Medium,Sold to Kabadiwala/Scrap Dealer,Low,2.56
+Odisha,Rural,5,Middle,Basic,6,6.4,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Tamil Nadu,Urban,4,Middle,Basic,9,4.2,0,Medium,Formal E-Waste Collection,Low,2.14
+Bihar,Urban,7,Low,Basic,8,6.8,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Kerala,Rural,7,Low,Basic,4,9.1,1,Low,Stored Indefinitely,Low,0.0
+Andhra Pradesh,Urban,4,High,Advanced,27,2.2,0,High,Gave away for reuse,High,24.48
+Uttar Pradesh,Rural,6,Middle,Basic,10,6.2,0,Low,Thrown in General Trash,Low,0.92
+Odisha,Urban,4,Middle,Intermediate,9,5.1,1,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,1.36
+West Bengal,Rural,6,Middle,Basic,10,6.5,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Tamil Nadu,Rural,4,Middle,Basic,8,6.2,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.05
+Haryana,Urban,3,Upper-Middle,Basic,18,3.4,0,Medium,Sold to Kabadiwala/Scrap Dealer,High,4.67
+West Bengal,Urban,8,Low,Basic,11,7.6,3,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Maharashtra,Urban,4,Middle,Basic,11,5.5,1,Medium,Thrown in General Trash,High,1.27
+Uttar Pradesh,Rural,5,Upper-Middle,Basic,17,5.2,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,2.21
+Telangana,Urban,2,High,Advanced,25,2.4,0,High,Gave away for reuse,High,16.56
+Jharkhand,Urban,6,Low,Basic,10,5.5,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+West Bengal,Urban,5,Low,Basic,11,5.2,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,1.4
+Maharashtra,Rural,5,Upper-Middle,Basic,14,5.0,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,2.59
+Maharashtra,Urban,5,Low,Basic,10,6.0,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,1.1
+Haryana,Urban,4,Upper-Middle,Intermediate,17,3.1,1,Medium,Sold to Kabadiwala/Scrap Dealer,High,6.37
+Karnataka,Rural,4,Upper-Middle,Basic,15,5.4,1,Low,Thrown in General Trash,Low,0.71
+Kerala,Rural,6,Low,Basic,6,9.4,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Telangana,Urban,8,Low,Basic,7,7.3,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.7
+Andhra Pradesh,Urban,6,Low,Basic,7,7.0,1,Low,Thrown in General Trash,Low,0.0
+Karnataka,Urban,7,Low,Basic,5,5.7,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.63
+Jharkhand,Urban,4,Middle,Basic,12,4.2,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,3.06
+Madhya Pradesh,Rural,7,Low,Basic,4,7.4,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Haryana,Rural,5,Upper-Middle,Basic,15,5.2,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,1.91
+Haryana,Urban,3,Upper-Middle,Advanced,17,3.5,0,Medium,Formal E-Waste Collection,High,5.23
+Telangana,Urban,4,High,Advanced,32,2.6,0,High,Sold to Kabadiwala/Scrap Dealer,Medium,19.29
+Kerala,Rural,5,Upper-Middle,Basic,7,4.2,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.35
+Bihar,Rural,7,Low,Basic,5,7.2,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Maharashtra,Urban,6,Low,Basic,5,6.6,0,Low,Formal E-Waste Collection,Low,0.63
+West Bengal,Urban,5,Middle,Basic,11,4.5,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,1.68
+Telangana,Urban,5,Middle,Intermediate,14,4.1,1,Medium,Sold to Kabadiwala/Scrap Dealer,High,4.03
+Telangana,Rural,4,Upper-Middle,Basic,15,4.9,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,1.41
+Gujarat,Urban,5,Middle,Basic,12,4.3,0,Medium,Formal E-Waste Collection,Medium,3.05
+Punjab,Rural,2,High,Basic,29,3.0,0,Medium,Formal E-Waste Collection,Low,11.54
+Uttar Pradesh,Urban,5,Upper-Middle,Intermediate,12,3.7,0,High,Sold to Kabadiwala/Scrap Dealer,Medium,7.12
+Punjab,Rural,4,Upper-Middle,Basic,10,4.9,1,Low,Thrown in General Trash,Low,0.65
+Maharashtra,Rural,5,Middle,Basic,9,6.8,1,Low,Stored Indefinitely,Low,0.0
+Jharkhand,Urban,5,Upper-Middle,Advanced,21,2.7,0,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,11.65
+Odisha,Rural,6,Low,Basic,4,9.1,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Gujarat,Rural,8,Low,Basic,4,6.6,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Punjab,Urban,7,Low,Basic,10,7.5,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.71
+Telangana,Urban,8,Low,Basic,10,7.0,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.11
+Telangana,Urban,3,High,Advanced,32,1.7,0,High,Sold to Kabadiwala/Scrap Dealer,Medium,31.09
+Karnataka,Urban,4,Middle,Intermediate,14,4.5,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,2.66
+West Bengal,Urban,5,Middle,Intermediate,12,4.5,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,3.44
+Odisha,Urban,5,Low,Basic,8,5.5,1,Low,Formal E-Waste Collection,Low,0.19
+Madhya Pradesh,Rural,7,Low,Basic,5,7.9,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Delhi,Urban,6,Low,Basic,10,7.1,1,Low,Thrown in General Trash,Low,0.12
+Bihar,Urban,7,Low,Basic,9,5.8,1,Low,Thrown in General Trash,Low,0.19
+Haryana,Urban,5,Middle,Intermediate,10,4.0,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,1.6
+Kerala,Urban,3,Upper-Middle,Basic,19,4.0,0,Medium,Formal E-Waste Collection,Medium,4.83
+Madhya Pradesh,Rural,4,Middle,Basic,7,6.6,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Andhra Pradesh,Urban,6,Middle,Intermediate,15,5.2,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,2.28
+Kerala,Rural,5,Middle,Basic,9,5.4,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.28
+Tamil Nadu,Urban,5,Upper-Middle,Intermediate,17,3.1,1,High,Stored Indefinitely,High,0.0
+Uttar Pradesh,Urban,7,Low,Basic,8,5.9,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.11
+Haryana,Urban,4,Middle,Basic,9,5.1,1,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,1.04
+Tamil Nadu,Rural,5,Middle,Basic,5,6.4,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.65
+Tamil Nadu,Rural,5,Upper-Middle,Basic,9,5.2,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.77
+Karnataka,Rural,4,Middle,Basic,4,6.0,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.44
+Telangana,Urban,6,Middle,Basic,11,5.0,2,Medium,Thrown in General Trash,Medium,1.1
+Gujarat,Urban,8,Low,Basic,10,5.9,3,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Tamil Nadu,Urban,6,Low,Basic,6,6.2,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.67
+Kerala,Urban,5,Low,Basic,8,5.5,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.1
+Rajasthan,Rural,5,Middle,Basic,8,6.5,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.64
+Odisha,Rural,5,Low,Basic,4,9.3,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Maharashtra,Urban,4,Middle,Intermediate,15,4.0,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,4.01
+Haryana,Rural,2,High,Basic,24,3.0,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,8.22
+Haryana,Urban,6,Middle,Basic,9,4.0,2,Medium,Sold to Kabadiwala/Scrap Dealer,Low,0.98
+Jharkhand,Urban,7,Low,Basic,9,6.1,1,Low,Stored Indefinitely,Low,0.0
+Madhya Pradesh,Rural,5,Low,Basic,6,6.6,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.68
+Karnataka,Urban,5,Low,Basic,11,7.2,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,1.32
+West Bengal,Urban,7,Low,Basic,11,5.1,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,1.31
+Kerala,Urban,8,Low,Basic,6,5.0,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.71
+Rajasthan,Rural,4,Upper-Middle,Basic,17,5.3,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,3.04
+Karnataka,Rural,5,Middle,Basic,9,6.3,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.15
+Karnataka,Urban,2,High,Advanced,29,1.9,0,High,Thrown in General Trash,High,29.08
+Odisha,Rural,5,Middle,Basic,7,7.0,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Karnataka,Urban,5,Low,Basic,10,7.1,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,1.07
+Haryana,Urban,5,Low,Basic,11,6.0,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.41
+Andhra Pradesh,Urban,6,Middle,Basic,9,4.6,2,Medium,Sold to Kabadiwala/Scrap Dealer,Low,0.75
+Haryana,Urban,4,Middle,Intermediate,9,4.5,1,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,1.48
+Jharkhand,Urban,7,Low,Basic,6,5.1,2,Low,Thrown in General Trash,Low,0.0
+Jharkhand,Urban,6,Middle,Advanced,14,4.2,1,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,2.5
+Uttar Pradesh,Urban,5,Middle,Intermediate,12,4.9,1,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,1.81
+Uttar Pradesh,Urban,7,Low,Basic,5,5.6,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Delhi,Urban,5,Low,Basic,8,6.4,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.62
+Uttar Pradesh,Urban,5,Low,Basic,8,5.6,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.16
+Kerala,Urban,4,High,Advanced,24,2.9,1,High,Gave away for reuse,High,14.44
+Uttar Pradesh,Rural,8,Low,Basic,8,8.9,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.75
+West Bengal,Urban,7,Low,Basic,11,7.4,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.15
+Rajasthan,Rural,8,Low,Basic,4,7.8,3,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Jharkhand,Urban,8,Low,Basic,5,8.0,3,Low,Thrown in General Trash,Low,0.0
+West Bengal,Urban,5,Middle,Intermediate,10,3.9,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,2.55
+Madhya Pradesh,Rural,8,Low,Basic,4,7.8,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.31
+Haryana,Urban,6,Middle,Intermediate,14,5.3,0,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,3.43
+Uttar Pradesh,Urban,7,Low,Basic,10,7.1,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.75
+Rajasthan,Urban,5,Middle,Basic,11,5.0,1,Medium,Gave away for reuse,Low,1.93
+Bihar,Urban,8,Low,Basic,8,5.0,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,1.05
+Rajasthan,Rural,8,Low,Basic,4,9.1,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Bihar,Urban,5,Low,Basic,5,6.3,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Gujarat,Rural,7,Low,Basic,8,8.0,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.63
+Gujarat,Urban,6,Low,Basic,7,7.8,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.64
+West Bengal,Rural,3,Upper-Middle,Basic,13,5.0,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,2.69
+Bihar,Urban,8,Low,Basic,7,5.9,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.87
+Madhya Pradesh,Rural,6,Low,Basic,4,6.9,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Delhi,Urban,2,High,Advanced,26,2.7,0,High,Sold to Kabadiwala/Scrap Dealer,Low,15.57
+Gujarat,Urban,4,Middle,Intermediate,8,5.4,0,Medium,Stored Indefinitely,Medium,0.0
+Haryana,Urban,4,Upper-Middle,Intermediate,15,4.0,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,4.13
+Odisha,Urban,6,Middle,Intermediate,12,3.8,0,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,3.64
+Karnataka,Urban,6,Middle,Basic,15,4.5,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,3.64
+Maharashtra,Urban,7,Low,Basic,6,5.5,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.49
+Maharashtra,Urban,5,Middle,Intermediate,11,3.8,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,1.66
+Bihar,Urban,4,Middle,Intermediate,10,4.8,0,Medium,Sold to Kabadiwala/Scrap Dealer,High,2.17
+Tamil Nadu,Urban,8,Low,Basic,10,7.7,1,Low,Thrown in General Trash,Low,0.07
+Haryana,Urban,5,Middle,Intermediate,13,5.4,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,1.93
+Rajasthan,Urban,6,Middle,Basic,9,4.4,0,Medium,Formal E-Waste Collection,Medium,2.55
+Bihar,Urban,7,Low,Basic,5,5.3,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.55
+Kerala,Urban,4,Middle,Intermediate,12,4.7,1,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,1.95
+Karnataka,Urban,5,Low,Basic,7,8.0,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+West Bengal,Rural,6,Middle,Basic,7,6.9,1,Low,Thrown in General Trash,Low,0.0
+Maharashtra,Urban,7,Low,Basic,9,6.7,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Rajasthan,Rural,6,Low,Basic,5,7.2,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Maharashtra,Urban,6,Middle,Intermediate,14,5.1,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,2.55
+Telangana,Urban,8,Low,Basic,10,6.6,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,1.2
+Delhi,Urban,4,Middle,Intermediate,9,3.7,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,1.9
+Telangana,Rural,6,Low,Basic,4,8.9,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Delhi,Urban,6,Middle,Intermediate,9,4.2,2,Medium,Sold to Kabadiwala/Scrap Dealer,Low,0.96
+Kerala,Urban,4,Upper-Middle,Advanced,19,3.2,0,Medium,Formal E-Waste Collection,High,7.85
+Rajasthan,Rural,2,High,Basic,14,3.8,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,4.73
+Tamil Nadu,Urban,7,Low,Basic,7,5.6,0,Low,Stored Indefinitely,Low,0.0
+West Bengal,Urban,5,Middle,Basic,9,3.8,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,3.23
+Kerala,Urban,5,Middle,Basic,13,4.2,1,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,2.79
+Maharashtra,Urban,4,Middle,Advanced,12,4.9,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,2.08
+Rajasthan,Urban,2,High,Advanced,34,2.8,0,High,Thrown in General Trash,High,19.9
+Gujarat,Urban,4,Middle,Intermediate,11,5.0,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,1.83
+Bihar,Urban,6,Low,Basic,7,6.1,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.49
+Maharashtra,Rural,4,High,Basic,20,4.4,1,Medium,Thrown in General Trash,Low,5.27
+West Bengal,Urban,4,Middle,Intermediate,9,4.2,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,1.51
+West Bengal,Urban,4,Upper-Middle,Intermediate,16,3.4,1,High,Sold to Kabadiwala/Scrap Dealer,Low,7.01
+Karnataka,Urban,6,Middle,Advanced,13,5.0,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,3.33
+Delhi,Rural,6,Low,Basic,5,7.7,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.44
+Kerala,Rural,8,Low,Basic,4,9.4,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Kerala,Rural,7,Low,Basic,4,9.0,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.24
+Tamil Nadu,Rural,5,Middle,Basic,5,5.4,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Tamil Nadu,Urban,5,Middle,Intermediate,10,5.4,0,Medium,Sold to Kabadiwala/Scrap Dealer,High,2.45
+Kerala,Urban,5,Middle,Basic,13,4.5,1,Medium,Sold to Kabadiwala/Scrap Dealer,High,1.61
+Andhra Pradesh,Rural,5,Upper-Middle,Basic,16,4.4,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,4.9
+Andhra Pradesh,Rural,7,Low,Basic,4,7.3,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Karnataka,Urban,6,Middle,Intermediate,11,4.0,0,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,3.07
+Karnataka,Rural,5,Low,Basic,6,8.8,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Telangana,Urban,8,Low,Basic,9,6.1,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Odisha,Urban,5,Middle,Basic,15,4.7,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,3.33
+Andhra Pradesh,Urban,5,Low,Basic,10,7.3,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.98
+Tamil Nadu,Urban,6,Low,Basic,9,6.4,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.51
+Jharkhand,Urban,4,Middle,Intermediate,11,4.2,1,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,2.4
+Haryana,Urban,5,Low,Basic,11,7.6,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.11
+Rajasthan,Urban,6,Low,Basic,5,6.4,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.5
+Karnataka,Urban,7,Low,Basic,7,5.3,0,Low,Thrown in General Trash,Low,1.01
+Odisha,Urban,7,Low,Basic,5,6.5,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Jharkhand,Urban,4,Middle,Intermediate,15,5.3,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,4.15
+Gujarat,Urban,6,Low,Basic,11,6.9,2,Low,Formal E-Waste Collection,Low,0.0
+Punjab,Urban,7,Low,Basic,6,6.0,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.79
+Punjab,Urban,7,Low,Basic,10,8.0,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.91
+West Bengal,Urban,5,Middle,Intermediate,8,5.3,1,Medium,Formal E-Waste Collection,Low,0.86
+Bihar,Urban,7,Low,Basic,6,6.0,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.5
+Karnataka,Rural,6,Middle,Basic,11,5.7,2,Low,Gave away for reuse,Low,0.0
+Kerala,Rural,2,High,Basic,15,3.3,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,3.9
+Jharkhand,Urban,8,Low,Basic,8,6.0,3,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Karnataka,Urban,5,Middle,Advanced,15,5.3,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,2.52
+Madhya Pradesh,Rural,4,High,Basic,27,3.8,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,7.88
+Maharashtra,Rural,6,Middle,Basic,6,5.4,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Haryana,Rural,4,High,Basic,26,4.1,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,7.77
+Gujarat,Urban,5,Upper-Middle,Advanced,14,2.9,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,5.5
+Punjab,Urban,7,Low,Basic,7,5.7,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.71
+Haryana,Rural,5,Middle,Basic,7,5.5,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.69
+Telangana,Rural,3,Upper-Middle,Basic,9,4.1,0,Medium,Thrown in General Trash,Low,3.12
+Kerala,Urban,4,Middle,Intermediate,15,4.0,1,Medium,Gave away for reuse,Medium,3.13
+Bihar,Urban,4,Middle,Intermediate,15,5.0,1,Medium,Thrown in General Trash,Low,2.9
+Maharashtra,Rural,6,Low,Basic,5,7.5,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.39
+Telangana,Rural,6,Middle,Basic,9,6.7,2,Low,Thrown in General Trash,Low,0.0
+Andhra Pradesh,Rural,4,Upper-Middle,Basic,11,4.2,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,1.32
+Telangana,Rural,6,Low,Basic,5,8.7,2,Low,Thrown in General Trash,Low,0.0
+Punjab,Urban,5,Low,Basic,5,6.3,0,Low,Gave away for reuse,Low,0.42
+Haryana,Urban,6,Middle,Intermediate,10,4.3,0,Medium,Thrown in General Trash,Low,2.8
+Tamil Nadu,Urban,5,Low,Basic,10,5.9,1,Low,Thrown in General Trash,Low,0.23
+Delhi,Rural,3,Upper-Middle,Basic,15,5.0,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,2.07
+Madhya Pradesh,Rural,6,Middle,Basic,8,6.5,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.02
+Bihar,Urban,5,Middle,Intermediate,14,5.2,1,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,2.2
+Delhi,Urban,7,Low,Basic,7,6.6,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Telangana,Rural,5,Low,Basic,4,8.8,1,Low,Stored Indefinitely,Low,0.0
+Madhya Pradesh,Urban,5,Low,Basic,5,7.7,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.39
+Telangana,Rural,4,Middle,Basic,5,5.9,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.58
+Jharkhand,Rural,2,High,Basic,26,3.4,0,Medium,Formal E-Waste Collection,Low,9.69
+West Bengal,Urban,4,High,Advanced,31,2.2,1,High,Formal E-Waste Collection,High,26.93
+Telangana,Urban,5,Middle,Intermediate,9,4.7,1,Medium,Thrown in General Trash,Medium,1.48
+Gujarat,Urban,4,High,Advanced,19,1.5,0,High,Formal E-Waste Collection,High,29.01
+Madhya Pradesh,Urban,5,Low,Basic,6,6.4,1,Low,Thrown in General Trash,Low,0.0
+Bihar,Urban,8,Low,Basic,9,5.2,3,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Gujarat,Rural,5,Middle,Basic,6,6.0,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.67
+Punjab,Rural,7,Low,Basic,7,7.5,1,Low,Thrown in General Trash,Low,0.0
+Punjab,Urban,7,Low,Basic,10,5.6,1,Low,Gave away for reuse,Low,0.38
+Haryana,Urban,4,Upper-Middle,Intermediate,13,3.5,0,Medium,Thrown in General Trash,Medium,3.71
+Karnataka,Urban,6,Middle,Intermediate,8,3.9,2,Medium,Sold to Kabadiwala/Scrap Dealer,Low,1.06
+Jharkhand,Urban,7,Low,Basic,6,5.7,2,Low,Formal E-Waste Collection,Low,0.0
+Punjab,Urban,6,Low,Basic,5,5.7,1,Low,Stored Indefinitely,Low,0.0
+Haryana,Rural,5,Low,Basic,4,8.0,1,Low,Stored Indefinitely,Low,0.0
+Uttar Pradesh,Urban,5,Middle,Basic,8,3.6,0,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,2.83
+Gujarat,Rural,4,Middle,Basic,6,6.9,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Bihar,Urban,6,Low,Basic,8,5.3,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,1.06
+Gujarat,Rural,5,Middle,Basic,8,5.7,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.8
+Telangana,Urban,4,Middle,Basic,12,4.6,0,Medium,Formal E-Waste Collection,Medium,2.36
+Bihar,Urban,5,Low,Basic,9,5.3,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.83
+Kerala,Urban,3,Upper-Middle,Intermediate,13,3.1,0,Medium,Gave away for reuse,Medium,4.1
+West Bengal,Urban,5,Middle,Basic,14,4.6,1,Medium,Thrown in General Trash,Low,2.42
+Maharashtra,Urban,6,Low,Basic,7,6.4,0,Low,Thrown in General Trash,Low,0.55
+Maharashtra,Urban,6,Middle,Intermediate,8,3.8,0,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,2.63
+Karnataka,Rural,6,Low,Basic,4,8.2,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Punjab,Rural,6,Middle,Basic,11,5.8,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Odisha,Rural,5,Low,Basic,4,9.4,1,Low,Stored Indefinitely,Low,0.0
+Tamil Nadu,Urban,6,Low,Basic,9,7.6,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.74
+Andhra Pradesh,Rural,5,Low,Basic,8,6.9,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.67
+Karnataka,Rural,6,Middle,Basic,5,5.8,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Gujarat,Urban,7,Low,Basic,10,7.1,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.13
+Delhi,Urban,6,Middle,Intermediate,10,5.1,2,Medium,Thrown in General Trash,Low,0.46
+Madhya Pradesh,Urban,6,Low,Basic,8,5.6,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Gujarat,Rural,8,Low,Basic,6,7.6,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.52
+Telangana,Urban,8,Low,Basic,11,6.2,3,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Madhya Pradesh,Rural,2,High,Basic,30,3.2,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,10.68
+Delhi,Urban,6,Low,Basic,8,6.5,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Delhi,Urban,3,Upper-Middle,Intermediate,19,2.7,0,Medium,Stored Indefinitely,High,0.0
+Karnataka,Urban,4,Upper-Middle,Advanced,19,3.0,1,Medium,Gave away for reuse,High,7.45
+Telangana,Urban,5,Middle,Advanced,10,4.6,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,2.48
+Maharashtra,Urban,5,Low,Basic,8,5.4,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.88
+Karnataka,Urban,4,Upper-Middle,Intermediate,21,2.7,0,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,6.94
+West Bengal,Urban,6,Low,Basic,10,5.2,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,1.11
+Tamil Nadu,Urban,8,Low,Basic,7,7.2,3,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Tamil Nadu,Rural,5,Low,Basic,6,8.1,1,Low,Thrown in General Trash,Low,0.0
+Delhi,Rural,6,Middle,Basic,7,5.8,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Maharashtra,Rural,5,Middle,Basic,9,6.5,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.95
+Andhra Pradesh,Rural,7,Low,Basic,6,8.9,0,Low,Stored Indefinitely,Low,0.0
+Telangana,Urban,7,Low,Basic,8,5.4,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.78
+Haryana,Rural,5,Low,Basic,4,7.0,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.26
+Odisha,Rural,6,Middle,Basic,9,6.2,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.15
+Telangana,Urban,6,Low,Basic,11,5.5,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.49
+Madhya Pradesh,Urban,6,Low,Basic,11,7.3,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.18
+Telangana,Rural,7,Low,Basic,8,6.9,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.8
+Odisha,Urban,6,Low,Basic,10,7.3,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.64
+Bihar,Urban,5,Low,Basic,8,6.9,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Haryana,Rural,6,Middle,Basic,8,5.2,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.87
+West Bengal,Urban,5,Low,Basic,10,6.8,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.96
+Bihar,Urban,6,Middle,Intermediate,12,4.3,1,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,2.5
+Rajasthan,Rural,6,Middle,Basic,11,5.6,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.36
+Jharkhand,Urban,6,Low,Basic,10,6.5,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.99
+Bihar,Rural,5,Low,Basic,4,8.1,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.31
+Delhi,Urban,5,Middle,Intermediate,13,3.6,0,Medium,Thrown in General Trash,Medium,4.18
+Bihar,Rural,5,Low,Basic,4,8.4,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.31
+Maharashtra,Urban,5,Low,Basic,8,5.3,1,Low,Gave away for reuse,Low,0.2
+Andhra Pradesh,Urban,4,Middle,Intermediate,14,5.4,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,2.01
+Maharashtra,Urban,5,Middle,Basic,13,5.0,0,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,2.14
+Haryana,Rural,7,Low,Basic,4,8.1,2,Low,Stored Indefinitely,Low,0.0
+Karnataka,Rural,7,Low,Basic,5,6.6,1,Low,Stored Indefinitely,Low,0.0
+Rajasthan,Urban,5,Upper-Middle,Intermediate,16,2.7,1,High,Gave away for reuse,Medium,9.79
+Delhi,Urban,5,Middle,Basic,14,5.2,1,Medium,Thrown in General Trash,Low,2.11
+Gujarat,Urban,7,Low,Basic,10,6.6,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.23
+Tamil Nadu,Urban,4,High,Advanced,34,2.6,0,High,Sold to Kabadiwala/Scrap Dealer,Low,23.01
+Punjab,Urban,4,High,Advanced,29,2.0,0,High,Thrown in General Trash,High,24.19
+Jharkhand,Urban,4,Upper-Middle,Intermediate,12,2.8,1,Medium,Sold to Kabadiwala/Scrap Dealer,High,3.63
+Telangana,Rural,4,Middle,Basic,7,5.1,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.12
+West Bengal,Urban,8,Low,Basic,9,6.0,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Telangana,Rural,8,Low,Basic,5,7.0,0,Low,Gave away for reuse,Low,0.5
+Gujarat,Urban,7,Low,Basic,8,6.1,0,Low,Formal E-Waste Collection,Low,0.74
+Odisha,Urban,6,Middle,Basic,14,5.1,2,Medium,Sold to Kabadiwala/Scrap Dealer,Low,1.75
+Madhya Pradesh,Urban,8,Low,Basic,6,5.5,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.69
+Delhi,Rural,6,Low,Basic,5,7.4,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Andhra Pradesh,Rural,6,Middle,Basic,6,6.1,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Delhi,Rural,4,Middle,Basic,4,6.3,1,Low,Stored Indefinitely,Low,0.0
+Uttar Pradesh,Urban,6,Middle,Basic,15,5.3,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,3.83
+Tamil Nadu,Rural,6,Low,Basic,4,7.8,2,Low,Thrown in General Trash,Low,0.0
+Andhra Pradesh,Urban,3,Upper-Middle,Intermediate,14,2.9,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,3.86
+Tamil Nadu,Rural,7,Low,Basic,4,6.5,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.32
+Jharkhand,Urban,7,Low,Basic,10,7.2,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Maharashtra,Rural,3,Upper-Middle,Basic,15,4.3,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,2.13
+Delhi,Urban,5,Middle,Intermediate,12,4.9,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,2.95
+Maharashtra,Rural,5,Low,Basic,4,7.7,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.31
+Andhra Pradesh,Urban,4,Upper-Middle,Intermediate,13,2.7,0,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,6.37
+Tamil Nadu,Rural,5,Low,Basic,6,8.9,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.37
+Madhya Pradesh,Rural,6,Low,Basic,5,7.7,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Odisha,Urban,6,Middle,Intermediate,10,4.2,0,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,2.13
+Jharkhand,Urban,2,High,Advanced,25,2.3,0,High,Sold to Kabadiwala/Scrap Dealer,High,19.38
+Maharashtra,Rural,8,Low,Basic,4,7.6,0,Low,Thrown in General Trash,Low,0.37
+Jharkhand,Urban,6,Middle,Intermediate,8,3.9,2,Medium,Formal E-Waste Collection,Low,0.76
+Delhi,Urban,4,Upper-Middle,Intermediate,21,3.0,1,Medium,Sold to Kabadiwala/Scrap Dealer,High,6.38
+Rajasthan,Urban,6,Low,Basic,6,5.9,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Bihar,Rural,7,Low,Basic,7,6.6,1,Low,Gave away for reuse,Low,0.0
+Karnataka,Rural,6,Middle,Basic,10,5.6,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.32
+Uttar Pradesh,Urban,4,Upper-Middle,Intermediate,21,2.5,1,High,Formal E-Waste Collection,High,15.96
+Maharashtra,Urban,7,Low,Basic,6,6.8,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Kerala,Rural,4,High,Basic,16,3.1,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,5.67
+Madhya Pradesh,Urban,7,Low,Basic,6,7.6,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.51
+West Bengal,Urban,5,Middle,Intermediate,13,4.8,0,Medium,Formal E-Waste Collection,Medium,3.04
+Jharkhand,Rural,5,Middle,Basic,6,6.3,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Tamil Nadu,Urban,5,Middle,Intermediate,10,4.8,1,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,1.53
+Uttar Pradesh,Urban,5,Low,Basic,6,6.0,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+West Bengal,Rural,6,Middle,Basic,7,5.0,1,Low,Formal E-Waste Collection,Low,0.12
+Telangana,Urban,6,Low,Basic,6,7.4,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.53
+Delhi,Rural,3,Upper-Middle,Basic,11,5.2,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,1.04
+Bihar,Rural,4,Middle,Basic,7,6.1,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.45
+Andhra Pradesh,Urban,6,Low,Basic,9,5.8,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.23
+Madhya Pradesh,Rural,4,Middle,Basic,9,5.0,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,1.02
+Maharashtra,Rural,6,Middle,Basic,5,5.9,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.59
+Maharashtra,Urban,5,Middle,Intermediate,10,5.2,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,2.02
+Maharashtra,Urban,5,Middle,Basic,10,3.7,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,3.5
+Rajasthan,Urban,5,Low,Basic,9,5.6,0,Low,Thrown in General Trash,Low,0.9
+Andhra Pradesh,Urban,3,Upper-Middle,Intermediate,18,2.5,0,Medium,Formal E-Waste Collection,Medium,6.44
+Andhra Pradesh,Rural,5,Middle,Basic,10,5.1,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.41
+Punjab,Urban,7,Low,Basic,8,5.9,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Kerala,Rural,8,Low,Basic,4,8.8,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.26
+Madhya Pradesh,Rural,4,Middle,Basic,8,5.6,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,1.11
+Karnataka,Rural,6,Low,Basic,4,9.5,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Delhi,Urban,6,Low,Basic,8,5.1,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Jharkhand,Rural,6,Middle,Basic,8,6.8,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Punjab,Urban,8,Low,Basic,10,5.1,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,1.31
+Odisha,Urban,5,Middle,Intermediate,13,5.0,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,2.4
+Rajasthan,Rural,4,Middle,Basic,4,6.4,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.32
+Bihar,Urban,6,Middle,Basic,8,5.3,1,Medium,Formal E-Waste Collection,Medium,1.05
+Maharashtra,Rural,5,Middle,Basic,10,6.5,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.18
+Rajasthan,Urban,5,Low,Basic,11,5.1,1,Low,Thrown in General Trash,Low,0.7
+Telangana,Urban,7,Low,Basic,11,5.8,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.45
+Rajasthan,Urban,4,Upper-Middle,Intermediate,19,4.0,0,Medium,Thrown in General Trash,Medium,6.2
+Odisha,Rural,8,Low,Basic,6,7.0,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Punjab,Urban,4,Upper-Middle,Intermediate,14,2.9,1,High,Formal E-Waste Collection,Medium,8.67
+Karnataka,Urban,3,Upper-Middle,Intermediate,20,2.9,0,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,7.5
+Punjab,Urban,5,Middle,Intermediate,14,3.9,1,Medium,Formal E-Waste Collection,Medium,3.6
+Bihar,Rural,8,Low,Basic,7,7.7,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.53
+Telangana,Urban,6,Low,Basic,8,7.3,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Rajasthan,Rural,8,Low,Basic,6,8.1,3,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Karnataka,Urban,4,Middle,Basic,13,4.7,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,2.29
+Odisha,Urban,4,Middle,Intermediate,8,4.7,1,Medium,Formal E-Waste Collection,Medium,0.98
+Delhi,Rural,5,Upper-Middle,Basic,9,4.1,1,Medium,Stored Indefinitely,Low,0.0
+Andhra Pradesh,Rural,4,Middle,Basic,8,5.7,1,Low,Thrown in General Trash,Low,0.13
+Odisha,Urban,5,Upper-Middle,Intermediate,18,3.3,1,High,Sold to Kabadiwala/Scrap Dealer,Medium,7.45
+Tamil Nadu,Rural,3,Upper-Middle,Basic,9,5.1,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,1.29
+Bihar,Urban,6,Middle,Intermediate,15,5.3,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,2.26
+Uttar Pradesh,Urban,5,Middle,Advanced,15,4.8,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,3.12
+Maharashtra,Urban,7,Low,Basic,7,5.8,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.8
+Tamil Nadu,Urban,5,Middle,Intermediate,8,5.4,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,0.8
+Odisha,Rural,7,Low,Basic,8,7.3,2,Low,Formal E-Waste Collection,Low,0.0
+Bihar,Urban,7,Low,Basic,5,5.2,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Kerala,Rural,6,Middle,Basic,5,6.3,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Madhya Pradesh,Urban,5,Middle,Intermediate,13,3.7,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,3.65
+Maharashtra,Rural,6,Middle,Basic,6,5.1,1,Low,Thrown in General Trash,Low,0.0
+Rajasthan,Rural,5,Upper-Middle,Basic,8,5.3,0,Low,Gave away for reuse,Low,0.85
+Delhi,Urban,5,Upper-Middle,Intermediate,20,3.6,1,High,Sold to Kabadiwala/Scrap Dealer,Low,8.07
+Uttar Pradesh,Rural,5,Low,Basic,4,9.2,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Uttar Pradesh,Urban,5,Upper-Middle,Intermediate,17,3.7,0,High,Formal E-Waste Collection,Medium,6.81
+Telangana,Urban,5,Middle,Intermediate,10,4.6,1,Medium,Gave away for reuse,Medium,1.65
+Bihar,Urban,5,Middle,Basic,11,3.9,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,3.31
+Andhra Pradesh,Rural,5,Middle,Basic,6,5.1,1,Low,Thrown in General Trash,Low,0.0
+Bihar,Urban,5,Upper-Middle,Intermediate,21,3.6,1,Medium,Sold to Kabadiwala/Scrap Dealer,High,5.98
+West Bengal,Rural,6,Middle,Basic,6,5.5,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.84
+Delhi,Rural,5,Upper-Middle,Basic,16,5.3,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,3.9
+Gujarat,Urban,6,Middle,Advanced,11,4.1,0,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,2.37
+Jharkhand,Urban,5,Low,Basic,7,7.9,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.4
+Gujarat,Rural,4,Upper-Middle,Basic,15,5.4,1,Medium,Gave away for reuse,Low,3.02
+Madhya Pradesh,Urban,5,Middle,Basic,10,5.1,1,Medium,Sold to Kabadiwala/Scrap Dealer,High,1.51
+Jharkhand,Rural,5,Upper-Middle,Basic,8,5.0,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.26
+Punjab,Rural,6,Middle,Basic,6,5.4,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.5
+Maharashtra,Urban,4,Upper-Middle,Intermediate,16,3.7,0,High,Thrown in General Trash,High,8.48
+West Bengal,Rural,4,Middle,Basic,7,5.7,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.02
+Andhra Pradesh,Rural,5,Low,Basic,4,9.4,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+West Bengal,Rural,4,Middle,Basic,5,6.2,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.58
+Rajasthan,Urban,6,Middle,Basic,11,4.6,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,2.63
+Andhra Pradesh,Urban,6,Middle,Basic,12,4.0,1,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,2.73
+Kerala,Urban,5,Low,Basic,6,5.8,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.49
+West Bengal,Rural,5,Low,Basic,6,6.6,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Gujarat,Rural,5,Low,Basic,4,6.5,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Karnataka,Rural,7,Low,Basic,4,8.7,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Uttar Pradesh,Urban,4,Middle,Advanced,12,5.5,1,Medium,Thrown in General Trash,Low,1.73
+Odisha,Urban,6,Middle,Intermediate,8,4.7,0,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,1.99
+Andhra Pradesh,Urban,5,Upper-Middle,Basic,21,4.0,0,High,Sold to Kabadiwala/Scrap Dealer,High,5.32
+Telangana,Rural,8,Low,Basic,7,8.9,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.39
+Karnataka,Urban,2,High,Advanced,34,2.4,0,High,Sold to Kabadiwala/Scrap Dealer,Low,26.99
+West Bengal,Urban,6,Low,Basic,11,5.8,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,1.35
+Bihar,Rural,8,Low,Basic,6,7.1,0,Low,Formal E-Waste Collection,Low,0.63
+West Bengal,Urban,6,Low,Basic,8,6.7,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Punjab,Rural,7,Low,Basic,8,7.6,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Haryana,Urban,3,Upper-Middle,Intermediate,15,3.8,0,Medium,Sold to Kabadiwala/Scrap Dealer,High,3.94
+Kerala,Urban,5,Low,Basic,7,8.0,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.54
+Punjab,Rural,8,Low,Basic,4,6.7,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Uttar Pradesh,Urban,4,Upper-Middle,Intermediate,19,3.1,0,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,5.51
+West Bengal,Urban,5,Low,Basic,6,5.2,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Madhya Pradesh,Rural,5,Low,Basic,4,6.6,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Odisha,Urban,8,Low,Basic,10,6.0,3,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Gujarat,Urban,4,Upper-Middle,Advanced,16,2.7,0,High,Sold to Kabadiwala/Scrap Dealer,Medium,8.9
+Jharkhand,Rural,6,Low,Basic,6,6.5,1,Low,Thrown in General Trash,Low,0.0
+Odisha,Urban,3,Upper-Middle,Basic,12,3.1,0,High,Sold to Kabadiwala/Scrap Dealer,Low,7.64
+West Bengal,Urban,6,Low,Basic,5,5.2,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Tamil Nadu,Rural,4,Middle,Basic,12,7.0,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.28
+Odisha,Urban,8,Low,Basic,7,7.1,3,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Rajasthan,Rural,6,Low,Basic,6,7.5,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Kerala,Urban,5,Middle,Basic,12,4.2,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,2.15
+Kerala,Urban,5,Middle,Intermediate,12,5.0,0,Medium,Formal E-Waste Collection,Medium,2.49
+Bihar,Urban,6,Middle,Basic,14,5.0,0,Medium,Formal E-Waste Collection,Medium,3.27
+Bihar,Rural,3,High,Basic,22,3.0,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,7.97
+Delhi,Rural,3,Upper-Middle,Basic,15,5.5,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,3.67
+Maharashtra,Urban,4,Middle,Basic,11,4.5,0,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,2.95
+Rajasthan,Urban,3,Upper-Middle,Intermediate,21,3.2,0,Medium,Sold to Kabadiwala/Scrap Dealer,High,6.52
+Tamil Nadu,Urban,5,Middle,Intermediate,14,4.8,1,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,3.15
+Andhra Pradesh,Urban,6,Low,Basic,9,7.0,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.87
+Odisha,Urban,4,Middle,Basic,15,4.9,0,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,3.14
+Telangana,Urban,3,Upper-Middle,Advanced,17,4.0,0,Medium,Stored Indefinitely,High,0.0
+Maharashtra,Rural,4,Middle,Basic,10,6.3,1,Low,Formal E-Waste Collection,Low,0.21
+Kerala,Rural,3,High,Basic,29,4.0,0,Medium,Stored Indefinitely,Low,0.0
+Punjab,Urban,5,Upper-Middle,Intermediate,14,3.9,0,Medium,Sold to Kabadiwala/Scrap Dealer,High,3.01
+Telangana,Urban,8,Low,Basic,5,6.3,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Maharashtra,Rural,5,Low,Basic,4,8.6,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Maharashtra,Urban,8,Low,Basic,7,6.5,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Bihar,Rural,3,Upper-Middle,Basic,12,5.4,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,1.3
+Telangana,Rural,4,Upper-Middle,Basic,12,4.7,1,Low,Stored Indefinitely,Low,0.0
+Rajasthan,Urban,5,Low,Basic,8,6.3,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.05
+Haryana,Rural,4,Middle,Basic,4,6.6,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.4
+Kerala,Urban,4,Middle,Basic,9,3.9,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,3.19
+Haryana,Rural,8,Low,Basic,7,7.1,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Punjab,Rural,3,High,Basic,19,3.5,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,4.94
+Karnataka,Rural,5,Low,Basic,4,8.6,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.27
+Haryana,Urban,6,Low,Basic,11,5.3,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Tamil Nadu,Rural,5,Upper-Middle,Basic,9,4.8,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,1.14
+Uttar Pradesh,Urban,7,Low,Basic,6,7.5,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.61
+Delhi,Rural,8,Low,Basic,4,7.4,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.27
+Tamil Nadu,Rural,6,Low,Basic,8,9.3,2,Low,Formal E-Waste Collection,Low,0.0
+Telangana,Rural,4,Middle,Basic,7,6.3,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Telangana,Urban,3,Upper-Middle,Advanced,20,2.5,0,Medium,Thrown in General Trash,High,5.84
+Delhi,Urban,4,Middle,Intermediate,15,4.4,0,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,2.84
+Uttar Pradesh,Rural,5,Low,Basic,7,8.7,1,Low,Formal E-Waste Collection,Low,0.0
+Uttar Pradesh,Urban,8,Low,Basic,11,7.3,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.95
+Uttar Pradesh,Rural,4,Middle,Basic,6,5.8,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.6
+Jharkhand,Urban,5,Upper-Middle,Intermediate,13,3.5,1,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,2.31
+Uttar Pradesh,Rural,5,Middle,Basic,8,6.6,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.01
+Delhi,Urban,6,Low,Basic,10,7.2,1,Low,Stored Indefinitely,Low,0.0
+Bihar,Rural,6,Low,Basic,8,8.3,2,Low,Gave away for reuse,Low,0.0
+Uttar Pradesh,Urban,8,Low,Basic,10,7.9,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Delhi,Urban,4,Middle,Basic,12,3.8,1,Medium,Thrown in General Trash,High,2.22
+Uttar Pradesh,Urban,4,Middle,Intermediate,12,3.8,0,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,3.64
+Tamil Nadu,Urban,5,Low,Basic,9,6.5,0,Low,Thrown in General Trash,Low,0.82
+Uttar Pradesh,Urban,4,Upper-Middle,Advanced,17,3.7,1,High,Sold to Kabadiwala/Scrap Dealer,High,6.69
+Odisha,Rural,3,Upper-Middle,Basic,12,5.1,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,1.5
+Delhi,Rural,8,Low,Basic,6,8.4,0,Low,Formal E-Waste Collection,Low,0.35
+Jharkhand,Urban,3,High,Advanced,22,2.0,0,High,Sold to Kabadiwala/Scrap Dealer,Medium,25.77
+Madhya Pradesh,Urban,4,Upper-Middle,Intermediate,21,3.5,0,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,6.27
+Delhi,Rural,7,Low,Basic,4,7.2,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.4
+Bihar,Urban,5,Low,Basic,7,7.5,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.52
+Punjab,Urban,6,Low,Basic,10,8.0,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.04
+Uttar Pradesh,Rural,3,Upper-Middle,Basic,17,5.3,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,2.66
+Tamil Nadu,Urban,3,High,Advanced,31,2.7,0,High,Formal E-Waste Collection,Medium,21.27
+Maharashtra,Urban,6,Middle,Basic,9,3.8,1,Medium,Gave away for reuse,Low,2.14
+Madhya Pradesh,Urban,8,Low,Basic,10,7.1,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Bihar,Urban,4,Upper-Middle,Intermediate,15,3.8,0,High,Thrown in General Trash,Low,6.59
+Rajasthan,Rural,6,Middle,Basic,4,6.6,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Gujarat,Rural,4,Middle,Basic,11,5.4,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,1.34
+Madhya Pradesh,Urban,7,Low,Basic,11,6.6,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Uttar Pradesh,Urban,6,Middle,Basic,14,3.7,1,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,3.09
+Tamil Nadu,Rural,4,Middle,Basic,4,6.2,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.35
+Gujarat,Rural,7,Low,Basic,4,9.3,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Punjab,Rural,6,Middle,Basic,4,6.7,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Punjab,Rural,8,Low,Basic,4,6.6,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.3
+Jharkhand,Rural,5,Upper-Middle,Basic,16,4.1,0,Low,Formal E-Waste Collection,Low,2.76
+Haryana,Rural,6,Middle,Basic,10,5.6,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,1.13
+Karnataka,Rural,7,Low,Basic,7,7.1,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.67
+Jharkhand,Urban,6,Middle,Advanced,15,4.7,0,Medium,Formal E-Waste Collection,Low,3.63
+Odisha,Urban,8,Low,Basic,5,6.5,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+West Bengal,Rural,5,Upper-Middle,Basic,10,4.7,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.54
+West Bengal,Urban,5,Middle,Intermediate,8,3.8,1,Medium,Gave away for reuse,Medium,1.81
+Delhi,Urban,7,Low,Basic,7,7.0,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Kerala,Rural,7,Low,Basic,7,7.8,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Tamil Nadu,Urban,6,Middle,Advanced,10,4.8,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,1.27
+Haryana,Rural,7,Low,Basic,5,8.6,1,Low,Formal E-Waste Collection,Low,0.0
+Haryana,Rural,7,Low,Basic,7,8.9,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Punjab,Urban,8,Low,Basic,5,6.9,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Odisha,Rural,5,Low,Basic,5,9.2,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.37
+Maharashtra,Urban,4,Middle,Basic,8,5.0,1,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,1.04
+Uttar Pradesh,Urban,5,Middle,Basic,9,5.4,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,1.22
+Kerala,Urban,6,Middle,Basic,10,4.4,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,1.5
+Uttar Pradesh,Urban,5,Middle,Intermediate,9,4.0,0,Medium,Stored Indefinitely,Medium,0.0
+Kerala,Urban,4,Middle,Intermediate,15,4.4,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,3.59
+Telangana,Urban,5,Upper-Middle,Intermediate,15,2.6,0,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,5.96
+Tamil Nadu,Rural,7,Low,Basic,7,7.3,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Bihar,Rural,6,Low,Basic,5,9.1,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.28
+West Bengal,Urban,4,Middle,Basic,14,4.6,0,Medium,Stored Indefinitely,Low,0.0
+Odisha,Urban,4,Middle,Basic,11,5.3,1,Medium,Formal E-Waste Collection,Medium,1.55
+Madhya Pradesh,Urban,4,Middle,Intermediate,13,4.4,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,2.77
+Gujarat,Rural,7,Low,Basic,5,6.8,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Maharashtra,Urban,8,Low,Basic,5,5.5,0,Low,Thrown in General Trash,Low,0.59
+Gujarat,Rural,6,Low,Basic,8,8.4,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Delhi,Urban,6,Low,Basic,10,6.0,2,Low,Stored Indefinitely,Low,0.0
+Maharashtra,Urban,7,Low,Basic,5,6.3,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Maharashtra,Urban,4,High,Advanced,34,2.0,0,High,Formal E-Waste Collection,High,27.13
+Madhya Pradesh,Urban,6,Low,Basic,6,5.7,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.53
+Jharkhand,Urban,6,Low,Basic,10,6.4,0,Low,Thrown in General Trash,Low,0.91
+Odisha,Rural,5,Low,Basic,4,6.6,0,Low,Thrown in General Trash,Low,0.45
+Gujarat,Rural,4,Upper-Middle,Basic,16,4.3,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,1.59
+Uttar Pradesh,Urban,6,Low,Basic,11,5.5,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Odisha,Urban,6,Middle,Advanced,10,4.3,2,Medium,Thrown in General Trash,Medium,1.42
+Bihar,Urban,4,Upper-Middle,Advanced,16,2.5,0,High,Sold to Kabadiwala/Scrap Dealer,Medium,11.88
+Rajasthan,Urban,8,Low,Basic,9,5.1,3,Low,Gave away for reuse,Low,0.0
+Odisha,Urban,8,Low,Basic,11,8.0,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Gujarat,Urban,7,Low,Basic,7,5.3,1,Low,Stored Indefinitely,Low,0.0
+Punjab,Urban,8,Low,Basic,5,5.6,3,Low,Thrown in General Trash,Low,0.0
+Uttar Pradesh,Urban,7,Low,Basic,5,5.7,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.78
+Andhra Pradesh,Rural,5,Low,Basic,4,9.2,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Karnataka,Rural,5,Low,Basic,7,8.0,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Jharkhand,Urban,8,Low,Basic,8,6.2,3,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Uttar Pradesh,Rural,4,Upper-Middle,Basic,9,4.1,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,1.8
+Andhra Pradesh,Urban,6,Middle,Basic,10,5.3,0,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,1.52
+Punjab,Rural,4,Middle,Basic,4,6.2,1,Low,Stored Indefinitely,Low,0.0
+Tamil Nadu,Urban,3,Upper-Middle,Advanced,13,3.3,0,Medium,Thrown in General Trash,High,4.22
+Bihar,Rural,5,Middle,Basic,5,5.5,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.52
+Telangana,Urban,4,Middle,Basic,9,5.2,0,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,1.62
+Kerala,Urban,7,Low,Basic,5,7.4,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Rajasthan,Urban,7,Low,Basic,5,5.9,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Haryana,Urban,5,Upper-Middle,Intermediate,14,2.6,1,Medium,Formal E-Waste Collection,Medium,5.97
+Tamil Nadu,Urban,5,Middle,Basic,12,5.3,0,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,2.49
+Uttar Pradesh,Urban,8,Low,Basic,10,7.8,2,Low,Formal E-Waste Collection,Low,0.0
+Haryana,Urban,3,Upper-Middle,Advanced,16,3.7,0,High,Sold to Kabadiwala/Scrap Dealer,High,7.49
+Karnataka,Rural,7,Low,Basic,4,7.7,0,Low,Stored Indefinitely,Low,0.0
+Kerala,Urban,5,Low,Basic,6,7.5,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Punjab,Urban,7,Low,Basic,7,5.6,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.03
+Andhra Pradesh,Rural,6,Low,Basic,4,8.2,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Odisha,Rural,5,Middle,Basic,11,6.6,1,Low,Formal E-Waste Collection,Low,0.29
+Bihar,Urban,5,Upper-Middle,Intermediate,16,2.7,0,High,Sold to Kabadiwala/Scrap Dealer,Medium,10.12
+Uttar Pradesh,Urban,6,Middle,Basic,11,5.1,2,Medium,Sold to Kabadiwala/Scrap Dealer,Low,0.8
+Madhya Pradesh,Rural,8,Low,Basic,6,8.1,2,Low,Formal E-Waste Collection,Low,0.0
+Delhi,Urban,7,Low,Basic,7,7.0,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Punjab,Urban,5,Low,Basic,9,6.6,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.64
+Odisha,Rural,8,Low,Basic,4,8.7,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Bihar,Urban,6,Middle,Intermediate,12,3.8,2,Medium,Sold to Kabadiwala/Scrap Dealer,High,1.83
+Jharkhand,Rural,5,Upper-Middle,Basic,11,5.0,0,Medium,Thrown in General Trash,Low,2.79
+Uttar Pradesh,Urban,4,Middle,Basic,14,3.6,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,3.76
+Haryana,Rural,7,Low,Basic,4,8.6,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.29
+Madhya Pradesh,Rural,5,Middle,Basic,11,6.2,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.99
+Punjab,Urban,5,Low,Basic,5,7.1,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Odisha,Urban,2,High,Advanced,22,2.0,0,High,Formal E-Waste Collection,High,18.22
+Delhi,Rural,6,Low,Basic,5,9.5,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Delhi,Urban,5,Low,Basic,10,7.3,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.74
+Madhya Pradesh,Rural,7,Low,Basic,4,6.8,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Karnataka,Rural,8,Low,Basic,4,7.0,3,Low,Thrown in General Trash,Low,0.0
+Haryana,Urban,7,Low,Basic,6,5.7,2,Low,Formal E-Waste Collection,Low,0.0
+Delhi,Urban,5,Middle,Basic,14,4.9,0,Medium,Stored Indefinitely,Medium,0.0
+Karnataka,Urban,4,Middle,Intermediate,12,5.0,1,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,1.61
+Madhya Pradesh,Urban,6,Low,Basic,5,7.8,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.44
+Andhra Pradesh,Urban,4,Middle,Basic,10,3.7,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,1.6
+Gujarat,Rural,4,Middle,Basic,12,5.3,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,1.25
+Maharashtra,Urban,7,Low,Basic,7,5.8,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Rajasthan,Urban,8,Low,Basic,11,7.9,3,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Andhra Pradesh,Rural,4,Middle,Basic,4,5.8,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Rajasthan,Urban,5,Middle,Advanced,13,3.6,1,Medium,Thrown in General Trash,Low,3.58
+Jharkhand,Rural,6,Middle,Basic,4,5.2,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Karnataka,Urban,7,Low,Basic,5,6.0,1,Low,Thrown in General Trash,Low,0.0
+Kerala,Urban,8,Low,Basic,11,6.9,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Telangana,Urban,7,Low,Basic,7,5.2,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Karnataka,Rural,7,Low,Basic,4,6.7,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Kerala,Urban,6,Middle,Basic,8,5.3,0,Medium,Stored Indefinitely,Low,0.0
+Kerala,Rural,5,Middle,Basic,8,6.0,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.09
+Andhra Pradesh,Urban,4,High,Advanced,22,2.3,0,High,Gave away for reuse,High,14.96
+West Bengal,Rural,6,Low,Basic,7,9.3,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.43
+Jharkhand,Urban,8,Low,Basic,10,7.3,3,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Punjab,Rural,5,Low,Basic,4,6.6,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Telangana,Urban,6,Low,Basic,11,6.2,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Maharashtra,Urban,7,Low,Basic,8,5.2,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.18
+Odisha,Urban,8,Low,Basic,7,6.0,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.79
+Maharashtra,Urban,4,Middle,Intermediate,14,3.5,1,Medium,Sold to Kabadiwala/Scrap Dealer,High,4.05
+Madhya Pradesh,Urban,5,Middle,Basic,10,4.6,1,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,1.62
+Andhra Pradesh,Rural,7,Low,Basic,4,8.4,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Maharashtra,Rural,5,Upper-Middle,Basic,16,4.3,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,3.71
+Maharashtra,Urban,8,Low,Basic,6,7.7,3,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Karnataka,Rural,5,Low,Basic,4,9.3,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Uttar Pradesh,Rural,5,Low,Basic,4,7.0,1,Low,Gave away for reuse,Low,0.0
+Bihar,Urban,8,Low,Basic,9,7.9,3,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Karnataka,Urban,5,Upper-Middle,Intermediate,17,3.6,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,4.01
+Haryana,Urban,6,Middle,Basic,8,5.1,0,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,1.52
+Haryana,Urban,4,Middle,Basic,13,5.3,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,2.04
+Tamil Nadu,Rural,5,Middle,Basic,10,6.4,1,Low,Formal E-Waste Collection,Low,0.21
+Haryana,Urban,4,Upper-Middle,Advanced,12,2.7,0,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,5.24
+Gujarat,Urban,8,Low,Basic,11,7.4,1,Low,Thrown in General Trash,Low,0.22
+Odisha,Urban,5,Middle,Basic,12,4.3,0,Medium,Stored Indefinitely,Low,0.0
+Andhra Pradesh,Rural,8,Low,Basic,4,9.4,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Bihar,Urban,6,Middle,Basic,8,5.0,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,1.75
+Haryana,Urban,5,Middle,Basic,13,4.0,1,Medium,Gave away for reuse,Medium,3.22
+Gujarat,Urban,4,Middle,Intermediate,11,4.5,0,Medium,Stored Indefinitely,Medium,0.0
+Karnataka,Urban,6,Low,Basic,5,7.6,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Rajasthan,Urban,8,Low,Basic,10,6.0,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,1.11
+Odisha,Rural,6,Middle,Basic,4,5.3,0,Low,Gave away for reuse,Low,0.4
+Gujarat,Urban,5,Upper-Middle,Intermediate,12,3.6,1,Medium,Stored Indefinitely,Medium,0.0
+Haryana,Rural,5,Low,Basic,6,7.2,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Jharkhand,Urban,5,Middle,Basic,15,4.9,0,Medium,Sold to Kabadiwala/Scrap Dealer,High,3.41
+Uttar Pradesh,Rural,4,Upper-Middle,Basic,8,5.2,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.26
+Jharkhand,Rural,6,Middle,Basic,9,5.4,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.88
+Uttar Pradesh,Urban,4,Middle,Basic,10,4.3,1,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,1.83
+Delhi,Rural,5,Low,Basic,8,8.2,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.38
+Madhya Pradesh,Rural,6,Low,Basic,7,9.2,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.47
+Gujarat,Urban,7,Low,Basic,5,7.2,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Delhi,Urban,4,Middle,Basic,11,4.7,1,Medium,Formal E-Waste Collection,Medium,1.71
+Haryana,Urban,2,High,Advanced,26,2.7,0,High,Sold to Kabadiwala/Scrap Dealer,High,13.19
+Karnataka,Urban,4,Middle,Basic,9,3.7,1,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,2.06
+Haryana,Rural,7,Low,Basic,7,8.5,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Odisha,Urban,4,Middle,Basic,9,4.1,1,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,1.35
+Gujarat,Urban,2,High,Advanced,32,1.7,0,High,Sold to Kabadiwala/Scrap Dealer,Low,23.32
+Odisha,Urban,5,Low,Basic,7,5.3,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.07
+Tamil Nadu,Rural,6,Middle,Basic,8,6.6,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.56
+Jharkhand,Urban,6,Low,Basic,8,7.4,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.68
+Haryana,Rural,4,Middle,Basic,5,5.0,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Madhya Pradesh,Urban,5,Middle,Intermediate,13,3.6,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,3.6
+Rajasthan,Rural,4,Middle,Basic,4,5.7,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.51
+Tamil Nadu,Urban,4,Middle,Intermediate,11,4.0,0,Medium,Thrown in General Trash,Low,3.16
+Rajasthan,Urban,5,Upper-Middle,Basic,21,3.2,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,6.93
+Jharkhand,Urban,5,Upper-Middle,Intermediate,18,3.6,1,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,4.95
+Odisha,Rural,4,Middle,Basic,4,6.6,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.29
+Delhi,Rural,5,Middle,Basic,11,5.8,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.83
+West Bengal,Urban,5,Middle,Basic,14,4.2,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,3.65
+Haryana,Urban,7,Low,Basic,11,5.3,2,Low,Formal E-Waste Collection,Low,0.0
+Gujarat,Urban,5,Upper-Middle,Advanced,12,2.6,0,High,Sold to Kabadiwala/Scrap Dealer,Medium,8.79
+Delhi,Rural,5,Low,Basic,5,8.4,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Gujarat,Rural,3,Upper-Middle,Basic,12,5.2,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,2.68
+Uttar Pradesh,Urban,6,Low,Basic,8,5.8,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,1.05
+Kerala,Rural,4,Middle,Basic,6,5.8,1,Low,Thrown in General Trash,Low,0.0
+Punjab,Urban,6,Middle,Intermediate,8,4.2,0,Medium,Thrown in General Trash,Medium,2.14
+Odisha,Urban,5,Upper-Middle,Intermediate,17,3.9,0,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,5.9
+Tamil Nadu,Urban,7,Low,Basic,10,6.1,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.85
+Maharashtra,Urban,4,Middle,Intermediate,11,4.1,0,Medium,Gave away for reuse,Low,2.36
+Odisha,Urban,7,Low,Basic,5,5.4,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Karnataka,Urban,4,Middle,Intermediate,15,5.5,1,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,1.95
+Maharashtra,Rural,5,Low,Basic,4,8.5,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Haryana,Rural,7,Low,Basic,4,7.9,1,Low,Thrown in General Trash,Low,0.0
+Tamil Nadu,Rural,4,Middle,Basic,10,6.8,0,Low,Stored Indefinitely,Low,0.0
+Madhya Pradesh,Urban,5,Upper-Middle,Intermediate,18,3.5,1,Medium,Gave away for reuse,Medium,4.8
+Telangana,Urban,6,Low,Basic,7,5.7,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.94
+Rajasthan,Urban,8,Low,Basic,10,7.8,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.89
+Jharkhand,Urban,5,Middle,Intermediate,11,4.9,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,2.87
+Punjab,Rural,5,Middle,Basic,9,6.8,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.09
+Telangana,Urban,6,Middle,Intermediate,10,4.1,0,Medium,Formal E-Waste Collection,Medium,2.07
+Karnataka,Rural,5,Low,Basic,6,9.1,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Rajasthan,Rural,6,Low,Basic,4,7.3,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Maharashtra,Rural,4,Upper-Middle,Basic,10,4.1,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.54
+Odisha,Rural,5,Low,Basic,4,8.3,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.33
+Gujarat,Urban,6,Low,Basic,5,6.2,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.55
+Kerala,Urban,4,Middle,Intermediate,15,3.5,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,4.71
+Tamil Nadu,Urban,4,High,Advanced,28,2.9,0,High,Formal E-Waste Collection,High,15.02
+Delhi,Urban,4,Middle,Intermediate,9,3.9,0,Medium,Thrown in General Trash,Low,2.37
+Karnataka,Urban,7,Low,Basic,5,6.0,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Punjab,Rural,7,Low,Basic,4,6.5,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.39
+Gujarat,Urban,6,Low,Basic,10,7.6,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Uttar Pradesh,Urban,8,Low,Basic,11,5.9,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.44
+Maharashtra,Rural,4,Middle,Basic,8,6.7,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,1.01
+Madhya Pradesh,Urban,8,Low,Basic,11,5.6,3,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Tamil Nadu,Urban,3,Upper-Middle,Intermediate,16,2.6,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,6.32
+Madhya Pradesh,Urban,8,Low,Basic,6,5.4,0,Low,Stored Indefinitely,Low,0.0
+Tamil Nadu,Urban,5,Middle,Intermediate,14,4.5,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,2.2
+Maharashtra,Urban,5,Middle,Basic,15,4.6,0,Medium,Thrown in General Trash,Low,3.55
+Jharkhand,Urban,6,Low,Basic,9,7.6,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Karnataka,Rural,6,Low,Basic,4,7.2,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Kerala,Urban,5,Upper-Middle,Advanced,16,3.5,1,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,3.8
+Karnataka,Urban,8,Low,Basic,9,6.2,0,Low,Gave away for reuse,Low,1.09
+Haryana,Urban,5,Upper-Middle,Advanced,15,3.1,1,Medium,Sold to Kabadiwala/Scrap Dealer,High,4.2
+Bihar,Urban,5,Low,Basic,11,7.5,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.75
+Telangana,Urban,5,Upper-Middle,Advanced,21,3.0,0,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,6.81
+West Bengal,Urban,5,Low,Basic,7,5.3,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.07
+Kerala,Urban,5,Low,Basic,8,6.8,1,Low,Gave away for reuse,Low,0.0
+Maharashtra,Urban,5,Low,Basic,5,7.3,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.52
+West Bengal,Urban,8,Low,Basic,7,7.3,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Uttar Pradesh,Urban,4,Upper-Middle,Intermediate,15,3.0,1,High,Gave away for reuse,Low,7.66
+Andhra Pradesh,Urban,5,Low,Basic,8,7.0,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.74
+Madhya Pradesh,Rural,4,Upper-Middle,Basic,10,5.4,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,1.18
+Rajasthan,Urban,7,Low,Basic,6,7.6,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Jharkhand,Rural,3,Upper-Middle,Basic,16,4.6,0,Medium,Formal E-Waste Collection,Low,3.89
+Karnataka,Rural,7,Low,Basic,4,7.2,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Telangana,Rural,4,Middle,Basic,4,5.1,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.46
+Maharashtra,Urban,4,Upper-Middle,Advanced,13,3.7,1,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,3.85
+Rajasthan,Urban,5,Low,Basic,10,5.8,1,Low,Formal E-Waste Collection,Low,0.28
+Telangana,Rural,4,High,Basic,28,3.8,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,5.8
+Karnataka,Urban,5,Upper-Middle,Advanced,16,3.1,0,High,Thrown in General Trash,Medium,10.33
+Andhra Pradesh,Urban,6,Middle,Intermediate,8,4.9,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,1.74
+Bihar,Urban,5,Upper-Middle,Intermediate,13,3.8,0,Medium,Formal E-Waste Collection,Medium,3.8
+Delhi,Rural,3,High,Basic,19,3.5,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,7.24
+Rajasthan,Urban,6,Low,Basic,10,6.1,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Jharkhand,Urban,6,Middle,Advanced,10,4.9,2,Medium,Sold to Kabadiwala/Scrap Dealer,Low,0.87
+Jharkhand,Urban,8,Low,Basic,10,7.4,3,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Delhi,Urban,5,Middle,Basic,8,4.9,0,Medium,Thrown in General Trash,High,1.24
+Punjab,Urban,6,Middle,Advanced,10,4.3,0,Medium,Thrown in General Trash,Low,2.53
+Andhra Pradesh,Urban,2,High,Advanced,28,2.9,0,High,Sold to Kabadiwala/Scrap Dealer,Medium,17.14
+Tamil Nadu,Urban,4,Middle,Basic,14,3.9,1,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,2.5
+Madhya Pradesh,Urban,8,Low,Basic,11,5.7,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Kerala,Urban,6,Middle,Intermediate,15,4.4,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,3.66
+Tamil Nadu,Urban,7,Low,Basic,9,5.0,2,Low,Formal E-Waste Collection,Low,0.0
+Telangana,Rural,6,Middle,Basic,8,6.5,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.02
+Odisha,Rural,4,Upper-Middle,Basic,11,4.8,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,1.32
+Andhra Pradesh,Rural,6,Middle,Basic,4,6.9,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Punjab,Urban,4,Upper-Middle,Intermediate,15,3.6,1,High,Sold to Kabadiwala/Scrap Dealer,Medium,5.96
+Maharashtra,Urban,5,Low,Basic,6,6.2,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Haryana,Urban,5,Middle,Basic,14,5.0,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,3.29
+Bihar,Urban,6,Low,Basic,8,7.8,2,Low,Thrown in General Trash,Low,0.0
+Punjab,Urban,6,Low,Basic,11,6.9,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Andhra Pradesh,Urban,6,Middle,Basic,10,4.4,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,2.83
+Haryana,Urban,6,Low,Basic,11,6.2,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.38
+Jharkhand,Rural,5,Low,Basic,4,7.0,0,Low,Gave away for reuse,Low,0.34
+Punjab,Urban,4,Upper-Middle,Basic,12,2.8,1,High,Thrown in General Trash,Low,6.18
+Jharkhand,Rural,8,Low,Basic,4,8.7,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Gujarat,Rural,6,Middle,Basic,12,5.3,1,Low,Gave away for reuse,Low,0.69
+Madhya Pradesh,Urban,5,Middle,Intermediate,12,4.4,0,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,3.69
+Andhra Pradesh,Urban,7,Low,Basic,8,5.6,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.96
+West Bengal,Urban,6,Low,Basic,6,6.2,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Odisha,Urban,6,Middle,Basic,8,3.8,0,Medium,Stored Indefinitely,High,0.0
+Gujarat,Urban,5,Upper-Middle,Advanced,13,3.5,1,High,Sold to Kabadiwala/Scrap Dealer,Low,5.82
+Rajasthan,Rural,5,Middle,Basic,8,6.1,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.05
+Kerala,Urban,5,Low,Basic,10,7.9,1,Low,Thrown in General Trash,Low,0.05
+Kerala,Urban,7,Low,Basic,11,6.4,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.3
+Maharashtra,Urban,3,Upper-Middle,Intermediate,20,3.8,0,High,Sold to Kabadiwala/Scrap Dealer,Low,10.77
+Rajasthan,Rural,2,High,Basic,14,4.0,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,4.26
+Telangana,Urban,6,Low,Basic,9,7.2,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Gujarat,Rural,4,High,Basic,29,4.1,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,8.08
+Tamil Nadu,Urban,4,High,Advanced,24,3.0,0,High,Thrown in General Trash,High,13.06
+Bihar,Rural,4,Middle,Basic,7,6.9,1,Low,Gave away for reuse,Low,0.0
+Uttar Pradesh,Rural,3,Upper-Middle,Basic,9,4.4,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,1.96
+Madhya Pradesh,Urban,3,Upper-Middle,Intermediate,17,3.4,0,High,Sold to Kabadiwala/Scrap Dealer,Low,7.3
+Karnataka,Rural,6,Low,Basic,4,7.5,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Andhra Pradesh,Urban,6,Low,Basic,5,5.7,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Odisha,Urban,6,Low,Basic,6,6.7,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Andhra Pradesh,Urban,5,Middle,Basic,10,3.6,1,Medium,Formal E-Waste Collection,High,2.99
+Karnataka,Urban,5,Upper-Middle,Intermediate,14,3.0,1,High,Sold to Kabadiwala/Scrap Dealer,Medium,6.24
+Odisha,Rural,4,Middle,Basic,9,7.0,0,Low,Formal E-Waste Collection,Low,0.73
+Haryana,Urban,5,Low,Basic,6,7.7,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Tamil Nadu,Rural,8,Low,Basic,6,7.8,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.33
+Madhya Pradesh,Urban,8,Low,Basic,5,6.2,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.51
+Haryana,Urban,5,Low,Basic,11,7.5,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.81
+Punjab,Urban,6,Middle,Intermediate,13,4.6,2,Medium,Sold to Kabadiwala/Scrap Dealer,Low,1.66
+Maharashtra,Rural,8,Low,Basic,5,7.1,1,Low,Gave away for reuse,Low,0.0
+Uttar Pradesh,Urban,5,Low,Basic,9,5.2,0,Low,Stored Indefinitely,Low,0.0
+Madhya Pradesh,Urban,8,Low,Basic,5,5.2,1,Low,Stored Indefinitely,Low,0.0
+Rajasthan,Urban,8,Low,Basic,7,7.8,1,Low,Formal E-Waste Collection,Low,0.0
+Odisha,Rural,4,Middle,Basic,7,6.9,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+West Bengal,Urban,4,Upper-Middle,Advanced,14,3.0,0,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,4.75
+Jharkhand,Urban,6,Low,Basic,7,6.2,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Telangana,Rural,4,Upper-Middle,Basic,15,4.1,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,3.18
+Andhra Pradesh,Rural,5,Middle,Basic,7,5.3,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.79
+Odisha,Rural,6,Low,Basic,4,8.0,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.37
+West Bengal,Rural,6,Low,Basic,4,7.3,1,Low,Gave away for reuse,Low,0.0
+Jharkhand,Urban,4,High,Advanced,33,2.8,1,High,Formal E-Waste Collection,High,21.2
+Kerala,Rural,5,Middle,Basic,4,5.8,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.37
+Madhya Pradesh,Urban,5,Low,Basic,11,7.2,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.81
+Jharkhand,Urban,4,Upper-Middle,Intermediate,13,3.1,1,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,4.22
+Kerala,Rural,6,Middle,Basic,4,5.9,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Maharashtra,Urban,8,Low,Basic,7,7.4,3,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Andhra Pradesh,Rural,6,Middle,Basic,10,6.1,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,1.12
+Jharkhand,Rural,5,Low,Basic,5,7.6,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.4
+Gujarat,Rural,4,Upper-Middle,Basic,9,4.0,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.65
+West Bengal,Urban,4,Upper-Middle,Intermediate,12,3.1,0,High,Sold to Kabadiwala/Scrap Dealer,High,6.36
+Jharkhand,Urban,5,Middle,Intermediate,13,3.7,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,4.01
+Tamil Nadu,Urban,4,Upper-Middle,Intermediate,18,3.5,0,High,Formal E-Waste Collection,Medium,8.83
+Gujarat,Rural,4,Upper-Middle,Basic,16,4.3,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,1.88
+Delhi,Urban,5,Upper-Middle,Advanced,12,2.7,1,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,4.35
+Uttar Pradesh,Urban,7,Low,Basic,6,6.4,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+West Bengal,Urban,5,Middle,Basic,10,4.8,0,Medium,Sold to Kabadiwala/Scrap Dealer,High,2.34
+Kerala,Rural,3,Upper-Middle,Basic,9,4.3,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,1.35
+Punjab,Urban,7,Low,Basic,5,6.2,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Gujarat,Rural,4,Middle,Basic,6,7.0,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.55
+Telangana,Rural,8,Low,Basic,4,7.0,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Punjab,Rural,5,Low,Basic,4,7.6,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Karnataka,Rural,6,Low,Basic,4,7.4,1,Low,Thrown in General Trash,Low,0.0
+Punjab,Urban,6,Middle,Basic,12,4.0,0,Medium,Stored Indefinitely,Medium,0.0
+Rajasthan,Rural,6,Low,Basic,5,8.6,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Gujarat,Rural,6,Low,Basic,4,6.9,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.4
+Andhra Pradesh,Urban,5,Middle,Intermediate,12,4.5,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,3.14
+Bihar,Urban,8,Low,Basic,8,6.1,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.08
+West Bengal,Urban,6,Middle,Basic,14,4.8,1,Medium,Thrown in General Trash,Low,1.98
+Uttar Pradesh,Rural,3,Upper-Middle,Basic,11,4.5,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,3.29
+Kerala,Rural,6,Middle,Basic,4,7.0,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.31
+Tamil Nadu,Rural,5,Upper-Middle,Basic,12,4.2,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,1.31
+Odisha,Rural,8,Low,Basic,6,9.4,0,Low,Thrown in General Trash,Low,0.35
+Odisha,Urban,4,Middle,Intermediate,12,5.0,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,2.96
+Punjab,Rural,7,Low,Basic,4,6.9,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Gujarat,Rural,8,Low,Basic,4,8.3,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.34
+Telangana,Urban,6,Middle,Basic,15,4.0,2,Medium,Thrown in General Trash,Medium,2.9
+Andhra Pradesh,Urban,5,Low,Basic,9,5.2,1,Low,Stored Indefinitely,Low,0.0
+Andhra Pradesh,Urban,5,Low,Basic,9,6.4,1,Low,Thrown in General Trash,Low,0.16
+Karnataka,Urban,5,Low,Basic,11,6.2,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.36
+Jharkhand,Urban,6,Low,Basic,6,5.9,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.51
+Punjab,Rural,8,Low,Basic,4,7.6,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.27
+Karnataka,Urban,6,Low,Basic,10,7.9,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.98
+Odisha,Urban,5,Low,Basic,11,7.2,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,1.13
+Tamil Nadu,Urban,5,Low,Basic,10,7.0,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.16
+Maharashtra,Rural,7,Low,Basic,4,8.3,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Maharashtra,Rural,6,Middle,Basic,4,5.2,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.56
+Rajasthan,Rural,6,Middle,Basic,5,6.1,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Jharkhand,Urban,6,Middle,Basic,15,3.9,1,Medium,Formal E-Waste Collection,Medium,4.16
+Tamil Nadu,Rural,5,Low,Basic,6,7.9,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Bihar,Rural,6,Low,Basic,5,8.6,2,Low,Stored Indefinitely,Low,0.0
+Delhi,Urban,3,Upper-Middle,Advanced,13,3.0,0,Medium,Gave away for reuse,Medium,4.62
+Telangana,Urban,5,Middle,Intermediate,8,5.4,1,Medium,Stored Indefinitely,Medium,0.0
+Odisha,Rural,6,Middle,Basic,11,5.9,0,Low,Thrown in General Trash,Low,1.09
+Gujarat,Urban,6,Middle,Basic,8,4.0,2,Medium,Sold to Kabadiwala/Scrap Dealer,Low,0.79
+Tamil Nadu,Urban,4,Middle,Basic,13,3.7,0,Medium,Thrown in General Trash,Low,4.2
+Haryana,Urban,4,Middle,Basic,10,3.7,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,2.6
+Telangana,Urban,6,Low,Basic,9,6.1,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.86
+Gujarat,Urban,4,Middle,Intermediate,13,5.5,0,Medium,Formal E-Waste Collection,Low,3.08
+Karnataka,Rural,6,Low,Basic,4,7.7,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Gujarat,Urban,6,Low,Basic,7,5.5,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Gujarat,Rural,8,Low,Basic,5,8.6,3,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Rajasthan,Urban,4,Middle,Basic,13,4.8,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,2.92
+Gujarat,Urban,5,Low,Basic,6,6.0,1,Low,Gave away for reuse,Low,0.0
+Andhra Pradesh,Urban,7,Low,Basic,7,7.9,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Karnataka,Rural,5,Low,Basic,8,8.9,0,Low,Gave away for reuse,Low,0.62
+Rajasthan,Urban,5,Low,Basic,9,5.5,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.83
+Jharkhand,Urban,5,Middle,Intermediate,9,5.2,1,Medium,Stored Indefinitely,Medium,0.0
+Uttar Pradesh,Urban,8,Low,Basic,9,5.5,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.41
+Uttar Pradesh,Urban,7,Low,Basic,11,7.0,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,1.06
+Tamil Nadu,Rural,7,Low,Basic,4,8.6,2,Low,Gave away for reuse,Low,0.0
+Kerala,Urban,7,Low,Basic,7,5.6,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.03
+Tamil Nadu,Rural,5,Middle,Basic,7,5.5,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.98
+Maharashtra,Rural,5,Upper-Middle,Basic,13,5.3,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,1.41
+Jharkhand,Urban,8,Low,Basic,8,5.8,1,Low,Thrown in General Trash,Low,0.12
+Jharkhand,Urban,6,Middle,Intermediate,14,5.1,0,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,2.84
+Andhra Pradesh,Rural,5,Middle,Basic,12,5.7,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.63
+Rajasthan,Urban,7,Low,Basic,5,7.3,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Kerala,Rural,7,Low,Basic,5,8.8,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.35
+Maharashtra,Rural,4,Middle,Basic,5,5.4,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Kerala,Rural,5,Middle,Basic,12,5.4,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.71
+Madhya Pradesh,Urban,6,Low,Basic,7,6.3,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.74
+Delhi,Urban,5,Low,Basic,7,5.6,0,Low,Formal E-Waste Collection,Low,0.89
+Telangana,Urban,5,Middle,Basic,15,5.2,0,Medium,Thrown in General Trash,Low,3.32
+Telangana,Rural,8,Low,Basic,5,8.3,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.36
+Karnataka,Urban,5,Low,Basic,6,6.6,0,Low,Thrown in General Trash,Low,0.46
+Uttar Pradesh,Urban,4,Middle,Intermediate,11,5.1,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,2.17
+Karnataka,Urban,6,Middle,Intermediate,12,5.3,2,Medium,Thrown in General Trash,Medium,0.93
+Jharkhand,Rural,5,Middle,Basic,6,5.6,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Rajasthan,Urban,5,Low,Basic,5,7.5,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.49
+Telangana,Rural,7,Low,Basic,7,7.3,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Jharkhand,Rural,5,Upper-Middle,Basic,17,5.3,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,1.14
+Kerala,Urban,6,Low,Basic,5,7.7,1,Low,Gave away for reuse,Low,0.0
+Uttar Pradesh,Urban,6,Low,Basic,5,5.6,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Haryana,Rural,3,Upper-Middle,Basic,17,4.2,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,3.44
+Maharashtra,Urban,4,Upper-Middle,Intermediate,21,3.0,1,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,8.75
+Haryana,Urban,4,Middle,Advanced,12,4.3,1,Medium,Formal E-Waste Collection,High,2.16
+Rajasthan,Urban,6,Middle,Basic,8,4.1,0,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,2.05
+Bihar,Rural,6,Middle,Basic,4,5.9,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Uttar Pradesh,Urban,7,Low,Basic,8,6.4,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Tamil Nadu,Rural,4,Middle,Basic,4,5.8,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.42
+Uttar Pradesh,Urban,5,Middle,Basic,10,4.2,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,1.91
+Telangana,Urban,5,Middle,Advanced,15,4.2,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,4.61
+Gujarat,Rural,6,Middle,Basic,5,5.2,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Rajasthan,Rural,6,Low,Basic,4,8.8,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.3
+Maharashtra,Rural,4,Upper-Middle,Basic,15,5.0,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,2.27
+Kerala,Urban,5,Upper-Middle,Advanced,20,3.1,0,High,Sold to Kabadiwala/Scrap Dealer,Medium,13.83
+Jharkhand,Urban,6,Middle,Basic,11,4.9,1,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,1.84
+Haryana,Urban,5,Middle,Basic,13,3.8,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,4.36
+Andhra Pradesh,Urban,3,Upper-Middle,Advanced,12,3.4,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,4.1
+Karnataka,Urban,4,High,Advanced,34,1.9,1,High,Stored Indefinitely,High,0.0
+Jharkhand,Rural,6,Middle,Basic,4,5.3,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.48
+Kerala,Urban,7,Low,Basic,9,5.3,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Tamil Nadu,Rural,7,Low,Basic,4,6.6,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Punjab,Rural,6,Middle,Basic,4,6.0,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Haryana,Rural,3,Upper-Middle,Basic,9,4.6,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,1.41
+Haryana,Urban,6,Low,Basic,9,6.9,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Kerala,Rural,5,Upper-Middle,Basic,13,5.3,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,2.65
+Jharkhand,Urban,8,Low,Basic,11,6.7,3,Low,Thrown in General Trash,Low,0.0
+Uttar Pradesh,Urban,8,Low,Basic,7,5.2,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.07
+Jharkhand,Rural,7,Low,Basic,4,6.9,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Maharashtra,Rural,6,Middle,Basic,11,5.0,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.56
+Bihar,Urban,6,Low,Basic,10,5.7,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,1.05
+Andhra Pradesh,Rural,6,Middle,Basic,10,5.5,0,Low,Thrown in General Trash,Low,0.93
+Bihar,Urban,6,Low,Basic,11,5.9,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.48
+Karnataka,Rural,5,Middle,Basic,8,5.4,0,Low,Stored Indefinitely,Low,0.0
+Delhi,Urban,3,Upper-Middle,Basic,17,3.6,0,Medium,Formal E-Waste Collection,Medium,4.49
+Tamil Nadu,Urban,7,Low,Basic,5,5.7,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.41
+Haryana,Urban,6,Middle,Basic,8,4.4,0,Medium,Stored Indefinitely,Low,0.0
+Karnataka,Urban,5,Upper-Middle,Advanced,18,3.0,0,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,6.65
+Haryana,Urban,4,Middle,Intermediate,15,4.4,0,Medium,Thrown in General Trash,Medium,2.99
+Uttar Pradesh,Rural,4,High,Basic,27,3.2,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,11.4
+Gujarat,Urban,8,Low,Basic,8,7.9,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.55
+Delhi,Urban,8,Low,Basic,7,5.7,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.02
+Delhi,Urban,7,Low,Basic,8,7.1,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Uttar Pradesh,Rural,5,Low,Basic,4,7.3,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.33
+Delhi,Urban,4,Middle,Intermediate,10,4.0,1,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,1.39
+Haryana,Urban,5,Low,Basic,5,5.8,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.44
+West Bengal,Rural,4,Upper-Middle,Basic,10,4.8,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.57
+Telangana,Urban,3,Upper-Middle,Intermediate,13,2.9,0,High,Sold to Kabadiwala/Scrap Dealer,Medium,6.96
+Telangana,Urban,3,Upper-Middle,Intermediate,14,2.7,0,Medium,Sold to Kabadiwala/Scrap Dealer,High,6.67
+Jharkhand,Rural,3,Upper-Middle,Basic,15,4.4,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,3.42
+Odisha,Urban,8,Low,Basic,6,5.5,0,Low,Formal E-Waste Collection,Low,0.51
+Haryana,Urban,6,Low,Basic,10,7.0,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Tamil Nadu,Urban,3,High,Advanced,18,2.1,0,High,Thrown in General Trash,High,16.61
+Tamil Nadu,Rural,4,Middle,Basic,8,6.8,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Haryana,Urban,5,Low,Basic,10,5.6,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.41
+Bihar,Rural,6,Middle,Basic,4,6.0,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.45
+Andhra Pradesh,Urban,5,Middle,Basic,9,4.1,0,Medium,Thrown in General Trash,Low,2.39
+Odisha,Rural,5,Middle,Basic,5,6.4,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.39
+Andhra Pradesh,Rural,2,High,Basic,26,4.4,0,Medium,Gave away for reuse,Low,5.86
+Odisha,Urban,6,Middle,Basic,9,3.9,2,Medium,Formal E-Waste Collection,Medium,1.13
+Odisha,Rural,5,Middle,Basic,12,6.0,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.97
+Odisha,Urban,6,Low,Basic,6,7.2,1,Low,Thrown in General Trash,Low,0.0
+Karnataka,Rural,4,Middle,Basic,10,6.2,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.25
+Delhi,Urban,4,Middle,Intermediate,14,4.4,0,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,3.57
+Gujarat,Rural,5,Low,Basic,6,9.0,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.44
+Punjab,Urban,4,Middle,Intermediate,10,5.0,0,Medium,Stored Indefinitely,Medium,0.0
+Haryana,Urban,6,Low,Basic,8,7.1,0,Low,Stored Indefinitely,Low,0.0
+West Bengal,Urban,8,Low,Basic,10,7.8,3,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+West Bengal,Urban,3,High,Advanced,32,1.7,0,High,Sold to Kabadiwala/Scrap Dealer,High,35.39
+Haryana,Rural,8,Low,Basic,4,7.8,1,Low,Thrown in General Trash,Low,0.0
+Gujarat,Rural,6,Middle,Basic,10,6.2,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.96
+Andhra Pradesh,Urban,3,Upper-Middle,Advanced,21,2.9,0,High,Sold to Kabadiwala/Scrap Dealer,Medium,12.36
+Tamil Nadu,Urban,6,Low,Basic,11,5.6,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Gujarat,Rural,3,Upper-Middle,Basic,14,5.2,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,1.88
+Delhi,Rural,3,Upper-Middle,Basic,15,4.9,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,2.23
+West Bengal,Urban,5,Upper-Middle,Intermediate,15,2.9,0,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,5.75
+Karnataka,Rural,3,High,Basic,19,4.2,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,4.63
+Gujarat,Urban,7,Low,Basic,11,7.4,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.24
+Haryana,Urban,8,Low,Basic,7,5.3,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.82
+West Bengal,Urban,2,High,Advanced,31,1.6,0,High,Formal E-Waste Collection,High,25.84
+Odisha,Rural,6,Low,Basic,4,6.8,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.34
+Madhya Pradesh,Rural,6,Middle,Basic,4,6.7,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Andhra Pradesh,Rural,5,Low,Basic,4,7.4,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Haryana,Urban,5,Upper-Middle,Advanced,12,3.7,1,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,2.97
+Delhi,Urban,3,Upper-Middle,Intermediate,20,2.5,0,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,7.75
+Andhra Pradesh,Rural,5,Upper-Middle,Basic,16,5.2,1,Low,Gave away for reuse,Low,1.04
+Tamil Nadu,Rural,5,Upper-Middle,Basic,13,4.6,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,1.14
+Uttar Pradesh,Rural,6,Low,Basic,4,7.9,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Delhi,Rural,6,Low,Basic,5,9.1,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Andhra Pradesh,Rural,4,Middle,Basic,9,6.6,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.11
+Delhi,Urban,5,Low,Basic,5,6.8,1,Low,Formal E-Waste Collection,Low,0.0
+Odisha,Rural,5,Upper-Middle,Basic,10,4.9,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,2.17
+Kerala,Urban,6,Low,Basic,5,7.9,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+West Bengal,Rural,4,Upper-Middle,Basic,16,5.2,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,3.2
+Odisha,Urban,6,Low,Basic,5,5.0,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Madhya Pradesh,Urban,7,Low,Basic,10,7.7,0,Low,Stored Indefinitely,Low,0.0
+Punjab,Urban,8,Low,Basic,7,6.0,3,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Maharashtra,Urban,5,Middle,Basic,10,3.8,0,Medium,Sold to Kabadiwala/Scrap Dealer,High,3.46
+Tamil Nadu,Rural,4,Middle,Basic,8,6.1,0,Low,Formal E-Waste Collection,Low,0.83
+Maharashtra,Urban,6,Low,Basic,7,6.5,0,Low,Gave away for reuse,Low,0.76
+Karnataka,Urban,2,High,Advanced,22,2.3,0,High,Formal E-Waste Collection,High,20.29
+Bihar,Rural,7,Low,Basic,4,8.3,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.3
+West Bengal,Urban,4,Middle,Intermediate,11,5.4,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,1.96
+Bihar,Rural,7,Low,Basic,4,8.0,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Tamil Nadu,Rural,5,Upper-Middle,Basic,10,4.1,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,1.5
+Punjab,Urban,4,Upper-Middle,Intermediate,14,3.5,0,High,Thrown in General Trash,Medium,6.73
+West Bengal,Urban,5,Middle,Intermediate,11,3.6,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,3.39
+Madhya Pradesh,Rural,8,Low,Basic,4,9.2,2,Low,Gave away for reuse,Low,0.0
+Haryana,Rural,7,Low,Basic,4,9.3,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Delhi,Urban,3,Upper-Middle,Intermediate,14,2.6,0,High,Sold to Kabadiwala/Scrap Dealer,High,6.62
+Andhra Pradesh,Urban,4,Upper-Middle,Basic,15,3.9,1,High,Sold to Kabadiwala/Scrap Dealer,Medium,4.47
+Jharkhand,Rural,3,Upper-Middle,Basic,13,5.0,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,1.62
+Kerala,Rural,5,Middle,Basic,8,5.6,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.76
+Rajasthan,Urban,4,Middle,Intermediate,12,4.4,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,2.14
+Gujarat,Rural,8,Low,Basic,6,9.3,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Gujarat,Urban,6,Middle,Basic,14,4.9,1,Medium,Gave away for reuse,Medium,2.33
+Punjab,Rural,5,Low,Basic,4,9.0,1,Low,Thrown in General Trash,Low,0.0
+Rajasthan,Rural,6,Middle,Basic,9,6.8,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,1.07
+Gujarat,Urban,5,Low,Basic,11,5.9,0,Low,Stored Indefinitely,Low,0.0
+Madhya Pradesh,Rural,3,Upper-Middle,Basic,11,4.7,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,1.82
+Maharashtra,Rural,8,Low,Basic,4,7.1,3,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Bihar,Urban,8,Low,Basic,7,6.6,3,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Gujarat,Urban,3,Upper-Middle,Basic,12,3.8,0,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,3.49
+Tamil Nadu,Rural,8,Low,Basic,4,6.8,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Uttar Pradesh,Urban,6,Low,Basic,6,7.3,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Karnataka,Rural,5,Low,Basic,4,9.1,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Uttar Pradesh,Rural,5,Middle,Basic,11,5.6,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,1.4
+Tamil Nadu,Rural,4,Middle,Basic,8,5.6,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.12
+Kerala,Urban,7,Low,Basic,5,7.5,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Tamil Nadu,Rural,8,Low,Basic,4,7.3,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Haryana,Rural,5,Low,Basic,8,7.2,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.72
+Odisha,Urban,4,Middle,Intermediate,13,4.8,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,2.53
+Uttar Pradesh,Urban,6,Middle,Intermediate,15,4.5,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,2.03
+Jharkhand,Urban,5,Middle,Intermediate,13,4.6,0,Medium,Formal E-Waste Collection,Medium,3.06
+West Bengal,Rural,4,Middle,Basic,4,5.3,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.43
+Gujarat,Urban,6,Middle,Intermediate,15,4.9,1,Medium,Thrown in General Trash,Low,2.46
+Maharashtra,Rural,6,Low,Basic,5,7.9,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Haryana,Urban,7,Low,Basic,9,7.2,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Telangana,Rural,6,Low,Basic,4,7.8,2,Low,Gave away for reuse,Low,0.0
+Uttar Pradesh,Urban,8,Low,Basic,6,6.6,1,Low,Thrown in General Trash,Low,0.0
+Punjab,Urban,7,Low,Basic,9,5.3,2,Low,Stored Indefinitely,Low,0.0
+West Bengal,Urban,7,Low,Basic,6,7.2,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.51
+Andhra Pradesh,Rural,6,Middle,Basic,8,5.1,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.96
+West Bengal,Rural,7,Low,Basic,4,8.7,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Punjab,Rural,5,Middle,Basic,4,6.1,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Odisha,Urban,6,Low,Basic,6,7.5,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Maharashtra,Urban,5,Upper-Middle,Advanced,15,3.7,0,High,Sold to Kabadiwala/Scrap Dealer,Medium,6.93
+Madhya Pradesh,Urban,8,Low,Basic,10,7.0,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.84
+West Bengal,Urban,5,Low,Basic,10,6.7,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.2
+Bihar,Rural,7,Low,Basic,4,7.6,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Haryana,Urban,5,Middle,Intermediate,14,3.7,1,Medium,Thrown in General Trash,Medium,3.16
+Karnataka,Rural,6,Middle,Basic,7,5.2,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.1
+Bihar,Urban,6,Middle,Basic,9,4.6,0,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,2.09
+Rajasthan,Urban,4,Middle,Basic,13,4.7,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,2.32
+West Bengal,Rural,6,Middle,Basic,6,6.5,2,Low,Gave away for reuse,Low,0.0
+Delhi,Rural,5,Middle,Basic,5,5.9,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Punjab,Urban,5,Upper-Middle,Advanced,12,2.6,0,Medium,Formal E-Waste Collection,Low,4.41
+West Bengal,Urban,4,Middle,Basic,8,4.9,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,1.39
+Tamil Nadu,Rural,4,Upper-Middle,Basic,12,4.4,1,Medium,Stored Indefinitely,Low,0.0
+Madhya Pradesh,Rural,6,Low,Basic,4,8.9,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Bihar,Rural,3,Upper-Middle,Basic,15,5.2,0,Medium,Stored Indefinitely,Low,0.0
+Odisha,Urban,7,Low,Basic,11,5.4,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.57
+Bihar,Urban,5,Middle,Basic,15,4.4,1,Medium,Sold to Kabadiwala/Scrap Dealer,High,3.57
+Bihar,Rural,6,Low,Basic,8,7.2,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Rajasthan,Urban,5,Upper-Middle,Advanced,13,3.7,0,High,Sold to Kabadiwala/Scrap Dealer,Medium,6.69
+Haryana,Urban,6,Low,Basic,5,6.4,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.46
+Gujarat,Urban,5,Low,Basic,5,7.4,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Telangana,Urban,6,Low,Basic,6,7.2,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Maharashtra,Urban,5,Middle,Intermediate,8,5.4,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,0.84
+Rajasthan,Urban,4,Middle,Basic,12,4.7,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,3.06
+Karnataka,Urban,5,Upper-Middle,Intermediate,16,3.9,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,3.41
+Jharkhand,Rural,4,Middle,Basic,4,5.8,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.39
+West Bengal,Urban,6,Low,Basic,8,5.3,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,1.14
+Jharkhand,Rural,5,Upper-Middle,Basic,16,4.7,1,Medium,Thrown in General Trash,Low,2.52
+Maharashtra,Rural,6,Middle,Basic,5,5.6,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Maharashtra,Urban,6,Low,Basic,11,6.4,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Punjab,Urban,4,Upper-Middle,Advanced,18,3.7,1,Medium,Formal E-Waste Collection,Medium,4.92
+Karnataka,Urban,3,Upper-Middle,Advanced,19,3.8,0,High,Sold to Kabadiwala/Scrap Dealer,Medium,6.88
+Telangana,Urban,7,Low,Basic,11,5.8,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.41
+Tamil Nadu,Urban,5,Low,Basic,5,6.0,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.56
+Delhi,Rural,4,Middle,Basic,8,6.8,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Telangana,Rural,5,Middle,Basic,7,6.6,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.67
+Odisha,Urban,6,Middle,Basic,8,5.2,1,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,1.13
+Odisha,Urban,4,Middle,Intermediate,11,4.3,1,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,2.05
+Telangana,Urban,5,Middle,Intermediate,8,4.0,0,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,2.04
+Kerala,Urban,6,Middle,Advanced,8,5.2,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,1.0
+Haryana,Urban,8,Low,Basic,9,5.5,3,Low,Gave away for reuse,Low,0.0
+Haryana,Urban,5,Low,Basic,8,5.5,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.94
+Andhra Pradesh,Urban,6,Middle,Intermediate,10,5.0,2,Medium,Gave away for reuse,Low,0.69
+Delhi,Urban,8,Low,Basic,7,7.5,3,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Bihar,Urban,3,Upper-Middle,Intermediate,17,3.5,0,High,Gave away for reuse,Medium,6.6
+Maharashtra,Urban,2,High,Advanced,23,2.8,0,High,Formal E-Waste Collection,High,13.53
+Bihar,Urban,8,Low,Basic,10,6.2,3,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Haryana,Rural,4,Middle,Basic,8,5.9,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.09
+Jharkhand,Urban,6,Middle,Advanced,13,5.4,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,2.53
+Punjab,Rural,5,Middle,Basic,8,5.9,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.76
+Karnataka,Rural,5,Low,Basic,4,7.1,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Telangana,Urban,4,Middle,Basic,11,5.1,0,Medium,Formal E-Waste Collection,Medium,2.91
+Haryana,Urban,5,Low,Basic,9,6.4,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.83
+Maharashtra,Urban,5,Low,Basic,9,7.4,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.77
+Telangana,Urban,7,Low,Basic,9,6.2,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.17
+Karnataka,Urban,4,Middle,Intermediate,9,5.4,0,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,1.66
+Madhya Pradesh,Rural,8,Low,Basic,5,6.6,1,Low,Stored Indefinitely,Low,0.0
+Madhya Pradesh,Rural,6,Middle,Basic,4,6.8,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.35
+Punjab,Urban,5,Middle,Basic,15,4.6,1,Medium,Thrown in General Trash,Low,2.52
+Telangana,Urban,6,Low,Basic,10,6.4,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.25
+Andhra Pradesh,Rural,5,Low,Basic,4,7.8,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.25
+Bihar,Rural,5,Upper-Middle,Basic,17,5.1,1,Low,Thrown in General Trash,Low,1.29
+Jharkhand,Rural,5,Middle,Basic,9,6.6,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.11
+Odisha,Urban,5,Low,Basic,5,7.3,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Punjab,Urban,5,Low,Basic,10,7.0,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,1.08
+West Bengal,Urban,4,Upper-Middle,Intermediate,21,3.4,0,Medium,Stored Indefinitely,Medium,0.0
+Odisha,Urban,3,Upper-Middle,Basic,17,4.0,0,Medium,Gave away for reuse,High,4.56
+Bihar,Urban,3,Upper-Middle,Intermediate,13,3.3,0,Medium,Formal E-Waste Collection,Medium,5.82
+Telangana,Urban,6,Low,Basic,7,5.0,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Tamil Nadu,Urban,5,Upper-Middle,Intermediate,15,3.7,1,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,3.65
+Punjab,Urban,2,High,Advanced,20,2.3,0,High,Formal E-Waste Collection,High,15.87
+Gujarat,Rural,6,Middle,Basic,7,6.7,1,Low,Thrown in General Trash,Low,0.0
+Bihar,Urban,3,Upper-Middle,Advanced,14,4.0,0,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,3.33
+Karnataka,Rural,5,Low,Basic,4,9.1,0,Low,Thrown in General Trash,Low,0.3
+Uttar Pradesh,Rural,4,Middle,Basic,12,6.0,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.43
+Maharashtra,Rural,6,Middle,Basic,10,6.9,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+West Bengal,Rural,4,High,Basic,24,3.6,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,8.19
+Madhya Pradesh,Urban,5,Low,Basic,9,5.3,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.35
+Madhya Pradesh,Rural,5,Low,Basic,4,7.0,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.46
+West Bengal,Rural,3,Upper-Middle,Basic,18,5.1,0,Low,Stored Indefinitely,Low,0.0
+West Bengal,Urban,6,Low,Basic,6,5.2,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Karnataka,Rural,5,Low,Basic,6,9.4,0,Low,Thrown in General Trash,Low,0.36
+Tamil Nadu,Urban,6,Low,Basic,8,5.3,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.17
+Kerala,Urban,3,High,Advanced,33,1.6,0,High,Formal E-Waste Collection,Medium,26.65
+Bihar,Rural,4,Middle,Basic,6,5.6,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.71
+Punjab,Urban,6,Low,Basic,9,5.2,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.37
+Uttar Pradesh,Urban,5,Low,Basic,10,7.1,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.89
+Tamil Nadu,Urban,5,Middle,Intermediate,10,5.3,0,Medium,Formal E-Waste Collection,Medium,2.34
+Telangana,Urban,6,Low,Basic,9,7.3,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.02
+Gujarat,Urban,4,Middle,Basic,9,4.1,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,2.58
+Punjab,Rural,5,Upper-Middle,Basic,12,5.3,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,3.06
+Gujarat,Urban,8,Low,Basic,6,6.2,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Uttar Pradesh,Urban,2,High,Advanced,25,2.5,0,High,Gave away for reuse,High,17.45
+Kerala,Urban,5,Middle,Basic,10,5.2,1,Medium,Stored Indefinitely,Medium,0.0
+Gujarat,Rural,7,Low,Basic,4,8.8,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Kerala,Rural,6,Middle,Basic,7,6.0,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Uttar Pradesh,Urban,4,Middle,Intermediate,13,4.2,1,Medium,Stored Indefinitely,Medium,0.0
+West Bengal,Rural,5,Middle,Basic,6,5.4,1,Low,Thrown in General Trash,Low,0.0
+Jharkhand,Urban,5,Middle,Intermediate,12,4.8,0,Medium,Formal E-Waste Collection,Low,2.78
+Andhra Pradesh,Rural,6,Middle,Basic,6,6.5,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Bihar,Rural,6,Low,Basic,5,8.7,2,Low,Stored Indefinitely,Low,0.0
+Telangana,Rural,4,Upper-Middle,Basic,14,4.6,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,1.19
+Rajasthan,Urban,5,Low,Basic,9,7.8,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Madhya Pradesh,Urban,6,Middle,Intermediate,9,4.9,0,Medium,Thrown in General Trash,Low,1.96
+Gujarat,Rural,4,Upper-Middle,Basic,12,4.0,0,Medium,Formal E-Waste Collection,Low,4.46
+Andhra Pradesh,Urban,5,Middle,Basic,10,4.0,0,Medium,Formal E-Waste Collection,Medium,2.87
+Karnataka,Rural,7,Low,Basic,4,7.4,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Bihar,Urban,4,High,Advanced,25,3.0,0,High,Formal E-Waste Collection,High,16.56
+Haryana,Urban,8,Low,Basic,9,6.1,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.16
+Odisha,Rural,7,Low,Basic,6,7.3,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.59
+Bihar,Rural,7,Low,Basic,4,9.0,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Andhra Pradesh,Urban,3,Upper-Middle,Intermediate,13,3.8,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,3.45
+Uttar Pradesh,Rural,6,Low,Basic,4,9.2,0,Low,Thrown in General Trash,Low,0.26
+Gujarat,Rural,5,Middle,Basic,5,6.3,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.57
+Delhi,Urban,4,Upper-Middle,Advanced,18,3.7,1,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,5.32
+Kerala,Rural,5,Low,Basic,4,8.7,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.29
+Gujarat,Urban,5,Upper-Middle,Basic,13,4.0,1,Medium,Formal E-Waste Collection,Medium,2.38
+Telangana,Rural,7,Low,Basic,4,7.9,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Jharkhand,Rural,6,Middle,Basic,7,6.7,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.51
+West Bengal,Urban,4,Upper-Middle,Intermediate,14,2.7,1,High,Sold to Kabadiwala/Scrap Dealer,Medium,10.2
+Bihar,Rural,5,Low,Basic,4,9.3,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.3
+Odisha,Rural,5,Low,Basic,6,7.1,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.67
+Punjab,Urban,4,Middle,Intermediate,13,4.3,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,2.4
+Odisha,Urban,6,Low,Basic,10,6.2,2,Low,Stored Indefinitely,Low,0.0
+Jharkhand,Urban,6,Low,Basic,5,5.9,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Telangana,Rural,7,Low,Basic,7,7.8,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.58
+Rajasthan,Urban,7,Low,Basic,8,7.9,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Telangana,Urban,8,Low,Basic,11,5.6,2,Low,Formal E-Waste Collection,Low,0.0
+Odisha,Urban,8,Low,Basic,11,7.4,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Delhi,Rural,5,Middle,Basic,7,5.2,0,Low,Stored Indefinitely,Low,0.0
+Jharkhand,Urban,7,Low,Basic,8,5.3,1,Low,Formal E-Waste Collection,Low,0.17
+Andhra Pradesh,Rural,3,Upper-Middle,Basic,13,5.3,0,Low,Formal E-Waste Collection,Low,1.59
+Haryana,Urban,4,Upper-Middle,Advanced,12,3.6,1,Medium,Sold to Kabadiwala/Scrap Dealer,High,3.4
+West Bengal,Urban,5,Low,Basic,9,7.2,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.89
+Kerala,Rural,7,Low,Basic,5,8.2,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Maharashtra,Urban,5,Low,Basic,11,6.0,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,1.08
+Rajasthan,Urban,5,Upper-Middle,Intermediate,13,3.1,0,Medium,Stored Indefinitely,Medium,0.0
+Rajasthan,Rural,6,Low,Basic,4,8.1,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Punjab,Urban,6,Low,Basic,6,6.2,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.57
+Andhra Pradesh,Rural,4,Middle,Basic,11,5.6,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,1.06
+Jharkhand,Urban,4,Middle,Basic,8,5.2,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,0.87
+Bihar,Urban,6,Low,Basic,11,5.8,0,Low,Thrown in General Trash,Low,1.23
+Odisha,Urban,8,Low,Basic,8,5.1,3,Low,Thrown in General Trash,Low,0.0
+Haryana,Urban,5,Upper-Middle,Advanced,18,3.1,0,Medium,Formal E-Waste Collection,High,5.9
+Andhra Pradesh,Urban,6,Middle,Intermediate,8,5.1,0,Medium,Formal E-Waste Collection,Low,1.88
+West Bengal,Urban,6,Low,Basic,8,7.0,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.75
+Uttar Pradesh,Rural,5,Upper-Middle,Basic,16,4.4,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,1.81
+Maharashtra,Urban,4,Middle,Intermediate,8,5.1,0,Medium,Formal E-Waste Collection,Medium,1.52
+Bihar,Urban,6,Low,Basic,5,6.6,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Madhya Pradesh,Urban,8,Low,Basic,8,5.1,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.96
+West Bengal,Rural,5,Middle,Basic,5,6.2,0,Low,Formal E-Waste Collection,Low,0.62
+Kerala,Urban,7,Low,Basic,7,6.5,0,Low,Gave away for reuse,Low,0.75
+Delhi,Rural,4,Middle,Basic,4,6.4,1,Low,Thrown in General Trash,Low,0.0
+Odisha,Urban,6,Low,Basic,11,7.4,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.47
+Tamil Nadu,Urban,5,Low,Basic,10,5.4,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.35
+Andhra Pradesh,Urban,3,High,Advanced,25,2.9,0,High,Gave away for reuse,High,14.1
+Telangana,Urban,8,Low,Basic,11,5.4,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Delhi,Urban,3,Upper-Middle,Advanced,16,3.6,0,High,Thrown in General Trash,Medium,9.75
+Andhra Pradesh,Rural,6,Middle,Basic,9,5.0,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,1.22
+Kerala,Urban,7,Low,Basic,8,7.8,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.66
+Gujarat,Urban,3,Upper-Middle,Intermediate,15,2.7,0,Medium,Sold to Kabadiwala/Scrap Dealer,High,6.35
+West Bengal,Urban,4,Middle,Basic,14,5.1,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,2.62
+Tamil Nadu,Urban,5,Upper-Middle,Advanced,12,2.7,0,Medium,Thrown in General Trash,High,5.36
+Haryana,Urban,7,Low,Basic,10,5.9,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,1.13
+Rajasthan,Urban,4,Middle,Intermediate,13,4.6,1,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,2.45
+Punjab,Urban,7,Low,Basic,9,5.2,0,Low,Thrown in General Trash,Low,0.96
+Rajasthan,Urban,5,Low,Basic,5,5.3,1,Low,Thrown in General Trash,Low,0.0
+Jharkhand,Urban,7,Low,Basic,8,6.1,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Karnataka,Urban,5,Middle,Intermediate,9,4.5,0,Medium,Sold to Kabadiwala/Scrap Dealer,High,2.18
+Tamil Nadu,Urban,7,Low,Basic,8,5.8,2,Low,Thrown in General Trash,Low,0.0
+Karnataka,Urban,6,Middle,Intermediate,12,4.8,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,3.14
+Bihar,Urban,8,Low,Basic,9,7.7,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.91
+Bihar,Urban,5,Low,Basic,6,7.3,1,Low,Stored Indefinitely,Low,0.0
+Gujarat,Rural,8,Low,Basic,4,6.7,3,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Telangana,Rural,7,Low,Basic,6,9.0,0,Low,Formal E-Waste Collection,Low,0.52
+Tamil Nadu,Urban,6,Low,Basic,10,7.1,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.14
+Delhi,Rural,4,Upper-Middle,Basic,7,4.1,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,1.75
+Bihar,Rural,5,Low,Basic,4,8.2,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.29
+Rajasthan,Rural,7,Low,Basic,6,8.6,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Tamil Nadu,Rural,4,Middle,Basic,11,5.3,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,1.12
+Karnataka,Rural,5,Middle,Basic,10,6.5,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.22
+Karnataka,Rural,4,High,Basic,24,3.6,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,4.98
+Tamil Nadu,Rural,8,Low,Basic,4,8.9,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Tamil Nadu,Urban,4,Middle,Intermediate,9,3.7,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,3.35
+Odisha,Urban,5,Upper-Middle,Advanced,15,2.6,1,High,Stored Indefinitely,Medium,0.0
+Uttar Pradesh,Urban,8,Low,Basic,6,5.3,3,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Andhra Pradesh,Rural,5,Middle,Basic,4,5.8,1,Low,Formal E-Waste Collection,Low,0.0
+Punjab,Rural,4,Middle,Basic,7,5.9,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Kerala,Urban,4,Upper-Middle,Advanced,12,3.9,1,High,Gave away for reuse,Medium,4.71
+Gujarat,Urban,4,Middle,Basic,14,4.0,0,Medium,Formal E-Waste Collection,Medium,4.55
+Rajasthan,Rural,4,Middle,Basic,8,5.5,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.17
+Andhra Pradesh,Urban,6,Middle,Basic,13,4.0,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,2.51
+Uttar Pradesh,Rural,5,Upper-Middle,Basic,12,4.0,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,1.7
+West Bengal,Urban,7,Low,Basic,8,5.8,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,1.03
+Karnataka,Rural,6,Middle,Basic,8,6.4,0,Low,Stored Indefinitely,Low,0.0
+Jharkhand,Urban,5,Low,Basic,5,6.4,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Maharashtra,Urban,6,Middle,Basic,10,4.0,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,3.35
+Haryana,Rural,7,Low,Basic,6,7.8,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Delhi,Urban,7,Low,Basic,6,7.5,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Gujarat,Urban,6,Middle,Basic,15,4.4,2,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,2.49
+Punjab,Rural,5,Low,Basic,4,8.7,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.31
+Rajasthan,Urban,4,Middle,Basic,14,5.0,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,2.8
+Haryana,Urban,5,Upper-Middle,Intermediate,20,3.4,1,Medium,Sold to Kabadiwala/Scrap Dealer,High,6.15
+Odisha,Urban,3,Upper-Middle,Intermediate,17,3.2,0,High,Sold to Kabadiwala/Scrap Dealer,Medium,10.33
+Kerala,Rural,3,Upper-Middle,Basic,10,4.7,0,Medium,Thrown in General Trash,Low,2.36
+Odisha,Urban,5,Middle,Intermediate,11,3.9,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,1.85
+Punjab,Rural,6,Middle,Basic,9,5.6,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.24
+Maharashtra,Urban,7,Low,Basic,8,7.7,1,Low,Formal E-Waste Collection,Low,0.0
+Rajasthan,Rural,5,Middle,Basic,9,5.2,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.77
+Tamil Nadu,Rural,3,Upper-Middle,Basic,9,5.3,0,Medium,Gave away for reuse,Low,2.1
+Uttar Pradesh,Urban,4,High,Advanced,33,2.2,1,High,Thrown in General Trash,High,30.13
+West Bengal,Urban,7,Low,Basic,10,6.4,2,Low,Thrown in General Trash,Low,0.0
+Andhra Pradesh,Urban,6,Middle,Basic,14,5.0,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,2.41
+Gujarat,Rural,7,Low,Basic,5,8.1,1,Low,Gave away for reuse,Low,0.0
+Punjab,Rural,7,Low,Basic,7,7.9,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Rajasthan,Urban,6,Low,Basic,11,6.7,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Haryana,Urban,6,Middle,Basic,9,5.0,2,Medium,Sold to Kabadiwala/Scrap Dealer,Low,0.51
+Madhya Pradesh,Rural,6,Middle,Basic,10,5.9,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.27
+Haryana,Urban,8,Low,Basic,5,7.6,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Telangana,Rural,6,Middle,Basic,10,6.4,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.84
+Jharkhand,Urban,4,Upper-Middle,Basic,13,2.7,1,High,Sold to Kabadiwala/Scrap Dealer,Medium,7.53
+Tamil Nadu,Urban,6,Low,Basic,10,6.0,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,1.11
+Gujarat,Urban,8,Low,Basic,5,5.3,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Andhra Pradesh,Rural,8,Low,Basic,4,7.3,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Punjab,Rural,6,Middle,Basic,6,5.8,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Madhya Pradesh,Rural,5,Upper-Middle,Basic,8,5.4,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.86
+Tamil Nadu,Urban,8,Low,Basic,6,7.3,1,Low,Thrown in General Trash,Low,0.0
+Andhra Pradesh,Rural,5,Middle,Basic,8,6.2,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.9
+Bihar,Rural,5,Middle,Basic,7,5.3,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.74
+Punjab,Urban,7,Low,Basic,5,7.5,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Bihar,Rural,4,Upper-Middle,Basic,10,5.1,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.59
+Delhi,Urban,7,Low,Basic,8,7.5,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Telangana,Urban,4,Middle,Intermediate,9,4.4,1,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,1.71
+Tamil Nadu,Urban,7,Low,Basic,7,7.4,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Bihar,Urban,6,Low,Basic,8,7.2,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Kerala,Rural,5,Low,Basic,4,7.0,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.31
+Odisha,Urban,4,High,Advanced,18,3.0,0,High,Gave away for reuse,High,8.53
+Kerala,Urban,6,Middle,Intermediate,15,4.3,2,Medium,Sold to Kabadiwala/Scrap Dealer,Low,2.37
+Maharashtra,Rural,4,Middle,Basic,4,6.6,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.34
+Odisha,Urban,4,Upper-Middle,Intermediate,14,3.5,0,High,Sold to Kabadiwala/Scrap Dealer,Medium,8.21
+Maharashtra,Urban,4,Middle,Basic,15,4.2,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,2.88
+Kerala,Rural,5,Middle,Basic,8,6.8,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.88
+Karnataka,Rural,4,Middle,Basic,9,5.5,0,Low,Thrown in General Trash,Low,1.17
+Punjab,Urban,6,Middle,Basic,9,4.4,2,Medium,Sold to Kabadiwala/Scrap Dealer,Low,0.69
+Haryana,Urban,4,Middle,Intermediate,13,3.8,1,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,2.91
+Rajasthan,Urban,6,Middle,Intermediate,12,4.7,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,2.13
+Madhya Pradesh,Rural,5,Low,Basic,6,9.1,1,Low,Formal E-Waste Collection,Low,0.0
+Andhra Pradesh,Urban,8,Low,Basic,8,7.8,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Madhya Pradesh,Rural,4,Upper-Middle,Basic,10,4.1,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.92
+Kerala,Urban,4,Middle,Basic,15,3.6,1,Medium,Thrown in General Trash,Low,3.36
+West Bengal,Urban,5,Low,Basic,11,6.2,1,Low,Gave away for reuse,Low,0.34
+Karnataka,Urban,5,Low,Basic,9,5.4,0,Low,Gave away for reuse,Low,1.08
+Delhi,Rural,5,Upper-Middle,Basic,15,5.5,0,Medium,Thrown in General Trash,Low,3.74
+Odisha,Urban,4,Middle,Intermediate,14,5.1,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,3.87
+Telangana,Urban,5,Middle,Basic,8,3.8,1,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,1.68
+Delhi,Urban,8,Low,Basic,10,7.1,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.16
+Bihar,Rural,6,Low,Basic,6,7.2,1,Low,Thrown in General Trash,Low,0.0
+Uttar Pradesh,Rural,6,Middle,Basic,8,6.6,0,Low,Gave away for reuse,Low,0.69
+Telangana,Urban,6,Middle,Advanced,10,4.9,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,2.41
+Karnataka,Urban,5,Low,Basic,10,8.0,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.69
+Tamil Nadu,Urban,5,Low,Basic,11,5.3,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.56
+Karnataka,Urban,4,Middle,Basic,9,4.3,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,1.35
+Kerala,Urban,8,Low,Basic,5,7.8,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Telangana,Rural,8,Low,Basic,6,8.2,3,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Karnataka,Rural,4,Middle,Basic,12,5.8,0,Low,Gave away for reuse,Low,1.35
+Rajasthan,Rural,5,Middle,Basic,7,6.9,0,Low,Stored Indefinitely,Low,0.0
+Odisha,Rural,5,Middle,Basic,7,6.5,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Telangana,Rural,7,Low,Basic,4,8.7,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Punjab,Rural,5,Upper-Middle,Basic,8,4.2,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,1.05
+Telangana,Urban,5,Low,Basic,8,6.9,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Odisha,Urban,6,Middle,Basic,14,5.3,1,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,2.56
+Delhi,Urban,6,Low,Basic,10,5.5,1,Low,Formal E-Waste Collection,Low,0.32
+Telangana,Rural,5,Middle,Basic,5,6.6,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.47
+Uttar Pradesh,Urban,5,Low,Basic,5,7.0,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.39
+Kerala,Urban,3,Upper-Middle,Advanced,18,3.5,0,Medium,Stored Indefinitely,Medium,0.0
+Kerala,Urban,8,Low,Basic,11,6.5,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Kerala,Urban,5,Low,Basic,7,6.1,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.59
+Delhi,Urban,5,Middle,Intermediate,13,4.7,1,Medium,Thrown in General Trash,Low,2.76
+Karnataka,Rural,5,Upper-Middle,Basic,11,5.5,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.45
+Uttar Pradesh,Urban,4,Middle,Basic,8,3.8,0,Medium,Gave away for reuse,Low,2.35
+Odisha,Urban,3,Upper-Middle,Advanced,16,3.2,0,Medium,Stored Indefinitely,Medium,0.0
+Delhi,Urban,5,Middle,Intermediate,9,5.0,0,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,2.55
+Haryana,Urban,5,Low,Basic,11,5.7,0,Low,Thrown in General Trash,Low,1.39
+Madhya Pradesh,Urban,6,Middle,Intermediate,14,3.7,1,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,3.26
+Haryana,Rural,8,Low,Basic,7,6.7,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.62
+Jharkhand,Urban,5,Middle,Basic,10,4.0,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,3.14
+West Bengal,Urban,6,Middle,Basic,8,4.3,2,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,0.6
+Haryana,Rural,6,Middle,Basic,7,6.5,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Punjab,Rural,5,Middle,Basic,7,6.7,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.67
+Maharashtra,Urban,8,Low,Basic,7,7.2,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Bihar,Rural,5,Middle,Basic,9,7.0,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.06
+Maharashtra,Urban,8,Low,Basic,9,6.8,1,Low,Stored Indefinitely,Low,0.0
+Rajasthan,Urban,8,Low,Basic,6,8.0,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Madhya Pradesh,Urban,5,Upper-Middle,Advanced,18,3.2,0,High,Thrown in General Trash,Low,10.84
+Uttar Pradesh,Urban,7,Low,Basic,8,5.8,1,Low,Thrown in General Trash,Low,0.13
+Gujarat,Urban,8,Low,Basic,8,5.5,0,Low,Gave away for reuse,Low,1.09
+Madhya Pradesh,Urban,3,Upper-Middle,Advanced,15,3.0,0,High,Sold to Kabadiwala/Scrap Dealer,Medium,9.5
+Andhra Pradesh,Urban,6,Low,Basic,9,7.1,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.84
+Bihar,Urban,4,Upper-Middle,Advanced,15,3.2,0,High,Gave away for reuse,High,6.98
+Andhra Pradesh,Urban,6,Middle,Intermediate,12,4.0,1,Medium,Stored Indefinitely,Medium,0.0
+Delhi,Rural,6,Low,Basic,4,7.2,0,Low,Thrown in General Trash,Low,0.38
+Haryana,Rural,7,Low,Basic,8,8.3,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.66
+Bihar,Urban,7,Low,Basic,5,6.0,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Uttar Pradesh,Urban,4,High,Advanced,18,1.5,0,High,Stored Indefinitely,Medium,0.0
+Telangana,Urban,7,Low,Basic,11,5.2,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+West Bengal,Urban,5,Middle,Basic,12,4.8,1,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,2.38
+Odisha,Urban,3,Upper-Middle,Advanced,21,3.1,0,High,Sold to Kabadiwala/Scrap Dealer,Low,13.2
+Tamil Nadu,Urban,5,Middle,Intermediate,10,5.0,0,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,1.8
+Bihar,Rural,8,Low,Basic,5,7.3,3,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Haryana,Urban,4,Middle,Basic,14,5.0,0,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,2.56
+Jharkhand,Urban,8,Low,Basic,7,5.8,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Punjab,Urban,5,Middle,Intermediate,11,4.9,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,2.55
+Haryana,Urban,6,Middle,Basic,9,4.5,0,Medium,Stored Indefinitely,Medium,0.0
+Gujarat,Urban,5,Middle,Basic,12,3.6,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,3.49
+Punjab,Urban,8,Low,Basic,8,5.2,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,1.1
+Uttar Pradesh,Rural,6,Low,Basic,7,6.9,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.63
+West Bengal,Urban,7,Low,Basic,6,7.6,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.59
+Gujarat,Urban,5,Low,Basic,7,6.8,0,Low,Gave away for reuse,Low,0.59
+Andhra Pradesh,Urban,5,Middle,Basic,8,4.2,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,1.74
+Odisha,Urban,6,Low,Basic,11,5.4,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.57
+Tamil Nadu,Urban,5,Low,Basic,9,5.6,0,Low,Thrown in General Trash,Low,1.0
+Uttar Pradesh,Urban,5,Low,Basic,8,6.8,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.8
+Gujarat,Urban,6,Middle,Basic,12,5.1,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,2.11
+Delhi,Urban,8,Low,Basic,9,5.7,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.21
+Tamil Nadu,Rural,7,Low,Basic,4,9.3,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Haryana,Urban,5,Upper-Middle,Intermediate,18,3.9,0,High,Gave away for reuse,High,8.88
+Haryana,Urban,6,Middle,Basic,11,4.4,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,2.23
+Uttar Pradesh,Urban,6,Low,Basic,5,6.4,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.42
+Jharkhand,Urban,5,Low,Basic,8,7.1,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Haryana,Rural,4,Middle,Basic,9,5.5,0,Low,Thrown in General Trash,Low,0.98
+Jharkhand,Rural,6,Low,Basic,4,9.4,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Telangana,Urban,4,Middle,Basic,8,4.0,1,Medium,Sold to Kabadiwala/Scrap Dealer,High,1.33
+Rajasthan,Rural,4,Upper-Middle,Basic,10,4.4,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,2.5
+Haryana,Urban,8,Low,Basic,5,7.6,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.46
+Andhra Pradesh,Rural,6,Middle,Basic,8,7.0,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Maharashtra,Rural,5,Middle,Basic,7,6.7,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.61
+Delhi,Rural,5,Middle,Basic,8,6.7,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Odisha,Urban,4,Middle,Basic,10,5.3,0,Medium,Thrown in General Trash,Low,1.66
+Rajasthan,Rural,8,Low,Basic,4,7.4,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Tamil Nadu,Urban,5,Middle,Basic,15,4.3,0,Medium,Gave away for reuse,Medium,3.17
+Karnataka,Urban,4,Middle,Advanced,9,3.8,0,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,2.28
+Uttar Pradesh,Rural,6,Low,Basic,6,7.9,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.51
+Odisha,Rural,5,Middle,Basic,8,6.6,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.01
+Punjab,Urban,5,Upper-Middle,Intermediate,20,2.6,1,Medium,Stored Indefinitely,Medium,0.0
+Bihar,Urban,6,Middle,Intermediate,8,5.4,2,Medium,Sold to Kabadiwala/Scrap Dealer,Low,0.15
+West Bengal,Rural,8,Low,Basic,6,7.1,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.63
+Gujarat,Urban,4,Middle,Advanced,10,5.1,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,1.71
+Maharashtra,Urban,7,Low,Basic,11,6.9,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.25
+Telangana,Rural,4,Middle,Basic,7,6.1,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.6
+West Bengal,Urban,6,Low,Basic,10,6.0,1,Low,Stored Indefinitely,Low,0.0
+Telangana,Urban,6,Middle,Intermediate,12,5.1,2,Medium,Formal E-Waste Collection,Medium,1.04
+Karnataka,Urban,6,Low,Basic,9,6.0,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.96
+Jharkhand,Urban,6,Middle,Intermediate,14,5.1,1,Medium,Thrown in General Trash,Medium,2.41
+Tamil Nadu,Urban,6,Middle,Basic,9,4.5,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,1.43
+Kerala,Urban,2,High,Advanced,33,2.8,0,High,Sold to Kabadiwala/Scrap Dealer,Medium,18.68
+Kerala,Rural,5,Low,Basic,4,7.7,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.33
+Jharkhand,Urban,6,Low,Basic,11,6.5,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Punjab,Rural,8,Low,Basic,4,8.6,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.3
+Kerala,Rural,7,Low,Basic,4,8.7,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.24
+Bihar,Urban,6,Middle,Intermediate,14,3.6,0,Medium,Stored Indefinitely,Medium,0.0
+Odisha,Urban,5,Low,Basic,6,7.7,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.48
+Maharashtra,Urban,5,Low,Basic,8,7.3,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Karnataka,Urban,8,Low,Basic,8,5.3,3,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Uttar Pradesh,Rural,5,Upper-Middle,Basic,12,4.9,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,1.56
+Odisha,Urban,3,Upper-Middle,Intermediate,17,4.0,0,Medium,Sold to Kabadiwala/Scrap Dealer,High,4.93
+Tamil Nadu,Urban,6,Middle,Intermediate,8,4.5,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,2.13
+Punjab,Rural,5,Middle,Basic,8,5.8,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.12
+Karnataka,Rural,7,Low,Basic,8,8.0,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Andhra Pradesh,Urban,8,Low,Basic,8,5.1,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.96
+Odisha,Urban,6,Low,Basic,11,5.9,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Delhi,Rural,6,Middle,Basic,8,6.6,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Tamil Nadu,Urban,6,Middle,Intermediate,8,5.4,2,Medium,Formal E-Waste Collection,Low,0.14
+Uttar Pradesh,Rural,2,High,Basic,24,3.4,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,8.84
+Odisha,Urban,6,Middle,Basic,15,4.0,1,Medium,Gave away for reuse,Low,3.53
+West Bengal,Urban,3,High,Advanced,22,2.2,0,High,Thrown in General Trash,Medium,15.97
+Maharashtra,Rural,7,Low,Basic,4,8.2,0,Low,Gave away for reuse,Low,0.37
+Tamil Nadu,Rural,3,Upper-Middle,Basic,16,4.2,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,3.88
+Madhya Pradesh,Rural,6,Middle,Basic,9,6.2,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.9
+West Bengal,Urban,3,Upper-Middle,Intermediate,21,3.2,0,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,8.24
+Madhya Pradesh,Urban,4,Middle,Basic,15,5.0,1,Medium,Sold to Kabadiwala/Scrap Dealer,High,2.87
+Delhi,Rural,5,Low,Basic,5,9.1,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.32
+Telangana,Urban,6,Middle,Basic,15,4.0,2,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,3.16
+Bihar,Urban,5,Upper-Middle,Intermediate,19,3.2,1,Medium,Sold to Kabadiwala/Scrap Dealer,High,5.8
+West Bengal,Urban,4,Middle,Basic,9,5.2,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,1.16
+Karnataka,Urban,3,Upper-Middle,Intermediate,14,3.4,0,Medium,Sold to Kabadiwala/Scrap Dealer,High,4.85
+Telangana,Urban,5,Middle,Intermediate,10,5.4,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,1.98
+Karnataka,Urban,4,Middle,Intermediate,8,4.0,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,2.33
+Haryana,Rural,3,Upper-Middle,Basic,17,4.7,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,4.78
+Odisha,Urban,5,Middle,Intermediate,13,5.2,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,2.03
+Uttar Pradesh,Urban,6,Middle,Advanced,13,4.1,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,3.3
+Bihar,Urban,5,Low,Basic,7,5.5,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.04
+Tamil Nadu,Urban,6,Low,Basic,7,6.5,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Odisha,Urban,6,Low,Basic,10,7.1,0,Low,Thrown in General Trash,Low,0.92
+Haryana,Urban,4,Middle,Intermediate,12,4.4,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,2.69
+Punjab,Rural,3,High,Basic,26,4.3,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,7.72
+Andhra Pradesh,Rural,5,Middle,Basic,4,6.5,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.39
+Rajasthan,Urban,6,Middle,Intermediate,10,3.9,1,Medium,Thrown in General Trash,Medium,2.04
+Maharashtra,Rural,5,Upper-Middle,Basic,15,4.2,1,Medium,Thrown in General Trash,Low,3.16
+Odisha,Urban,8,Low,Basic,10,7.2,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.64
+Karnataka,Urban,4,Middle,Intermediate,13,5.2,0,Medium,Formal E-Waste Collection,Low,2.55
+Gujarat,Urban,6,Low,Basic,6,7.6,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.47
+West Bengal,Urban,4,Middle,Basic,8,4.1,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,1.03
+Andhra Pradesh,Urban,4,Middle,Basic,8,4.8,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,1.77
+Rajasthan,Urban,6,Middle,Basic,14,3.7,1,Medium,Gave away for reuse,Low,3.56
+Odisha,Urban,7,Low,Basic,5,7.6,2,Low,Thrown in General Trash,Low,0.0
+Maharashtra,Urban,7,Low,Basic,8,7.9,0,Low,Thrown in General Trash,Low,0.86
+Haryana,Urban,5,Low,Basic,5,7.7,1,Low,Thrown in General Trash,Low,0.0
+Odisha,Urban,5,Low,Basic,10,7.6,0,Low,Gave away for reuse,Low,1.0
+Uttar Pradesh,Urban,5,Low,Basic,11,5.8,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,1.36
+Kerala,Rural,7,Low,Basic,8,9.3,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.65
+Telangana,Urban,6,Low,Basic,8,5.9,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Jharkhand,Urban,5,Middle,Intermediate,9,4.4,1,Medium,Formal E-Waste Collection,Medium,1.24
+Bihar,Rural,5,Low,Basic,4,8.9,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.3
+Punjab,Urban,5,Middle,Intermediate,9,4.5,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,1.75
+Tamil Nadu,Urban,7,Low,Basic,6,7.4,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Uttar Pradesh,Rural,5,Middle,Basic,5,6.9,0,Low,Gave away for reuse,Low,0.52
+Maharashtra,Urban,7,Low,Basic,7,7.3,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Maharashtra,Rural,7,Low,Basic,4,8.0,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Kerala,Urban,5,Middle,Basic,9,4.5,1,Medium,Thrown in General Trash,Medium,1.13
+Kerala,Rural,8,Low,Basic,4,8.3,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.33
+Madhya Pradesh,Rural,5,Low,Basic,7,8.8,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+West Bengal,Urban,7,Low,Basic,7,7.4,2,Low,Stored Indefinitely,Low,0.0
+West Bengal,Rural,6,Low,Basic,7,8.7,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Delhi,Urban,7,Low,Basic,10,6.5,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.15
+Gujarat,Rural,4,Middle,Basic,10,6.6,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.93
+Delhi,Rural,5,Low,Basic,4,8.0,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.26
+Punjab,Urban,6,Low,Basic,5,5.2,2,Low,Gave away for reuse,Low,0.0
+Rajasthan,Rural,5,Low,Basic,4,8.8,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Telangana,Rural,6,Low,Basic,4,8.4,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.27
+Maharashtra,Urban,5,Upper-Middle,Advanced,18,3.5,1,Medium,Formal E-Waste Collection,Medium,3.72
+Telangana,Rural,5,Low,Basic,4,6.5,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.38
+West Bengal,Urban,5,Middle,Intermediate,9,5.4,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,1.05
+Maharashtra,Urban,4,Middle,Intermediate,15,4.4,0,Medium,Formal E-Waste Collection,Medium,4.11
+Odisha,Urban,3,Upper-Middle,Intermediate,13,3.9,0,Medium,Gave away for reuse,Medium,2.92
+Rajasthan,Urban,5,Upper-Middle,Advanced,19,2.6,0,Medium,Stored Indefinitely,Low,0.0
+Maharashtra,Urban,4,Middle,Basic,14,4.1,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,3.86
+Jharkhand,Urban,5,Low,Basic,8,5.5,0,Low,Formal E-Waste Collection,Low,0.76
+Punjab,Rural,8,Low,Basic,4,7.3,3,Low,Formal E-Waste Collection,Low,0.0
+Madhya Pradesh,Urban,8,Low,Basic,5,6.8,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.52
+Andhra Pradesh,Urban,6,Middle,Intermediate,8,4.6,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,1.94
+Punjab,Urban,3,High,Advanced,24,2.6,0,High,Sold to Kabadiwala/Scrap Dealer,High,15.62
+Jharkhand,Rural,8,Low,Basic,4,9.4,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Odisha,Rural,5,Low,Basic,4,7.9,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Delhi,Urban,4,High,Advanced,25,2.6,0,High,Sold to Kabadiwala/Scrap Dealer,Low,18.35
+Madhya Pradesh,Urban,3,Upper-Middle,Intermediate,13,3.3,0,High,Sold to Kabadiwala/Scrap Dealer,Medium,7.51
+Jharkhand,Rural,3,Upper-Middle,Basic,16,4.6,0,Medium,Thrown in General Trash,Low,3.27
+Haryana,Urban,3,High,Advanced,26,1.9,0,High,Formal E-Waste Collection,Medium,22.56
+Madhya Pradesh,Urban,8,Low,Basic,7,6.7,3,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+West Bengal,Urban,5,Middle,Intermediate,8,5.0,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,1.1
+Andhra Pradesh,Urban,5,Low,Basic,6,6.9,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.67
+Madhya Pradesh,Urban,7,Low,Basic,11,6.9,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.33
+Maharashtra,Urban,8,Low,Basic,9,7.6,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.66
+Bihar,Rural,8,Low,Basic,7,7.3,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Maharashtra,Urban,7,Low,Basic,10,5.6,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.29
+Andhra Pradesh,Urban,4,High,Advanced,24,2.6,1,High,Sold to Kabadiwala/Scrap Dealer,Medium,18.71
+Jharkhand,Urban,6,Low,Basic,8,5.4,1,Low,Stored Indefinitely,Low,0.0
+Karnataka,Rural,4,High,Basic,26,4.5,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,6.83
+Rajasthan,Urban,5,Middle,Basic,10,4.1,1,Medium,Thrown in General Trash,Low,2.49
+West Bengal,Rural,6,Low,Basic,6,8.8,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Haryana,Rural,7,Low,Basic,8,6.9,2,Low,Thrown in General Trash,Low,0.0
+Uttar Pradesh,Urban,2,High,Advanced,33,2.8,0,High,Sold to Kabadiwala/Scrap Dealer,Medium,20.11
+Uttar Pradesh,Urban,4,Upper-Middle,Advanced,16,3.5,0,Medium,Stored Indefinitely,Medium,0.0
+Gujarat,Urban,5,Low,Basic,5,6.8,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.38
+Karnataka,Urban,4,Middle,Intermediate,15,4.9,0,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,3.53
+Delhi,Urban,7,Low,Basic,5,5.4,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.52
+Maharashtra,Urban,5,Upper-Middle,Advanced,12,2.6,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,3.22
+Kerala,Urban,4,Middle,Basic,13,5.3,1,Medium,Sold to Kabadiwala/Scrap Dealer,Low,1.87
+Delhi,Urban,4,Middle,Intermediate,11,4.7,1,Medium,Thrown in General Trash,Low,2.0
+Madhya Pradesh,Urban,7,Low,Basic,8,6.4,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.04
+Andhra Pradesh,Urban,8,Low,Basic,10,7.1,3,Low,Formal E-Waste Collection,Low,0.0
+Bihar,Rural,6,Low,Basic,4,8.8,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Jharkhand,Rural,4,Middle,Basic,5,6.0,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Uttar Pradesh,Urban,4,Middle,Intermediate,15,5.3,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,3.2
+West Bengal,Urban,5,Middle,Advanced,8,4.4,1,Medium,Formal E-Waste Collection,High,1.54
+Delhi,Urban,6,Low,Basic,10,6.9,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,1.04
+Kerala,Rural,7,Low,Basic,4,6.8,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+West Bengal,Urban,3,Upper-Middle,Intermediate,20,3.1,0,Medium,Thrown in General Trash,Medium,7.79
+Karnataka,Urban,7,Low,Basic,9,6.7,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Bihar,Urban,6,Middle,Intermediate,8,4.5,0,Medium,Formal E-Waste Collection,Medium,2.11
+Tamil Nadu,Urban,6,Low,Basic,7,7.2,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.77
+Jharkhand,Rural,7,Low,Basic,6,7.7,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.46
+Karnataka,Rural,5,Upper-Middle,Basic,13,5.1,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.89
+Kerala,Urban,8,Low,Basic,9,7.7,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Jharkhand,Urban,5,Middle,Basic,10,3.6,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,2.54
+Karnataka,Urban,6,Low,Basic,7,6.7,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Madhya Pradesh,Urban,6,Middle,Intermediate,8,4.8,2,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,0.41
+Maharashtra,Urban,8,Low,Basic,5,6.6,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Odisha,Urban,5,Middle,Intermediate,13,4.6,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,2.96
+Madhya Pradesh,Urban,6,Middle,Intermediate,12,3.6,1,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,2.51
+Gujarat,Rural,8,Low,Basic,5,9.4,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Punjab,Rural,6,Middle,Basic,6,6.9,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.77
+Rajasthan,Urban,6,Low,Basic,5,6.7,2,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Bihar,Rural,5,Middle,Basic,9,5.4,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.24
+Delhi,Urban,5,Middle,Advanced,9,4.5,0,Medium,Formal E-Waste Collection,High,2.06
+Odisha,Urban,5,Low,Basic,6,7.0,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Rajasthan,Rural,3,Upper-Middle,Basic,16,4.7,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,3.53
+Rajasthan,Urban,3,Upper-Middle,Intermediate,16,3.0,0,High,Formal E-Waste Collection,Medium,9.42
+Telangana,Rural,3,Upper-Middle,Basic,14,4.5,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,2.55
+Gujarat,Rural,8,Low,Basic,7,7.3,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.53
+Jharkhand,Urban,7,Low,Basic,6,5.6,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Delhi,Rural,7,Low,Basic,5,8.2,2,Low,Gave away for reuse,Low,0.0
+Uttar Pradesh,Rural,5,Middle,Basic,11,6.6,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.2
+Andhra Pradesh,Rural,6,Middle,Basic,5,6.8,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.49
+Odisha,Rural,4,Middle,Basic,5,6.9,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.4
+Madhya Pradesh,Urban,5,Middle,Basic,12,5.1,0,Medium,Sold to Kabadiwala/Scrap Dealer,Low,2.94
+Rajasthan,Rural,7,Low,Basic,6,8.2,1,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.0
+Jharkhand,Urban,5,Middle,Basic,9,4.5,1,Medium,Sold to Kabadiwala/Scrap Dealer,Medium,1.34
+Uttar Pradesh,Urban,5,Low,Basic,8,5.1,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,1.03
+Odisha,Rural,7,Low,Basic,5,8.8,0,Low,Sold to Kabadiwala/Scrap Dealer,Low,0.39
+Haryana,Urban,6,Middle,Intermediate,12,4.9,2,Medium,Sold to Kabadiwala/Scrap Dealer,Low,1.4
+Rajasthan,Urban,5,Low,Basic,6,6.7,0,Low,Formal E-Waste Collection,Low,0.62

@@ -1,0 +1,62 @@
+{% extends "layout.html" %}
+{% block content %}
+    <h2>Predict Household E-Waste Generation</h2>
+    <p>Use our AI model, trained on household data from across India, to forecast annual e-waste generation based on key socio-economic and behavioral factors.</p>
+    
+    <form method="POST" class="predict-form">
+        <div class="form-grid">
+            <div class="form-group">
+                <label for="state">State:</label>
+                <select name="state" required>{% for s in options.states %}<option value="{{ s }}">{{ s }}</option>{% endfor %}</select>
+            </div>
+            <div class="form-group">
+                <label for="locality_type">Locality Type:</label>
+                <select name="locality_type" required>{% for l in options.localities %}<option value="{{ l }}">{{ l }}</option>{% endfor %}</select>
+            </div>
+            <div class="form-group">
+                <label for="household_size">Household Size:</label>
+                <input type="number" name="household_size" value="4" required>
+            </div>
+            <div class="form-group">
+                <label for="income_bracket">Income Bracket:</label>
+                <select name="income_bracket" required>{% for i in options.incomes %}<option value="{{ i }}">{{ i }}</option>{% endfor %}</select>
+            </div>
+            <div class="form-group">
+                <label for="e_literacy_level">E-Literacy Level:</label>
+                <select name="e_literacy_level" required>{% for el in options.e_literacies %}<option value="{{ el }}">{{ el }}</option>{% endfor %}</select>
+            </div>
+            <div class="form-group">
+                <label for="total_devices_owned">Total Devices Owned:</label>
+                <input type="number" name="total_devices_owned" value="10" required>
+            </div>
+            <div class="form-group">
+                <label for="avg_device_age_years">Avg. Device Age (Years):</label>
+                <input type="number" step="0.1" name="avg_device_age_years" value="3.5" required>
+            </div>
+            <div class="form-group">
+                <label for="broken_devices_stored">Broken Devices Stored:</label>
+                <input type="number" name="broken_devices_stored" value="1" required>
+            </div>
+            <div class="form-group">
+                <label for="upgrade_tendency">Upgrade Tendency:</label>
+                <select name="upgrade_tendency" required>{% for u in options.tendencies %}<option value="{{ u }}">{{ u }}</option>{% endfor %}</select>
+            </div>
+            <div class="form-group">
+                <label for="disposal_method">Primary Disposal Method:</label>
+                <select name="disposal_method" required>{% for d in options.disposals %}<option value="{{ d }}">{{ d }}</option>{% endfor %}</select>
+            </div>
+            <div class="form-group">
+                <label for="recycling_awareness">Recycling Awareness:</label>
+                <select name="recycling_awareness" required>{% for r in options.awareness %}<option value="{{ r }}">{{ r }}</option>{% endfor %}</select>
+            </div>
+        </div>
+        <button type="submit">Predict Generation</button>
+    </form>
+
+    {% if prediction %}
+        <div class="result">
+            <h3>Predicted Annual E-Waste Generation:</h3>
+            <p>{{ prediction }}</p>
+        </div>
+    {% endif %}
+{% endblock %}
