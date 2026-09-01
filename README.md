@@ -2,12 +2,12 @@
 
 A Flask-based web application for e-waste awareness, household e-waste prediction, and recycling traceability demonstrations.
 
-The platform provides:
+The platform includes:
 
-- Interactive charts showing e-waste disposal methods and average annual e-waste by income bracket.
-- An awareness quiz about responsible e-waste disposal.
-- A machine-learning prediction form for estimating household e-waste generation in kilograms per year.
-- A traceability interface for uploading an e-waste image and generating a demonstration tracking result.
+- Interactive charts for e-waste disposal methods and average annual e-waste by income bracket
+- An awareness quiz about responsible e-waste disposal
+- A machine-learning form for predicting annual household e-waste generation
+- A browser-based traceability demonstration for uploaded e-waste images
 
 ## Tech Stack
 
@@ -17,29 +17,8 @@ The platform provides:
 - **Machine learning:** scikit-learn
 - **Model serialization:** joblib
 - **Visualization:** Plotly, Matplotlib, Seaborn
-- **Templates:** Jinja2/HTML
+- **Templating:** Jinja2 and HTML
 - **Styling:** CSS
-
-## Project Structure
-
-```text
-ewaste_platform/
-├── app.py                         # Flask application and routes
-├── model.py                       # Model training and evaluation script
-├── requirements.txt               # Python dependencies
-├── dataset/
-│   └── e-waste_final.csv          # Training and application dataset
-├── models/
-│   └── ewaste_predictor.joblib    # Serialized prediction pipeline
-├── static/
-│   └── css/
-│       └── style.css              # Application styles
-└── templates/
-    ├── index.html                 # Awareness dashboard and quiz
-    ├── layout.html                # Shared page layout
-    ├── predict.html               # Prediction form
-    └── traceability.html          # Traceability demonstration page
-```
 
 ## Getting Started
 
@@ -91,71 +70,34 @@ From the `ewaste_platform` directory, start the Flask application:
 python app.py
 ```
 
-The application runs with Flask's debug mode enabled through the `app.run(debug=True)` configuration.
+The application starts with Flask debug mode enabled. Open the local address reported by Flask in a browser.
 
-Open the local address reported by Flask in a browser.
+The application loads the dataset and serialized model relative to the application directory. If either required asset is missing, the application prints an error and exits.
 
-## Machine-Learning Model
-
-The prediction pipeline is trained by `model.py` using the dataset in `dataset/e-waste_final.csv`.
-
-### Features
-
-The model uses the following input features:
-
-- `state`
-- `locality_type`
-- `household_size`
-- `income_bracket`
-- `e_literacy_level`
-- `total_devices_owned`
-- `avg_device_age_years`
-- `broken_devices_stored`
-- `upgrade_tendency`
-- `disposal_method`
-- `recycling_awareness`
-
-The prediction target is:
-
-- `ewaste_kg_per_year`
-
-Categorical features are one-hot encoded, while the remaining numeric features pass through the preprocessing pipeline. The model is a `RandomForestRegressor` with 100 estimators and `random_state=42`.
-
-### Retrain the Model
-
-From the `ewaste_platform` directory:
-
-```bash
-python model.py
-```
-
-The script:
-
-1. Loads the CSV dataset.
-2. Splits the data into training and test sets.
-3. Trains the Random Forest regression pipeline.
-4. Prints RMSE and R-squared metrics.
-5. Displays actual-versus-predicted and residual-distribution charts.
-6. Saves the trained model to:
-
-   ```text
-   models/ewaste_predictor.joblib
-   ```
-
-## Application Pages and Routes
+## Application Routes
 
 | Method | Path | Description |
 |---|---|---|
-| `GET` | `/` | Displays the awareness hub, Plotly charts, and e-waste disposal quiz. |
-| `GET` | `/predict` | Displays the household e-waste prediction form. |
-| `POST` | `/predict` | Predicts annual household e-waste generation from submitted form data. |
-| `GET` | `/traceability` | Displays the recycling traceability demonstration page. |
+| `GET` | `/` | Displays the awareness hub, charts, and e-waste disposal quiz |
+| `GET` | `/predict` | Displays the household e-waste prediction form |
+| `POST` | `/predict` | Predicts annual household e-waste generation from submitted form data |
+| `GET` | `/traceability` | Displays the recycling traceability demonstration |
 
-## Prediction Inputs
+## Awareness Dashboard
 
-The `/predict` form accepts the following values:
+The home page provides:
 
-| Input | Type |
+- A Plotly pie chart showing the frequency of e-waste disposal methods
+- A Plotly bar chart showing average annual household e-waste by income bracket
+- A client-side quiz about the recommended disposal method for an old mobile phone
+
+Plotly is loaded in the browser from the Plotly CDN.
+
+## Household E-Waste Prediction
+
+The `/predict` form accepts the following inputs:
+
+| Input | Type or values |
 |---|---|
 | State | Dataset-derived selection |
 | Locality type | Dataset-derived selection |
@@ -169,42 +111,97 @@ The `/predict` form accepts the following values:
 | Primary disposal method | Dataset-derived selection |
 | Recycling awareness | Low, Medium, or High |
 
-Successful predictions are displayed in the format:
+Successful predictions are displayed in kilograms per year:
 
 ```text
 <number> kg/year
 ```
 
-## Awareness Dashboard
+### Model Details
 
-The home page generates two Plotly charts from the dataset:
+The prediction pipeline uses:
 
-- Frequency of e-waste disposal methods.
-- Average annual household e-waste by income bracket.
+- One-hot encoding for categorical features
+- A `StandardScaler` configured for sparse data
+- A `RandomForestRegressor` with 100 estimators
+- `random_state=42`
 
-It also includes a client-side quiz about the recommended disposal method for an old mobile phone.
+The model features are:
 
-Plotly is loaded in the browser from the Plotly CDN.
+- `state`
+- `locality_type`
+- `household_size`
+- `income_bracket`
+- `e_literacy_level`
+- `total_devices_owned`
+- `avg_device_age_years`
+- `broken_devices_stored`
+- `upgrade_tendency`
+- `disposal_method`
+- `recycling_awareness`
+
+The prediction target is `ewaste_kg_per_year`.
+
+## Retrain the Model
+
+From the `ewaste_platform` directory, run:
+
+```bash
+python model.py
+```
+
+The training script:
+
+1. Loads `dataset/e-waste_final.csv`
+2. Splits the data into training and test sets
+3. Trains the Random Forest regression pipeline
+4. Prints RMSE and R-squared metrics
+5. Displays actual-versus-predicted and residual-distribution charts
+6. Saves the trained model to:
+
+   ```text
+   models/ewaste_predictor.joblib
+   ```
+
+The script creates the `models` directory if it does not already exist.
 
 ## Traceability Demonstration
 
-The `/traceability` page contains an image upload form. Its JavaScript currently uses a mock identification flow with predefined items such as smartphones, laptops, CRT monitors, printers, keyboards, and refrigerators.
+The `/traceability` page provides an image upload interface. The current implementation does not send the image to the Flask server or perform image classification.
 
-The implementation generates a random item and tracking ID in the browser rather than uploading the image to a server or running an image-classification model.
+Instead, the browser uses predefined e-waste items and statuses to generate a demonstration result. It randomly selects:
 
-> **Current limitation:** The traceability script references a `statuses` variable that is not defined in the provided code. As a result, submitting an image may raise a JavaScript error before the tracking result is displayed.
+- An item, such as a smartphone, laptop, CRT monitor, printer, keyboard, or refrigerator
+- A recycling status
+- A tracking ID beginning with `EW-`
 
-## Data and Model Assets
+The image must be selected before submitting the form.
 
-The Flask application loads these files relative to the application directory:
+## Project Structure
 
 ```text
-dataset/e-waste_final.csv
-models/ewaste_predictor.joblib
+ewaste_platform/
+├── app.py                          # Flask application and routes
+├── model.py                        # Model training and evaluation script
+├── requirements.txt                # Python dependencies
+├── dataset/
+│   └── e-waste_final.csv           # Dataset used by the application and model
+├── models/
+│   └── ewaste_predictor.joblib     # Serialized prediction pipeline
+├── static/
+│   └── css/
+│       └── style.css               # Application styles
+└── templates/
+    ├── index.html                  # Awareness dashboard and quiz
+    ├── layout.html                 # Shared page layout
+    ├── predict.html                # Prediction form
+    └── traceability.html           # Traceability demonstration page
 ```
 
-If either file is missing, the application prints an asset-loading error and exits.
+## Testing
+
+No automated test suite or test configuration is included in the repository content.
 
 ## License
 
-No license file or license declaration is included in the provided repository content.
+No license file or license declaration is included in the repository content.
